@@ -1,0 +1,1485 @@
+[youtube:tab] Extracting URL: https://www.youtube.com/@loshijos_delpueblopodcast/videos
+[youtube:tab] @loshijos_delpueblopodcast/videos: Downloading webpage
+[download] Downloading playlist: Los HDP el podcast - Videos
+[youtube:tab] Sleeping 0.5 seconds ...
+[youtube:tab] UC8_bvhq1cv1PAm7kws4ZGNA page 1: Downloading API JSON
+[youtube:tab] Sleeping 0.5 seconds ...
+[youtube:tab] UC8_bvhq1cv1PAm7kws4ZGNA page 2: Downloading API JSON
+[youtube:tab] Sleeping 0.5 seconds ...
+[youtube:tab] UC8_bvhq1cv1PAm7kws4ZGNA page 3: Downloading API JSON
+[info] Writing playlist metadata as JSON to: meta_videos/NA_UC8_bvhq1cv1PAm7kws4ZGNA.info.json
+[info] Downloading playlist thumbnail avatar_uncropped ...
+[info] Writing playlist thumbnail avatar_uncropped to: meta_videos/NA_UC8_bvhq1cv1PAm7kws4ZGNA.jpg
+[youtube:tab] Playlist Los HDP el podcast - Videos: Downloading 98 items of 98
+[download] Downloading item 1 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jroRHODPb44
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jroRHODPb44: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jroRHODPb44: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jroRHODPb44: Downloading m3u8 information
+[info] jroRHODPb44: Downloading 1 format(s): 399+251-3
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20261014_jroRHODPb44.webp
+[info] Writing video metadata as JSON to: meta_videos/20261014_jroRHODPb44.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20261014_jroRHODPb44.webp" to jpg
+Deleting original file meta_videos/20261014_jroRHODPb44.webp (pass -k to keep)
+[download] Downloading item 2 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=CVeZOSkiSoI
+[youtube] Sleeping 0.5 seconds ...
+[youtube] CVeZOSkiSoI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] CVeZOSkiSoI: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] CVeZOSkiSoI: Downloading m3u8 information
+[info] CVeZOSkiSoI: Downloading 1 format(s): 399+251-2
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20261013_CVeZOSkiSoI.webp
+[info] Writing video metadata as JSON to: meta_videos/20261013_CVeZOSkiSoI.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20261013_CVeZOSkiSoI.webp" to jpg
+Deleting original file meta_videos/20261013_CVeZOSkiSoI.webp (pass -k to keep)
+[download] Downloading item 3 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=r4vwwfEi7Ik
+[youtube] Sleeping 0.5 seconds ...
+[youtube] r4vwwfEi7Ik: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] r4vwwfEi7Ik: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] r4vwwfEi7Ik: Downloading m3u8 information
+[info] r4vwwfEi7Ik: Downloading 1 format(s): 399+251-3
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20261010_r4vwwfEi7Ik.webp
+[info] Writing video metadata as JSON to: meta_videos/20261010_r4vwwfEi7Ik.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20261010_r4vwwfEi7Ik.webp" to jpg
+Deleting original file meta_videos/20261010_r4vwwfEi7Ik.webp (pass -k to keep)
+[download] Downloading item 4 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=eaHWYoPZ0DE
+[youtube] Sleeping 0.5 seconds ...
+[youtube] eaHWYoPZ0DE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] eaHWYoPZ0DE: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] eaHWYoPZ0DE: Downloading m3u8 information
+[info] eaHWYoPZ0DE: Downloading 1 format(s): 137+251-2
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20261008_eaHWYoPZ0DE.webp
+[info] Writing video metadata as JSON to: meta_videos/20261008_eaHWYoPZ0DE.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20261008_eaHWYoPZ0DE.webp" to jpg
+Deleting original file meta_videos/20261008_eaHWYoPZ0DE.webp (pass -k to keep)
+[download] Downloading item 5 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=i_glzktZG3U
+[youtube] Sleeping 0.5 seconds ...
+[youtube] i_glzktZG3U: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] i_glzktZG3U: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] i_glzktZG3U: Downloading m3u8 information
+[info] i_glzktZG3U: Downloading 1 format(s): 399+251-1
+[info] Downloading video thumbnail 43 ...
+[info] Writing video thumbnail 43 to: meta_videos/20261004_i_glzktZG3U.webp
+[info] Writing video metadata as JSON to: meta_videos/20261004_i_glzktZG3U.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20261004_i_glzktZG3U.webp" to jpg
+Deleting original file meta_videos/20261004_i_glzktZG3U.webp (pass -k to keep)
+[download] Downloading item 6 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=UXxg9505apw
+[youtube] Sleeping 0.5 seconds ...
+[youtube] UXxg9505apw: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] UXxg9505apw: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] UXxg9505apw: Downloading m3u8 information
+[info] UXxg9505apw: Downloading 1 format(s): 399+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260930_UXxg9505apw.webp
+[info] Writing video metadata as JSON to: meta_videos/20260930_UXxg9505apw.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260930_UXxg9505apw.webp" to jpg
+Deleting original file meta_videos/20260930_UXxg9505apw.webp (pass -k to keep)
+[download] Downloading item 7 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vwlRE27ZafY
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vwlRE27ZafY: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vwlRE27ZafY: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vwlRE27ZafY: Downloading m3u8 information
+[info] vwlRE27ZafY: Downloading 1 format(s): 399+251-3
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260923_vwlRE27ZafY.webp
+[info] Writing video metadata as JSON to: meta_videos/20260923_vwlRE27ZafY.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260923_vwlRE27ZafY.webp" to jpg
+Deleting original file meta_videos/20260923_vwlRE27ZafY.webp (pass -k to keep)
+[download] Downloading item 8 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7uGG6PUk4Qk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 7uGG6PUk4Qk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 7uGG6PUk4Qk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 7uGG6PUk4Qk: Downloading m3u8 information
+[info] 7uGG6PUk4Qk: Downloading 1 format(s): 399+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260815_7uGG6PUk4Qk.webp
+[info] Writing video metadata as JSON to: meta_videos/20260815_7uGG6PUk4Qk.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260815_7uGG6PUk4Qk.webp" to jpg
+Deleting original file meta_videos/20260815_7uGG6PUk4Qk.webp (pass -k to keep)
+[download] Downloading item 9 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=WeDRzqJLA2c
+[youtube] Sleeping 0.5 seconds ...
+[youtube] WeDRzqJLA2c: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] WeDRzqJLA2c: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] WeDRzqJLA2c: Downloading m3u8 information
+[info] WeDRzqJLA2c: Downloading 1 format(s): 137+251-3
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260730_WeDRzqJLA2c.webp
+[info] Writing video metadata as JSON to: meta_videos/20260730_WeDRzqJLA2c.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260730_WeDRzqJLA2c.webp" to jpg
+Deleting original file meta_videos/20260730_WeDRzqJLA2c.webp (pass -k to keep)
+[download] Downloading item 10 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=qdTuDp-dNvk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] qdTuDp-dNvk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] qdTuDp-dNvk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] qdTuDp-dNvk: Downloading m3u8 information
+[info] qdTuDp-dNvk: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260730_qdTuDp-dNvk.webp
+[info] Writing video metadata as JSON to: meta_videos/20260730_qdTuDp-dNvk.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260730_qdTuDp-dNvk.webp" to jpg
+Deleting original file meta_videos/20260730_qdTuDp-dNvk.webp (pass -k to keep)
+[download] Downloading item 11 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1PLziNw51T0
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1PLziNw51T0: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1PLziNw51T0: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1PLziNw51T0: Downloading m3u8 information
+[info] 1PLziNw51T0: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260723_1PLziNw51T0.webp
+[info] Writing video metadata as JSON to: meta_videos/20260723_1PLziNw51T0.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260723_1PLziNw51T0.webp" to jpg
+Deleting original file meta_videos/20260723_1PLziNw51T0.webp (pass -k to keep)
+[download] Downloading item 12 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JXcntnvpjFM
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JXcntnvpjFM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JXcntnvpjFM: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JXcntnvpjFM: Downloading m3u8 information
+[info] JXcntnvpjFM: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260711_JXcntnvpjFM.webp
+[info] Writing video metadata as JSON to: meta_videos/20260711_JXcntnvpjFM.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260711_JXcntnvpjFM.webp" to jpg
+Deleting original file meta_videos/20260711_JXcntnvpjFM.webp (pass -k to keep)
+[download] Downloading item 13 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=OeqZ4Hflo9A
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OeqZ4Hflo9A: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OeqZ4Hflo9A: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OeqZ4Hflo9A: Downloading m3u8 information
+[info] OeqZ4Hflo9A: Downloading 1 format(s): 399+251-2
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260614_OeqZ4Hflo9A.webp
+[info] Writing video metadata as JSON to: meta_videos/20260614_OeqZ4Hflo9A.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260614_OeqZ4Hflo9A.webp" to jpg
+Deleting original file meta_videos/20260614_OeqZ4Hflo9A.webp (pass -k to keep)
+[download] Downloading item 14 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=OD4M0oCwijY
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OD4M0oCwijY: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OD4M0oCwijY: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OD4M0oCwijY: Downloading m3u8 information
+[info] OD4M0oCwijY: Downloading 1 format(s): 399+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260407_OD4M0oCwijY.webp
+[info] Writing video metadata as JSON to: meta_videos/20260407_OD4M0oCwijY.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260407_OD4M0oCwijY.webp" to jpg
+Deleting original file meta_videos/20260407_OD4M0oCwijY.webp (pass -k to keep)
+[download] Downloading item 15 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rYNusaT4cF4
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rYNusaT4cF4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rYNusaT4cF4: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rYNusaT4cF4: Downloading m3u8 information
+[info] rYNusaT4cF4: Downloading 1 format(s): 399+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260331_rYNusaT4cF4.webp
+[info] Writing video metadata as JSON to: meta_videos/20260331_rYNusaT4cF4.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260331_rYNusaT4cF4.webp" to jpg
+Deleting original file meta_videos/20260331_rYNusaT4cF4.webp (pass -k to keep)
+[download] Downloading item 16 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pUoxwrDdGH8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] pUoxwrDdGH8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] pUoxwrDdGH8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] pUoxwrDdGH8: Downloading m3u8 information
+[info] pUoxwrDdGH8: Downloading 1 format(s): 399+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260320_pUoxwrDdGH8.webp
+[info] Writing video metadata as JSON to: meta_videos/20260320_pUoxwrDdGH8.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260320_pUoxwrDdGH8.webp" to jpg
+Deleting original file meta_videos/20260320_pUoxwrDdGH8.webp (pass -k to keep)
+[download] Downloading item 17 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=SKpejiCpDg4
+[youtube] Sleeping 0.5 seconds ...
+[youtube] SKpejiCpDg4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] SKpejiCpDg4: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] SKpejiCpDg4: Downloading m3u8 information
+[info] SKpejiCpDg4: Downloading 1 format(s): 399+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260306_SKpejiCpDg4.webp
+[info] Writing video metadata as JSON to: meta_videos/20260306_SKpejiCpDg4.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260306_SKpejiCpDg4.webp" to jpg
+Deleting original file meta_videos/20260306_SKpejiCpDg4.webp (pass -k to keep)
+[download] Downloading item 18 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=lAsSu1QXXB0
+[youtube] Sleeping 0.5 seconds ...
+[youtube] lAsSu1QXXB0: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] lAsSu1QXXB0: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] lAsSu1QXXB0: Downloading m3u8 information
+[info] lAsSu1QXXB0: Downloading 1 format(s): 399+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260225_lAsSu1QXXB0.webp
+[info] Writing video metadata as JSON to: meta_videos/20260225_lAsSu1QXXB0.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260225_lAsSu1QXXB0.webp" to jpg
+Deleting original file meta_videos/20260225_lAsSu1QXXB0.webp (pass -k to keep)
+[download] Downloading item 19 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gpbCXEMuzO8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gpbCXEMuzO8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gpbCXEMuzO8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gpbCXEMuzO8: Downloading m3u8 information
+[info] gpbCXEMuzO8: Downloading 1 format(s): 399+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260214_gpbCXEMuzO8.webp
+[info] Writing video metadata as JSON to: meta_videos/20260214_gpbCXEMuzO8.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260214_gpbCXEMuzO8.webp" to jpg
+Deleting original file meta_videos/20260214_gpbCXEMuzO8.webp (pass -k to keep)
+[download] Downloading item 20 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jiOlfrkkQSQ
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jiOlfrkkQSQ: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jiOlfrkkQSQ: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jiOlfrkkQSQ: Downloading m3u8 information
+[info] jiOlfrkkQSQ: Downloading 1 format(s): 399+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260205_jiOlfrkkQSQ.webp
+[info] Writing video metadata as JSON to: meta_videos/20260205_jiOlfrkkQSQ.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260205_jiOlfrkkQSQ.webp" to jpg
+Deleting original file meta_videos/20260205_jiOlfrkkQSQ.webp (pass -k to keep)
+[download] Downloading item 21 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=G4c8YBLnNXU
+[youtube] Sleeping 0.5 seconds ...
+[youtube] G4c8YBLnNXU: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] G4c8YBLnNXU: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] G4c8YBLnNXU: Downloading m3u8 information
+[info] G4c8YBLnNXU: Downloading 1 format(s): 399+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20260112_G4c8YBLnNXU.webp
+[info] Writing video metadata as JSON to: meta_videos/20260112_G4c8YBLnNXU.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20260112_G4c8YBLnNXU.webp" to jpg
+Deleting original file meta_videos/20260112_G4c8YBLnNXU.webp (pass -k to keep)
+[download] Downloading item 22 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=3Sf_5Cd5_XA
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 3Sf_5Cd5_XA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 3Sf_5Cd5_XA: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 3Sf_5Cd5_XA: Downloading m3u8 information
+[info] 3Sf_5Cd5_XA: Downloading 1 format(s): 399+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251230_3Sf_5Cd5_XA.webp
+[info] Writing video metadata as JSON to: meta_videos/20251230_3Sf_5Cd5_XA.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251230_3Sf_5Cd5_XA.webp" to jpg
+Deleting original file meta_videos/20251230_3Sf_5Cd5_XA.webp (pass -k to keep)
+[download] Downloading item 23 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=o48kJ3RfrQA
+[youtube] Sleeping 0.5 seconds ...
+[youtube] o48kJ3RfrQA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] o48kJ3RfrQA: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] o48kJ3RfrQA: Downloading m3u8 information
+[info] o48kJ3RfrQA: Downloading 1 format(s): 248+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251229_o48kJ3RfrQA.webp
+[info] Writing video metadata as JSON to: meta_videos/20251229_o48kJ3RfrQA.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251229_o48kJ3RfrQA.webp" to jpg
+Deleting original file meta_videos/20251229_o48kJ3RfrQA.webp (pass -k to keep)
+[download] Downloading item 24 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gLUipPOFji8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gLUipPOFji8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gLUipPOFji8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gLUipPOFji8: Downloading m3u8 information
+[info] gLUipPOFji8: Downloading 1 format(s): 248+251-2
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251219_gLUipPOFji8.webp
+[info] Writing video metadata as JSON to: meta_videos/20251219_gLUipPOFji8.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251219_gLUipPOFji8.webp" to jpg
+Deleting original file meta_videos/20251219_gLUipPOFji8.webp (pass -k to keep)
+[download] Downloading item 25 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=cAhEDuLkdqE
+[youtube] Sleeping 0.5 seconds ...
+[youtube] cAhEDuLkdqE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] cAhEDuLkdqE: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] cAhEDuLkdqE: Downloading m3u8 information
+[info] cAhEDuLkdqE: Downloading 1 format(s): 248+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251216_cAhEDuLkdqE.webp
+[info] Writing video metadata as JSON to: meta_videos/20251216_cAhEDuLkdqE.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251216_cAhEDuLkdqE.webp" to jpg
+Deleting original file meta_videos/20251216_cAhEDuLkdqE.webp (pass -k to keep)
+[download] Downloading item 26 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=b4eZWQ4jW8Y
+[youtube] Sleeping 0.5 seconds ...
+[youtube] b4eZWQ4jW8Y: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] b4eZWQ4jW8Y: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] b4eZWQ4jW8Y: Downloading m3u8 information
+[info] b4eZWQ4jW8Y: Downloading 1 format(s): 399+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251209_b4eZWQ4jW8Y.webp
+[info] Writing video metadata as JSON to: meta_videos/20251209_b4eZWQ4jW8Y.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251209_b4eZWQ4jW8Y.webp" to jpg
+Deleting original file meta_videos/20251209_b4eZWQ4jW8Y.webp (pass -k to keep)
+[download] Downloading item 27 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1Q-CdNvbLl8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1Q-CdNvbLl8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1Q-CdNvbLl8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1Q-CdNvbLl8: Downloading m3u8 information
+[info] 1Q-CdNvbLl8: Downloading 1 format(s): 399+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251202_1Q-CdNvbLl8.webp
+[info] Writing video metadata as JSON to: meta_videos/20251202_1Q-CdNvbLl8.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251202_1Q-CdNvbLl8.webp" to jpg
+Deleting original file meta_videos/20251202_1Q-CdNvbLl8.webp (pass -k to keep)
+[download] Downloading item 28 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4FOHGqkaqEA
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4FOHGqkaqEA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4FOHGqkaqEA: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4FOHGqkaqEA: Downloading m3u8 information
+[info] 4FOHGqkaqEA: Downloading 1 format(s): 399+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251201_4FOHGqkaqEA.webp
+[info] Writing video metadata as JSON to: meta_videos/20251201_4FOHGqkaqEA.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251201_4FOHGqkaqEA.webp" to jpg
+Deleting original file meta_videos/20251201_4FOHGqkaqEA.webp (pass -k to keep)
+[download] Downloading item 29 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=y7iPHfBVYak
+[youtube] Sleeping 0.5 seconds ...
+[youtube] y7iPHfBVYak: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] y7iPHfBVYak: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] y7iPHfBVYak: Downloading m3u8 information
+[info] y7iPHfBVYak: Downloading 1 format(s): 248+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251128_y7iPHfBVYak.webp
+[info] Writing video metadata as JSON to: meta_videos/20251128_y7iPHfBVYak.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251128_y7iPHfBVYak.webp" to jpg
+Deleting original file meta_videos/20251128_y7iPHfBVYak.webp (pass -k to keep)
+[download] Downloading item 30 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=mZ1zqn-gWf8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] mZ1zqn-gWf8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] mZ1zqn-gWf8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] mZ1zqn-gWf8: Downloading m3u8 information
+[info] mZ1zqn-gWf8: Downloading 1 format(s): 248+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251126_mZ1zqn-gWf8.webp
+[info] Writing video metadata as JSON to: meta_videos/20251126_mZ1zqn-gWf8.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251126_mZ1zqn-gWf8.webp" to jpg
+Deleting original file meta_videos/20251126_mZ1zqn-gWf8.webp (pass -k to keep)
+[download] Downloading item 31 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=zO17iMQi1ro
+[youtube] Sleeping 0.5 seconds ...
+[youtube] zO17iMQi1ro: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] zO17iMQi1ro: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] zO17iMQi1ro: Downloading m3u8 information
+[info] zO17iMQi1ro: Downloading 1 format(s): 248+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251121_zO17iMQi1ro.webp
+[info] Writing video metadata as JSON to: meta_videos/20251121_zO17iMQi1ro.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251121_zO17iMQi1ro.webp" to jpg
+Deleting original file meta_videos/20251121_zO17iMQi1ro.webp (pass -k to keep)
+[download] Downloading item 32 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=9v9SIdP7Dew
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 9v9SIdP7Dew: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 9v9SIdP7Dew: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 9v9SIdP7Dew: Downloading m3u8 information
+[info] 9v9SIdP7Dew: Downloading 1 format(s): 248+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251119_9v9SIdP7Dew.webp
+[info] Writing video metadata as JSON to: meta_videos/20251119_9v9SIdP7Dew.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251119_9v9SIdP7Dew.webp" to jpg
+Deleting original file meta_videos/20251119_9v9SIdP7Dew.webp (pass -k to keep)
+[download] Downloading item 33 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=EOogVkQxOk8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] EOogVkQxOk8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] EOogVkQxOk8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] EOogVkQxOk8: Downloading m3u8 information
+[info] EOogVkQxOk8: Downloading 1 format(s): 248+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251118_EOogVkQxOk8.webp
+[info] Writing video metadata as JSON to: meta_videos/20251118_EOogVkQxOk8.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251118_EOogVkQxOk8.webp" to jpg
+Deleting original file meta_videos/20251118_EOogVkQxOk8.webp (pass -k to keep)
+[download] Downloading item 34 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5dsCtEyaShI
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 5dsCtEyaShI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 5dsCtEyaShI: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 5dsCtEyaShI: Downloading m3u8 information
+[info] 5dsCtEyaShI: Downloading 1 format(s): 248+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251114_5dsCtEyaShI.webp
+[info] Writing video metadata as JSON to: meta_videos/20251114_5dsCtEyaShI.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251114_5dsCtEyaShI.webp" to jpg
+Deleting original file meta_videos/20251114_5dsCtEyaShI.webp (pass -k to keep)
+[download] Downloading item 35 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=nd9SbKsbSSk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] nd9SbKsbSSk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] nd9SbKsbSSk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] nd9SbKsbSSk: Downloading m3u8 information
+[info] nd9SbKsbSSk: Downloading 1 format(s): 248+251-2
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251114_nd9SbKsbSSk.webp
+[info] Writing video metadata as JSON to: meta_videos/20251114_nd9SbKsbSSk.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251114_nd9SbKsbSSk.webp" to jpg
+Deleting original file meta_videos/20251114_nd9SbKsbSSk.webp (pass -k to keep)
+[download] Downloading item 36 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GLJIwnTeIG0
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GLJIwnTeIG0: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GLJIwnTeIG0: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GLJIwnTeIG0: Downloading m3u8 information
+[info] GLJIwnTeIG0: Downloading 1 format(s): 248+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251105_GLJIwnTeIG0.webp
+[info] Writing video metadata as JSON to: meta_videos/20251105_GLJIwnTeIG0.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251105_GLJIwnTeIG0.webp" to jpg
+Deleting original file meta_videos/20251105_GLJIwnTeIG0.webp (pass -k to keep)
+[download] Downloading item 37 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jt5XHvfdqQw
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jt5XHvfdqQw: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jt5XHvfdqQw: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jt5XHvfdqQw: Downloading m3u8 information
+[info] jt5XHvfdqQw: Downloading 1 format(s): 616+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251030_jt5XHvfdqQw.webp
+[info] Writing video metadata as JSON to: meta_videos/20251030_jt5XHvfdqQw.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251030_jt5XHvfdqQw.webp" to jpg
+Deleting original file meta_videos/20251030_jt5XHvfdqQw.webp (pass -k to keep)
+[download] Downloading item 38 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pPNTAGaLmDQ
+[youtube] Sleeping 0.5 seconds ...
+[youtube] pPNTAGaLmDQ: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] pPNTAGaLmDQ: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] pPNTAGaLmDQ: Downloading m3u8 information
+[info] pPNTAGaLmDQ: Downloading 1 format(s): 248+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251027_pPNTAGaLmDQ.webp
+[info] Writing video metadata as JSON to: meta_videos/20251027_pPNTAGaLmDQ.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251027_pPNTAGaLmDQ.webp" to jpg
+Deleting original file meta_videos/20251027_pPNTAGaLmDQ.webp (pass -k to keep)
+[download] Downloading item 39 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=00U797MtT1U
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 00U797MtT1U: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 00U797MtT1U: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 00U797MtT1U: Downloading m3u8 information
+[info] 00U797MtT1U: Downloading 1 format(s): 616+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251025_00U797MtT1U.webp
+[info] Writing video metadata as JSON to: meta_videos/20251025_00U797MtT1U.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251025_00U797MtT1U.webp" to jpg
+Deleting original file meta_videos/20251025_00U797MtT1U.webp (pass -k to keep)
+[download] Downloading item 40 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=9gYKvKM0wg4
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 9gYKvKM0wg4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 9gYKvKM0wg4: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 9gYKvKM0wg4: Downloading m3u8 information
+[info] 9gYKvKM0wg4: Downloading 1 format(s): 399+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251020_9gYKvKM0wg4.webp
+[info] Writing video metadata as JSON to: meta_videos/20251020_9gYKvKM0wg4.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251020_9gYKvKM0wg4.webp" to jpg
+Deleting original file meta_videos/20251020_9gYKvKM0wg4.webp (pass -k to keep)
+[download] Downloading item 41 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=qp4WX1cpgAg
+[youtube] Sleeping 0.5 seconds ...
+[youtube] qp4WX1cpgAg: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] qp4WX1cpgAg: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] qp4WX1cpgAg: Downloading m3u8 information
+[info] qp4WX1cpgAg: Downloading 1 format(s): 399+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251018_qp4WX1cpgAg.webp
+[info] Writing video metadata as JSON to: meta_videos/20251018_qp4WX1cpgAg.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251018_qp4WX1cpgAg.webp" to jpg
+Deleting original file meta_videos/20251018_qp4WX1cpgAg.webp (pass -k to keep)
+[download] Downloading item 42 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ZKFr80g7uYw
+[youtube] Sleeping 0.5 seconds ...
+[youtube] ZKFr80g7uYw: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] ZKFr80g7uYw: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] ZKFr80g7uYw: Downloading m3u8 information
+[info] ZKFr80g7uYw: Downloading 1 format(s): 248+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251009_ZKFr80g7uYw.webp
+[info] Writing video metadata as JSON to: meta_videos/20251009_ZKFr80g7uYw.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251009_ZKFr80g7uYw.webp" to jpg
+Deleting original file meta_videos/20251009_ZKFr80g7uYw.webp (pass -k to keep)
+[download] Downloading item 43 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=3Q6BuGp0mUw
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 3Q6BuGp0mUw: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 3Q6BuGp0mUw: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 3Q6BuGp0mUw: Downloading m3u8 information
+[info] 3Q6BuGp0mUw: Downloading 1 format(s): 399+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251008_3Q6BuGp0mUw.webp
+[info] Writing video metadata as JSON to: meta_videos/20251008_3Q6BuGp0mUw.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251008_3Q6BuGp0mUw.webp" to jpg
+Deleting original file meta_videos/20251008_3Q6BuGp0mUw.webp (pass -k to keep)
+[download] Downloading item 44 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Q9hdKWprnvU
+[youtube] Sleeping 0.5 seconds ...
+[youtube] Q9hdKWprnvU: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] Q9hdKWprnvU: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] Q9hdKWprnvU: Downloading m3u8 information
+[info] Q9hdKWprnvU: Downloading 1 format(s): 399+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251007_Q9hdKWprnvU.webp
+[info] Writing video metadata as JSON to: meta_videos/20251007_Q9hdKWprnvU.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251007_Q9hdKWprnvU.webp" to jpg
+Deleting original file meta_videos/20251007_Q9hdKWprnvU.webp (pass -k to keep)
+[download] Downloading item 45 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=uWuTIKxyOgI
+[youtube] Sleeping 0.5 seconds ...
+[youtube] uWuTIKxyOgI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] uWuTIKxyOgI: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] uWuTIKxyOgI: Downloading m3u8 information
+[info] uWuTIKxyOgI: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20251003_uWuTIKxyOgI.webp
+[info] Writing video metadata as JSON to: meta_videos/20251003_uWuTIKxyOgI.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20251003_uWuTIKxyOgI.webp" to jpg
+Deleting original file meta_videos/20251003_uWuTIKxyOgI.webp (pass -k to keep)
+[download] Downloading item 46 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GwfersWAP7Q
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GwfersWAP7Q: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GwfersWAP7Q: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GwfersWAP7Q: Downloading m3u8 information
+[info] GwfersWAP7Q: Downloading 1 format(s): 248+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250922_GwfersWAP7Q.webp
+[info] Writing video metadata as JSON to: meta_videos/20250922_GwfersWAP7Q.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250922_GwfersWAP7Q.webp" to jpg
+Deleting original file meta_videos/20250922_GwfersWAP7Q.webp (pass -k to keep)
+[download] Downloading item 47 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=wG3zO_hkHQI
+[youtube] Sleeping 0.5 seconds ...
+[youtube] wG3zO_hkHQI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] wG3zO_hkHQI: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] wG3zO_hkHQI: Downloading m3u8 information
+[info] wG3zO_hkHQI: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250909_wG3zO_hkHQI.webp
+[info] Writing video metadata as JSON to: meta_videos/20250909_wG3zO_hkHQI.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250909_wG3zO_hkHQI.webp" to jpg
+Deleting original file meta_videos/20250909_wG3zO_hkHQI.webp (pass -k to keep)
+[download] Downloading item 48 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=0moxUZEGq54
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 0moxUZEGq54: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 0moxUZEGq54: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 0moxUZEGq54: Downloading m3u8 information
+[info] 0moxUZEGq54: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250906_0moxUZEGq54.webp
+[info] Writing video metadata as JSON to: meta_videos/20250906_0moxUZEGq54.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250906_0moxUZEGq54.webp" to jpg
+Deleting original file meta_videos/20250906_0moxUZEGq54.webp (pass -k to keep)
+[download] Downloading item 49 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=BO7DZmwdw7M
+[youtube] Sleeping 0.5 seconds ...
+[youtube] BO7DZmwdw7M: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] BO7DZmwdw7M: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] BO7DZmwdw7M: Downloading m3u8 information
+[info] BO7DZmwdw7M: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250830_BO7DZmwdw7M.webp
+[info] Writing video metadata as JSON to: meta_videos/20250830_BO7DZmwdw7M.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250830_BO7DZmwdw7M.webp" to jpg
+Deleting original file meta_videos/20250830_BO7DZmwdw7M.webp (pass -k to keep)
+[download] Downloading item 50 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=U2zecMjk9kY
+[youtube] Sleeping 0.5 seconds ...
+[youtube] U2zecMjk9kY: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] U2zecMjk9kY: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] U2zecMjk9kY: Downloading m3u8 information
+[info] U2zecMjk9kY: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250828_U2zecMjk9kY.webp
+[info] Writing video metadata as JSON to: meta_videos/20250828_U2zecMjk9kY.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250828_U2zecMjk9kY.webp" to jpg
+Deleting original file meta_videos/20250828_U2zecMjk9kY.webp (pass -k to keep)
+[download] Downloading item 51 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FVVTQ7xgt6c
+[youtube] Sleeping 0.5 seconds ...
+[youtube] FVVTQ7xgt6c: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] FVVTQ7xgt6c: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] FVVTQ7xgt6c: Downloading m3u8 information
+[info] FVVTQ7xgt6c: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250812_FVVTQ7xgt6c.webp
+[info] Writing video metadata as JSON to: meta_videos/20250812_FVVTQ7xgt6c.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250812_FVVTQ7xgt6c.webp" to jpg
+Deleting original file meta_videos/20250812_FVVTQ7xgt6c.webp (pass -k to keep)
+[download] Downloading item 52 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jGyV-p5yA5c
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jGyV-p5yA5c: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jGyV-p5yA5c: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jGyV-p5yA5c: Downloading m3u8 information
+[info] jGyV-p5yA5c: Downloading 1 format(s): 248+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250807_jGyV-p5yA5c.webp
+[info] Writing video metadata as JSON to: meta_videos/20250807_jGyV-p5yA5c.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250807_jGyV-p5yA5c.webp" to jpg
+Deleting original file meta_videos/20250807_jGyV-p5yA5c.webp (pass -k to keep)
+[download] Downloading item 53 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yyJV_OgjQYM
+[youtube] Sleeping 0.5 seconds ...
+[youtube] yyJV_OgjQYM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] yyJV_OgjQYM: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] yyJV_OgjQYM: Downloading m3u8 information
+[info] yyJV_OgjQYM: Downloading 1 format(s): 399+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250803_yyJV_OgjQYM.webp
+[info] Writing video metadata as JSON to: meta_videos/20250803_yyJV_OgjQYM.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250803_yyJV_OgjQYM.webp" to jpg
+Deleting original file meta_videos/20250803_yyJV_OgjQYM.webp (pass -k to keep)
+[download] Downloading item 54 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=g5yE_B_Z-oM
+[youtube] Sleeping 0.5 seconds ...
+[youtube] g5yE_B_Z-oM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] g5yE_B_Z-oM: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] g5yE_B_Z-oM: Downloading m3u8 information
+[info] g5yE_B_Z-oM: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250723_g5yE_B_Z-oM.webp
+[info] Writing video metadata as JSON to: meta_videos/20250723_g5yE_B_Z-oM.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250723_g5yE_B_Z-oM.webp" to jpg
+Deleting original file meta_videos/20250723_g5yE_B_Z-oM.webp (pass -k to keep)
+[download] Downloading item 55 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=clpYARUIXak
+[youtube] Sleeping 0.5 seconds ...
+[youtube] clpYARUIXak: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] clpYARUIXak: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] clpYARUIXak: Downloading m3u8 information
+[info] clpYARUIXak: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250720_clpYARUIXak.webp
+[info] Writing video metadata as JSON to: meta_videos/20250720_clpYARUIXak.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250720_clpYARUIXak.webp" to jpg
+Deleting original file meta_videos/20250720_clpYARUIXak.webp (pass -k to keep)
+[download] Downloading item 56 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JlgDflZs4HE
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JlgDflZs4HE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JlgDflZs4HE: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JlgDflZs4HE: Downloading m3u8 information
+[info] JlgDflZs4HE: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250713_JlgDflZs4HE.webp
+[info] Writing video metadata as JSON to: meta_videos/20250713_JlgDflZs4HE.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250713_JlgDflZs4HE.webp" to jpg
+Deleting original file meta_videos/20250713_JlgDflZs4HE.webp (pass -k to keep)
+[download] Downloading item 57 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Q2GJoqTT07w
+[youtube] Sleeping 0.5 seconds ...
+[youtube] Q2GJoqTT07w: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] Q2GJoqTT07w: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] Q2GJoqTT07w: Downloading m3u8 information
+[info] Q2GJoqTT07w: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250624_Q2GJoqTT07w.webp
+[info] Writing video metadata as JSON to: meta_videos/20250624_Q2GJoqTT07w.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250624_Q2GJoqTT07w.webp" to jpg
+Deleting original file meta_videos/20250624_Q2GJoqTT07w.webp (pass -k to keep)
+[download] Downloading item 58 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4Z_SvTgtJes
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4Z_SvTgtJes: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4Z_SvTgtJes: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4Z_SvTgtJes: Downloading m3u8 information
+[info] 4Z_SvTgtJes: Downloading 1 format(s): 399+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250617_4Z_SvTgtJes.webp
+[info] Writing video metadata as JSON to: meta_videos/20250617_4Z_SvTgtJes.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250617_4Z_SvTgtJes.webp" to jpg
+Deleting original file meta_videos/20250617_4Z_SvTgtJes.webp (pass -k to keep)
+[download] Downloading item 59 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=zBFhx4RR-ts
+[youtube] Sleeping 0.5 seconds ...
+[youtube] zBFhx4RR-ts: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] zBFhx4RR-ts: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] zBFhx4RR-ts: Downloading m3u8 information
+[info] zBFhx4RR-ts: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250614_zBFhx4RR-ts.webp
+[info] Writing video metadata as JSON to: meta_videos/20250614_zBFhx4RR-ts.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250614_zBFhx4RR-ts.webp" to jpg
+Deleting original file meta_videos/20250614_zBFhx4RR-ts.webp (pass -k to keep)
+[download] Downloading item 60 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=V2HYlGyn5PU
+[youtube] Sleeping 0.5 seconds ...
+[youtube] V2HYlGyn5PU: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] V2HYlGyn5PU: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] V2HYlGyn5PU: Downloading m3u8 information
+[info] V2HYlGyn5PU: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250605_V2HYlGyn5PU.webp
+[info] Writing video metadata as JSON to: meta_videos/20250605_V2HYlGyn5PU.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250605_V2HYlGyn5PU.webp" to jpg
+Deleting original file meta_videos/20250605_V2HYlGyn5PU.webp (pass -k to keep)
+[download] Downloading item 61 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FhiJFVKVNP4
+[youtube] Sleeping 0.5 seconds ...
+[youtube] FhiJFVKVNP4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] FhiJFVKVNP4: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] FhiJFVKVNP4: Downloading m3u8 information
+[info] FhiJFVKVNP4: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250604_FhiJFVKVNP4.webp
+[info] Writing video metadata as JSON to: meta_videos/20250604_FhiJFVKVNP4.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250604_FhiJFVKVNP4.webp" to jpg
+Deleting original file meta_videos/20250604_FhiJFVKVNP4.webp (pass -k to keep)
+[download] Downloading item 62 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=sEPJfIIeWYE
+[youtube] Sleeping 0.5 seconds ...
+[youtube] sEPJfIIeWYE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] sEPJfIIeWYE: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] sEPJfIIeWYE: Downloading m3u8 information
+[info] sEPJfIIeWYE: Downloading 1 format(s): 137+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250528_sEPJfIIeWYE.webp
+[info] Writing video metadata as JSON to: meta_videos/20250528_sEPJfIIeWYE.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250528_sEPJfIIeWYE.webp" to jpg
+Deleting original file meta_videos/20250528_sEPJfIIeWYE.webp (pass -k to keep)
+[download] Downloading item 63 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JGg7iW4rX3M
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JGg7iW4rX3M: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JGg7iW4rX3M: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JGg7iW4rX3M: Downloading m3u8 information
+[info] JGg7iW4rX3M: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250527_JGg7iW4rX3M.webp
+[info] Writing video metadata as JSON to: meta_videos/20250527_JGg7iW4rX3M.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250527_JGg7iW4rX3M.webp" to jpg
+Deleting original file meta_videos/20250527_JGg7iW4rX3M.webp (pass -k to keep)
+[download] Downloading item 64 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-iZW0oHu95E
+[youtube] Sleeping 0.5 seconds ...
+[youtube] -iZW0oHu95E: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] -iZW0oHu95E: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] -iZW0oHu95E: Downloading m3u8 information
+[info] -iZW0oHu95E: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250527_-iZW0oHu95E.webp
+[info] Writing video metadata as JSON to: meta_videos/20250527_-iZW0oHu95E.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250527_-iZW0oHu95E.webp" to jpg
+Deleting original file meta_videos/20250527_-iZW0oHu95E.webp (pass -k to keep)
+[download] Downloading item 65 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=PHlBrI07W14
+[youtube] Sleeping 0.5 seconds ...
+[youtube] PHlBrI07W14: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] PHlBrI07W14: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] PHlBrI07W14: Downloading m3u8 information
+[info] PHlBrI07W14: Downloading 1 format(s): 137+251-3
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250527_PHlBrI07W14.webp
+[info] Writing video metadata as JSON to: meta_videos/20250527_PHlBrI07W14.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250527_PHlBrI07W14.webp" to jpg
+Deleting original file meta_videos/20250527_PHlBrI07W14.webp (pass -k to keep)
+[download] Downloading item 66 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vHT-IRmhknk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vHT-IRmhknk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vHT-IRmhknk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vHT-IRmhknk: Downloading m3u8 information
+[info] vHT-IRmhknk: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250523_vHT-IRmhknk.webp
+[info] Writing video metadata as JSON to: meta_videos/20250523_vHT-IRmhknk.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250523_vHT-IRmhknk.webp" to jpg
+Deleting original file meta_videos/20250523_vHT-IRmhknk.webp (pass -k to keep)
+[download] Downloading item 67 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yang3L_8mzs
+[youtube] Sleeping 0.5 seconds ...
+[youtube] yang3L_8mzs: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] yang3L_8mzs: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] yang3L_8mzs: Downloading m3u8 information
+[info] yang3L_8mzs: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250519_yang3L_8mzs.webp
+[info] Writing video metadata as JSON to: meta_videos/20250519_yang3L_8mzs.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250519_yang3L_8mzs.webp" to jpg
+Deleting original file meta_videos/20250519_yang3L_8mzs.webp (pass -k to keep)
+[download] Downloading item 68 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ds3Ab6ox7wc
+[youtube] Sleeping 0.5 seconds ...
+[youtube] ds3Ab6ox7wc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] ds3Ab6ox7wc: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] ds3Ab6ox7wc: Downloading m3u8 information
+[info] ds3Ab6ox7wc: Downloading 1 format(s): 299+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250510_ds3Ab6ox7wc.webp
+[info] Writing video metadata as JSON to: meta_videos/20250510_ds3Ab6ox7wc.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250510_ds3Ab6ox7wc.webp" to jpg
+Deleting original file meta_videos/20250510_ds3Ab6ox7wc.webp (pass -k to keep)
+[download] Downloading item 69 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=dPdXLMcO14M
+[youtube] Sleeping 0.5 seconds ...
+[youtube] dPdXLMcO14M: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] dPdXLMcO14M: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] dPdXLMcO14M: Downloading m3u8 information
+[info] dPdXLMcO14M: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250506_dPdXLMcO14M.webp
+[info] Writing video metadata as JSON to: meta_videos/20250506_dPdXLMcO14M.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250506_dPdXLMcO14M.webp" to jpg
+Deleting original file meta_videos/20250506_dPdXLMcO14M.webp (pass -k to keep)
+[download] Downloading item 70 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=j8WMV4U_uj8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] j8WMV4U_uj8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] j8WMV4U_uj8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] j8WMV4U_uj8: Downloading m3u8 information
+[info] j8WMV4U_uj8: Downloading 1 format(s): 299+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250429_j8WMV4U_uj8.webp
+[info] Writing video metadata as JSON to: meta_videos/20250429_j8WMV4U_uj8.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250429_j8WMV4U_uj8.webp" to jpg
+Deleting original file meta_videos/20250429_j8WMV4U_uj8.webp (pass -k to keep)
+[download] Downloading item 71 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=dtR--0l2ZUY
+[youtube] Sleeping 0.5 seconds ...
+[youtube] dtR--0l2ZUY: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] dtR--0l2ZUY: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] dtR--0l2ZUY: Downloading m3u8 information
+[info] dtR--0l2ZUY: Downloading 1 format(s): 299+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250416_dtR--0l2ZUY.webp
+[info] Writing video metadata as JSON to: meta_videos/20250416_dtR--0l2ZUY.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250416_dtR--0l2ZUY.webp" to jpg
+Deleting original file meta_videos/20250416_dtR--0l2ZUY.webp (pass -k to keep)
+[download] Downloading item 72 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=OF1EBrO6RiA
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OF1EBrO6RiA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OF1EBrO6RiA: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OF1EBrO6RiA: Downloading m3u8 information
+[info] OF1EBrO6RiA: Downloading 1 format(s): 299+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250415_OF1EBrO6RiA.webp
+[info] Writing video metadata as JSON to: meta_videos/20250415_OF1EBrO6RiA.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250415_OF1EBrO6RiA.webp" to jpg
+Deleting original file meta_videos/20250415_OF1EBrO6RiA.webp (pass -k to keep)
+[download] Downloading item 73 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gKfusAaQUO0
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gKfusAaQUO0: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gKfusAaQUO0: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gKfusAaQUO0: Downloading m3u8 information
+[info] gKfusAaQUO0: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250411_gKfusAaQUO0.webp
+[info] Writing video metadata as JSON to: meta_videos/20250411_gKfusAaQUO0.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250411_gKfusAaQUO0.webp" to jpg
+Deleting original file meta_videos/20250411_gKfusAaQUO0.webp (pass -k to keep)
+[download] Downloading item 74 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4VF2Uzmgeus
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4VF2Uzmgeus: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4VF2Uzmgeus: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4VF2Uzmgeus: Downloading m3u8 information
+[info] 4VF2Uzmgeus: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250410_4VF2Uzmgeus.webp
+[info] Writing video metadata as JSON to: meta_videos/20250410_4VF2Uzmgeus.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250410_4VF2Uzmgeus.webp" to jpg
+Deleting original file meta_videos/20250410_4VF2Uzmgeus.webp (pass -k to keep)
+[download] Downloading item 75 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NIagTNWN4z8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] NIagTNWN4z8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] NIagTNWN4z8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] NIagTNWN4z8: Downloading m3u8 information
+[info] NIagTNWN4z8: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250402_NIagTNWN4z8.webp
+[info] Writing video metadata as JSON to: meta_videos/20250402_NIagTNWN4z8.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250402_NIagTNWN4z8.webp" to jpg
+Deleting original file meta_videos/20250402_NIagTNWN4z8.webp (pass -k to keep)
+[download] Downloading item 76 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=xZSMVJn16Sc
+[youtube] Sleeping 0.5 seconds ...
+[youtube] xZSMVJn16Sc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] xZSMVJn16Sc: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] xZSMVJn16Sc: Downloading m3u8 information
+[info] xZSMVJn16Sc: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250331_xZSMVJn16Sc.webp
+[info] Writing video metadata as JSON to: meta_videos/20250331_xZSMVJn16Sc.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250331_xZSMVJn16Sc.webp" to jpg
+Deleting original file meta_videos/20250331_xZSMVJn16Sc.webp (pass -k to keep)
+[download] Downloading item 77 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=hQMX2v8Q5yI
+[youtube] Sleeping 0.5 seconds ...
+[youtube] hQMX2v8Q5yI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] hQMX2v8Q5yI: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] hQMX2v8Q5yI: Downloading m3u8 information
+[info] hQMX2v8Q5yI: Downloading 1 format(s): 137+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250224_hQMX2v8Q5yI.webp
+[info] Writing video metadata as JSON to: meta_videos/20250224_hQMX2v8Q5yI.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250224_hQMX2v8Q5yI.webp" to jpg
+Deleting original file meta_videos/20250224_hQMX2v8Q5yI.webp (pass -k to keep)
+[download] Downloading item 78 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GGTIP1OlwHc
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GGTIP1OlwHc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GGTIP1OlwHc: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GGTIP1OlwHc: Downloading m3u8 information
+[info] GGTIP1OlwHc: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 43 ...
+[info] Writing video thumbnail 43 to: meta_videos/20250222_GGTIP1OlwHc.webp
+[info] Writing video metadata as JSON to: meta_videos/20250222_GGTIP1OlwHc.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250222_GGTIP1OlwHc.webp" to jpg
+Deleting original file meta_videos/20250222_GGTIP1OlwHc.webp (pass -k to keep)
+[download] Downloading item 79 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=tL9c5ytl8CQ
+[youtube] Sleeping 0.5 seconds ...
+[youtube] tL9c5ytl8CQ: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] tL9c5ytl8CQ: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] tL9c5ytl8CQ: Downloading m3u8 information
+[info] tL9c5ytl8CQ: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250220_tL9c5ytl8CQ.webp
+[info] Writing video metadata as JSON to: meta_videos/20250220_tL9c5ytl8CQ.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250220_tL9c5ytl8CQ.webp" to jpg
+Deleting original file meta_videos/20250220_tL9c5ytl8CQ.webp (pass -k to keep)
+[download] Downloading item 80 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=P08dl03Wleo
+[youtube] Sleeping 0.5 seconds ...
+[youtube] P08dl03Wleo: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] P08dl03Wleo: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] P08dl03Wleo: Downloading m3u8 information
+[info] P08dl03Wleo: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250217_P08dl03Wleo.webp
+[info] Writing video metadata as JSON to: meta_videos/20250217_P08dl03Wleo.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250217_P08dl03Wleo.webp" to jpg
+Deleting original file meta_videos/20250217_P08dl03Wleo.webp (pass -k to keep)
+[download] Downloading item 81 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1_6Vtb67eps
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1_6Vtb67eps: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1_6Vtb67eps: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1_6Vtb67eps: Downloading m3u8 information
+[info] 1_6Vtb67eps: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250208_1_6Vtb67eps.webp
+[info] Writing video metadata as JSON to: meta_videos/20250208_1_6Vtb67eps.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250208_1_6Vtb67eps.webp" to jpg
+Deleting original file meta_videos/20250208_1_6Vtb67eps.webp (pass -k to keep)
+[download] Downloading item 82 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jDlF-_s0YhY
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jDlF-_s0YhY: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jDlF-_s0YhY: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jDlF-_s0YhY: Downloading m3u8 information
+[info] jDlF-_s0YhY: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250207_jDlF-_s0YhY.webp
+[info] Writing video metadata as JSON to: meta_videos/20250207_jDlF-_s0YhY.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250207_jDlF-_s0YhY.webp" to jpg
+Deleting original file meta_videos/20250207_jDlF-_s0YhY.webp (pass -k to keep)
+[download] Downloading item 83 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=kJtQMdbbjbQ
+[youtube] Sleeping 0.5 seconds ...
+[youtube] kJtQMdbbjbQ: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] kJtQMdbbjbQ: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] kJtQMdbbjbQ: Downloading m3u8 information
+[info] kJtQMdbbjbQ: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20250124_kJtQMdbbjbQ.webp
+[info] Writing video metadata as JSON to: meta_videos/20250124_kJtQMdbbjbQ.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20250124_kJtQMdbbjbQ.webp" to jpg
+Deleting original file meta_videos/20250124_kJtQMdbbjbQ.webp (pass -k to keep)
+[download] Downloading item 84 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=TLYEmvkQbm8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] TLYEmvkQbm8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] TLYEmvkQbm8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] TLYEmvkQbm8: Downloading m3u8 information
+[info] TLYEmvkQbm8: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20241224_TLYEmvkQbm8.webp
+[info] Writing video metadata as JSON to: meta_videos/20241224_TLYEmvkQbm8.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20241224_TLYEmvkQbm8.webp" to jpg
+Deleting original file meta_videos/20241224_TLYEmvkQbm8.webp (pass -k to keep)
+[download] Downloading item 85 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=RBTzwsMOv6s
+[youtube] Sleeping 0.5 seconds ...
+[youtube] RBTzwsMOv6s: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] RBTzwsMOv6s: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] RBTzwsMOv6s: Downloading m3u8 information
+[info] RBTzwsMOv6s: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20241215_RBTzwsMOv6s.webp
+[info] Writing video metadata as JSON to: meta_videos/20241215_RBTzwsMOv6s.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20241215_RBTzwsMOv6s.webp" to jpg
+Deleting original file meta_videos/20241215_RBTzwsMOv6s.webp (pass -k to keep)
+[download] Downloading item 86 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=T5TILrkfk2k
+[youtube] Sleeping 0.5 seconds ...
+[youtube] T5TILrkfk2k: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] T5TILrkfk2k: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] T5TILrkfk2k: Downloading m3u8 information
+[info] T5TILrkfk2k: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20241203_T5TILrkfk2k.webp
+[info] Writing video metadata as JSON to: meta_videos/20241203_T5TILrkfk2k.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20241203_T5TILrkfk2k.webp" to jpg
+Deleting original file meta_videos/20241203_T5TILrkfk2k.webp (pass -k to keep)
+[download] Downloading item 87 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=HFk21I0wjpo
+[youtube] Sleeping 0.5 seconds ...
+[youtube] HFk21I0wjpo: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] HFk21I0wjpo: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] HFk21I0wjpo: Downloading m3u8 information
+[info] HFk21I0wjpo: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20240707_HFk21I0wjpo.webp
+[info] Writing video metadata as JSON to: meta_videos/20240707_HFk21I0wjpo.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20240707_HFk21I0wjpo.webp" to jpg
+Deleting original file meta_videos/20240707_HFk21I0wjpo.webp (pass -k to keep)
+[download] Downloading item 88 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=A9m_veexyLE
+[youtube] Sleeping 0.5 seconds ...
+[youtube] A9m_veexyLE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] A9m_veexyLE: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] A9m_veexyLE: Downloading m3u8 information
+[info] A9m_veexyLE: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20240706_A9m_veexyLE.webp
+[info] Writing video metadata as JSON to: meta_videos/20240706_A9m_veexyLE.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20240706_A9m_veexyLE.webp" to jpg
+Deleting original file meta_videos/20240706_A9m_veexyLE.webp (pass -k to keep)
+[download] Downloading item 89 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=0AzY88_TTsM
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 0AzY88_TTsM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 0AzY88_TTsM: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 0AzY88_TTsM: Downloading m3u8 information
+[info] 0AzY88_TTsM: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20240703_0AzY88_TTsM.webp
+[info] Writing video metadata as JSON to: meta_videos/20240703_0AzY88_TTsM.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20240703_0AzY88_TTsM.webp" to jpg
+Deleting original file meta_videos/20240703_0AzY88_TTsM.webp (pass -k to keep)
+[download] Downloading item 90 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=U2e1wRBd3ng
+[youtube] Sleeping 0.5 seconds ...
+[youtube] U2e1wRBd3ng: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] U2e1wRBd3ng: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] U2e1wRBd3ng: Downloading m3u8 information
+[info] U2e1wRBd3ng: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20240501_U2e1wRBd3ng.webp
+[info] Writing video metadata as JSON to: meta_videos/20240501_U2e1wRBd3ng.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20240501_U2e1wRBd3ng.webp" to jpg
+Deleting original file meta_videos/20240501_U2e1wRBd3ng.webp (pass -k to keep)
+[download] Downloading item 91 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rgsMpvKyKZk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rgsMpvKyKZk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rgsMpvKyKZk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rgsMpvKyKZk: Downloading m3u8 information
+[info] rgsMpvKyKZk: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 44 ...
+[info] Writing video thumbnail 44 to: meta_videos/20240426_rgsMpvKyKZk.webp
+[info] Writing video metadata as JSON to: meta_videos/20240426_rgsMpvKyKZk.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20240426_rgsMpvKyKZk.webp" to jpg
+Deleting original file meta_videos/20240426_rgsMpvKyKZk.webp (pass -k to keep)
+[download] Downloading item 92 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vq6-3SiZ_mk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vq6-3SiZ_mk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vq6-3SiZ_mk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vq6-3SiZ_mk: Downloading m3u8 information
+[info] vq6-3SiZ_mk: Downloading 1 format(s): 137+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20240316_vq6-3SiZ_mk.webp
+[info] Writing video metadata as JSON to: meta_videos/20240316_vq6-3SiZ_mk.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20240316_vq6-3SiZ_mk.webp" to jpg
+Deleting original file meta_videos/20240316_vq6-3SiZ_mk.webp (pass -k to keep)
+[download] Downloading item 93 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=SBQrkTQqlZk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] SBQrkTQqlZk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] SBQrkTQqlZk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] SBQrkTQqlZk: Downloading m3u8 information
+[info] SBQrkTQqlZk: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20240205_SBQrkTQqlZk.webp
+[info] Writing video metadata as JSON to: meta_videos/20240205_SBQrkTQqlZk.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20240205_SBQrkTQqlZk.webp" to jpg
+Deleting original file meta_videos/20240205_SBQrkTQqlZk.webp (pass -k to keep)
+[download] Downloading item 94 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=M-nD4ipNnAo
+[youtube] Sleeping 0.5 seconds ...
+[youtube] M-nD4ipNnAo: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] M-nD4ipNnAo: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] M-nD4ipNnAo: Downloading m3u8 information
+[info] M-nD4ipNnAo: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20240124_M-nD4ipNnAo.webp
+[info] Writing video metadata as JSON to: meta_videos/20240124_M-nD4ipNnAo.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20240124_M-nD4ipNnAo.webp" to jpg
+Deleting original file meta_videos/20240124_M-nD4ipNnAo.webp (pass -k to keep)
+[download] Downloading item 95 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=eY8733K0nuc
+[youtube] Sleeping 0.5 seconds ...
+[youtube] eY8733K0nuc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] eY8733K0nuc: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] eY8733K0nuc: Downloading m3u8 information
+[info] eY8733K0nuc: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20240116_eY8733K0nuc.webp
+[info] Writing video metadata as JSON to: meta_videos/20240116_eY8733K0nuc.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20240116_eY8733K0nuc.webp" to jpg
+Deleting original file meta_videos/20240116_eY8733K0nuc.webp (pass -k to keep)
+[download] Downloading item 96 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rE8HcJ35My4
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rE8HcJ35My4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rE8HcJ35My4: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rE8HcJ35My4: Downloading m3u8 information
+[info] rE8HcJ35My4: Downloading 1 format(s): 137+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20240104_rE8HcJ35My4.webp
+[info] Writing video metadata as JSON to: meta_videos/20240104_rE8HcJ35My4.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20240104_rE8HcJ35My4.webp" to jpg
+Deleting original file meta_videos/20240104_rE8HcJ35My4.webp (pass -k to keep)
+[download] Downloading item 97 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1xeoYB2MiDU
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1xeoYB2MiDU: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1xeoYB2MiDU: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1xeoYB2MiDU: Downloading m3u8 information
+[info] 1xeoYB2MiDU: Downloading 1 format(s): 299+251
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20231127_1xeoYB2MiDU.webp
+[info] Writing video metadata as JSON to: meta_videos/20231127_1xeoYB2MiDU.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20231127_1xeoYB2MiDU.webp" to jpg
+Deleting original file meta_videos/20231127_1xeoYB2MiDU.webp (pass -k to keep)
+[download] Downloading item 98 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=j2XcJa55VqU
+[youtube] Sleeping 0.5 seconds ...
+[youtube] j2XcJa55VqU: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] j2XcJa55VqU: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] j2XcJa55VqU: Downloading m3u8 information
+[info] j2XcJa55VqU: Downloading 1 format(s): 137+251-1
+[info] Downloading video thumbnail 41 ...
+[info] Writing video thumbnail 41 to: meta_videos/20231127_j2XcJa55VqU.webp
+[info] Writing video metadata as JSON to: meta_videos/20231127_j2XcJa55VqU.info.json
+[ThumbnailsConvertor] Converting thumbnail "meta_videos/20231127_j2XcJa55VqU.webp" to jpg
+Deleting original file meta_videos/20231127_j2XcJa55VqU.webp (pass -k to keep)
+[info] Writing updated playlist metadata as JSON to: meta_videos/NA_UC8_bvhq1cv1PAm7kws4ZGNA.info.json
+[download] Finished downloading playlist: Los HDP el podcast - Videos

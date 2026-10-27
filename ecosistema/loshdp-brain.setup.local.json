@@ -1,0 +1,12 @@
+{
+  "name": "El Cerebro del Pueblo",
+  "port": 4644,
+  "sources": [
+    {"id":"insights","label":"Insights y estrategia","paths":["/Users/rogergv/Documents/SoftvibesLab/SoftvibesSites/los-hdp-podcast/mediahub/conocimiento/insights"],"color":"#C0FF72","staleDays":null},
+    {"id":"episodios","label":"Episodios","paths":["/Users/rogergv/Documents/SoftvibesLab/SoftvibesSites/los-hdp-podcast/mediahub/conocimiento/episodios"],"color":"#38BDF8","staleDays":null},
+    {"id":"invitados","label":"Invitados","paths":["/Users/rogergv/Documents/SoftvibesLab/SoftvibesSites/los-hdp-podcast/mediahub/conocimiento/invitados"],"color":"#F472B6","staleDays":null},
+    {"id":"temas","label":"Temas, partidos y formatos","paths":["/Users/rogergv/Documents/SoftvibesLab/SoftvibesSites/los-hdp-podcast/mediahub/conocimiento/temas"],"color":"#A78BFA","staleDays":null},
+    {"id":"municipios","label":"Municipios","paths":["/Users/rogergv/Documents/SoftvibesLab/SoftvibesSites/los-hdp-podcast/mediahub/conocimiento/municipios"],"color":"#FBBF24","staleDays":null},
+    {"id":"clips","label":"Clips virales","paths":["/Users/rogergv/Documents/SoftvibesLab/SoftvibesSites/los-hdp-podcast/mediahub/conocimiento/clips"],"color":"#FB7185","staleDays":null}
+  ]
+}

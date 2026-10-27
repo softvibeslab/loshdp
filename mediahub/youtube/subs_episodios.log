@@ -1,0 +1,1564 @@
+[youtube:tab] Extracting URL: https://www.youtube.com/@loshijos_delpueblopodcast/videos
+[youtube:tab] @loshijos_delpueblopodcast/videos: Downloading webpage
+[download] Downloading playlist: Los HDP el podcast - Videos
+[youtube:tab] Sleeping 0.5 seconds ...
+[youtube:tab] UC8_bvhq1cv1PAm7kws4ZGNA page 1: Downloading API JSON
+[youtube:tab] Sleeping 0.5 seconds ...
+[youtube:tab] UC8_bvhq1cv1PAm7kws4ZGNA page 2: Downloading API JSON
+[youtube:tab] Sleeping 0.5 seconds ...
+[youtube:tab] UC8_bvhq1cv1PAm7kws4ZGNA page 3: Downloading API JSON
+[youtube:tab] Playlist Los HDP el podcast - Videos: Downloading 98 items of 98
+[download] Downloading item 1 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jroRHODPb44
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jroRHODPb44: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jroRHODPb44: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jroRHODPb44: Downloading m3u8 information
+[info] jroRHODPb44: Downloading subtitles: es-orig
+[info] jroRHODPb44: Downloading 1 format(s): 399+251-3
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20261014_jroRHODPb44.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20261014_jroRHODPb44.es-orig.vtt
+[download]    1.00KiB at  462.74KiB/s (00:00:00)[download]    3.00KiB at    1.20MiB/s (00:00:00)[download]    7.00KiB at    2.35MiB/s (00:00:00)[download]   15.00KiB at    2.80MiB/s (00:00:00)[download]   31.00KiB at    2.57MiB/s (00:00:00)[download]   63.00KiB at    2.67MiB/s (00:00:00)[download]  127.00KiB at    1.73MiB/s (00:00:00)[download]  255.00KiB at    2.21MiB/s (00:00:00)[download]  511.00KiB at    3.01MiB/s (00:00:00)[download]  693.94KiB at    3.45MiB/s (00:00:00)[download] 100% of  693.94KiB in 00:00:00 at 1.76MiB/s
+[download] Downloading item 2 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=CVeZOSkiSoI
+[youtube] Sleeping 0.5 seconds ...
+[youtube] CVeZOSkiSoI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] CVeZOSkiSoI: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] CVeZOSkiSoI: Downloading m3u8 information
+[info] CVeZOSkiSoI: Downloading subtitles: es-orig
+[info] CVeZOSkiSoI: Downloading 1 format(s): 399+251-2
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20261013_CVeZOSkiSoI.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20261013_CVeZOSkiSoI.es-orig.vtt
+[download]    1.00KiB at  398.58KiB/s (00:00:00)[download]    3.00KiB at  947.51KiB/s (00:00:00)[download]    7.00KiB at  913.48KiB/s (00:00:00)[download]   15.00KiB at    1.35MiB/s (00:00:00)[download]   31.00KiB at    1.55MiB/s (00:00:00)[download]   63.00KiB at    2.83MiB/s (00:00:00)[download]  127.00KiB at    4.74MiB/s (00:00:00)[download]  255.00KiB at    4.54MiB/s (00:00:00)[download]  511.00KiB at    4.29MiB/s (00:00:00)[download]  665.73KiB at    4.62MiB/s (00:00:00)[download] 100% of  665.73KiB in 00:00:00 at 1.44MiB/s
+[download] Downloading item 3 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=r4vwwfEi7Ik
+[youtube] Sleeping 0.5 seconds ...
+[youtube] r4vwwfEi7Ik: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] r4vwwfEi7Ik: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] r4vwwfEi7Ik: Downloading m3u8 information
+[info] r4vwwfEi7Ik: Downloading subtitles: es-orig
+[info] r4vwwfEi7Ik: Downloading 1 format(s): 399+251-3
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20261010_r4vwwfEi7Ik.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20261010_r4vwwfEi7Ik.es-orig.vtt
+[download]    1.00KiB at  992.03KiB/s (00:00:00)[download]    3.00KiB at    2.35MiB/s (00:00:00)[download]    7.00KiB at    4.83MiB/s (00:00:00)[download]   15.00KiB at    9.30MiB/s (00:00:00)[download]   31.00KiB at    9.37MiB/s (00:00:00)[download]   63.00KiB at    9.78MiB/s (00:00:00)[download]  127.00KiB at   12.94MiB/s (00:00:00)[download]  255.00KiB at    5.63MiB/s (00:00:00)[download]  511.00KiB at    4.36MiB/s (00:00:00)[download]  822.64KiB at    5.85MiB/s (00:00:00)[download] 100% of  822.64KiB in 00:00:00 at 1.42MiB/s
+[download] Downloading item 4 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=eaHWYoPZ0DE
+[youtube] Sleeping 0.5 seconds ...
+[youtube] eaHWYoPZ0DE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] eaHWYoPZ0DE: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] eaHWYoPZ0DE: Downloading m3u8 information
+[info] eaHWYoPZ0DE: Downloading subtitles: es-orig
+[info] eaHWYoPZ0DE: Downloading 1 format(s): 137+251-2
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20261008_eaHWYoPZ0DE.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20261008_eaHWYoPZ0DE.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.34MiB/s (00:00:00)[download]    7.00KiB at    4.80MiB/s (00:00:00)[download]   15.00KiB at    9.27MiB/s (00:00:00)[download]   31.00KiB at    9.39MiB/s (00:00:00)[download]   63.00KiB at   15.27MiB/s (00:00:00)[download]  127.00KiB at    4.57MiB/s (00:00:00)[download]  255.00KiB at    4.01MiB/s (00:00:00)[download]  505.60KiB at    4.61MiB/s (00:00:00)[download] 100% of  505.60KiB in 00:00:00 at 1.48MiB/s
+[download] Downloading item 5 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=i_glzktZG3U
+[youtube] Sleeping 0.5 seconds ...
+[youtube] i_glzktZG3U: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] i_glzktZG3U: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] i_glzktZG3U: Downloading m3u8 information
+[info] i_glzktZG3U: Downloading subtitles: es-orig
+[info] i_glzktZG3U: Downloading 1 format(s): 399+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20261004_i_glzktZG3U.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20261004_i_glzktZG3U.es-orig.vtt
+[download]    1.00KiB at  947.87KiB/s (00:00:00)[download]    3.00KiB at    2.18MiB/s (00:00:00)[download]    7.00KiB at    4.44MiB/s (00:00:00)[download]   15.00KiB at    7.73MiB/s (00:00:00)[download]   31.00KiB at   13.98MiB/s (00:00:00)[download]   63.00KiB at   14.30MiB/s (00:00:00)[download]  127.00KiB at    7.17MiB/s (00:00:00)[download]  255.00KiB at    3.50MiB/s (00:00:00)[download]  511.00KiB at    4.46MiB/s (00:00:00)[download]  627.29KiB at    5.04MiB/s (00:00:00)[download] 100% of  627.29KiB in 00:00:00 at 1.58MiB/s
+[download] Downloading item 6 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=UXxg9505apw
+[youtube] Sleeping 0.5 seconds ...
+[youtube] UXxg9505apw: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] UXxg9505apw: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] UXxg9505apw: Downloading m3u8 information
+[info] UXxg9505apw: Downloading subtitles: es-orig
+[info] UXxg9505apw: Downloading 1 format(s): 399+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260930_UXxg9505apw.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260930_UXxg9505apw.es-orig.vtt
+[download]    1.00KiB at  834.02KiB/s (00:00:00)[download]    3.00KiB at    2.02MiB/s (00:00:00)[download]    7.00KiB at    4.17MiB/s (00:00:00)[download]   15.00KiB at    3.74MiB/s (00:00:00)[download]   31.00KiB at    7.21MiB/s (00:00:00)[download]   63.00KiB at   13.90MiB/s (00:00:00)[download]  127.00KiB at    6.93MiB/s (00:00:00)[download]  255.00KiB at    4.53MiB/s (00:00:00)[download]  511.00KiB at    5.03MiB/s (00:00:00)[download]  605.62KiB at    5.48MiB/s (00:00:00)[download] 100% of  605.62KiB in 00:00:00 at 1.73MiB/s
+[download] Downloading item 7 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vwlRE27ZafY
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vwlRE27ZafY: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vwlRE27ZafY: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vwlRE27ZafY: Downloading m3u8 information
+[info] vwlRE27ZafY: Downloading subtitles: es-orig
+[info] vwlRE27ZafY: Downloading 1 format(s): 399+251-3
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260923_vwlRE27ZafY.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260923_vwlRE27ZafY.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.08MiB/s (00:00:00)[download]    7.00KiB at    4.11MiB/s (00:00:00)[download]   15.00KiB at    8.02MiB/s (00:00:00)[download]   31.00KiB at   15.25MiB/s (00:00:00)[download]   63.00KiB at   12.83MiB/s (00:00:00)[download]  127.00KiB at   10.86MiB/s (00:00:00)[download]  255.00KiB at    5.32MiB/s (00:00:00)[download]  471.92KiB at    5.08MiB/s (00:00:00)[download] 100% of  471.92KiB in 00:00:00 at 1.66MiB/s
+[download] Downloading item 8 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=7uGG6PUk4Qk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 7uGG6PUk4Qk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 7uGG6PUk4Qk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 7uGG6PUk4Qk: Downloading m3u8 information
+[info] 7uGG6PUk4Qk: Downloading subtitles: es-orig
+[info] 7uGG6PUk4Qk: Downloading 1 format(s): 399+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260815_7uGG6PUk4Qk.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260815_7uGG6PUk4Qk.es-orig.vtt
+[download]    1.00KiB at  939.79KiB/s (00:00:00)[download]    3.00KiB at    2.05MiB/s (00:00:00)[download]    7.00KiB at    3.57MiB/s (00:00:00)[download]   15.00KiB at    5.89MiB/s (00:00:00)[download]   31.00KiB at   10.47MiB/s (00:00:00)[download]   63.00KiB at   11.17MiB/s (00:00:00)[download]  127.00KiB at   12.54MiB/s (00:00:00)[download]  255.00KiB at    5.31MiB/s (00:00:00)[download]  511.00KiB at    5.50MiB/s (00:00:00)[download]  796.03KiB at    6.62MiB/s (00:00:00)[download] 100% of  796.03KiB in 00:00:00 at 1.96MiB/s
+[download] Downloading item 9 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=WeDRzqJLA2c
+[youtube] Sleeping 0.5 seconds ...
+[youtube] WeDRzqJLA2c: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] WeDRzqJLA2c: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] WeDRzqJLA2c: Downloading m3u8 information
+[info] WeDRzqJLA2c: Downloading subtitles: es-orig
+[info] WeDRzqJLA2c: Downloading 1 format(s): 137+251-3
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260730_WeDRzqJLA2c.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260730_WeDRzqJLA2c.es-orig.vtt
+[download]    1.00KiB at  889.00KiB/s (00:00:00)[download]    3.00KiB at    2.14MiB/s (00:00:00)[download]    7.00KiB at    4.44MiB/s (00:00:00)[download]   15.00KiB at    7.71MiB/s (00:00:00)[download]   31.00KiB at   13.80MiB/s (00:00:00)[download]   63.00KiB at   19.23MiB/s (00:00:00)[download]  127.00KiB at    4.98MiB/s (00:00:00)[download]  255.00KiB at    4.04MiB/s (00:00:00)[download]  511.00KiB at    4.69MiB/s (00:00:00)[download]  636.55KiB at    5.44MiB/s (00:00:00)[download] 100% of  636.55KiB in 00:00:00 at 1.87MiB/s
+[download] Downloading item 10 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=qdTuDp-dNvk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] qdTuDp-dNvk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] qdTuDp-dNvk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] qdTuDp-dNvk: Downloading m3u8 information
+[info] qdTuDp-dNvk: Downloading subtitles: es-orig
+[info] qdTuDp-dNvk: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260730_qdTuDp-dNvk.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260730_qdTuDp-dNvk.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.38MiB/s (00:00:00)[download]    7.00KiB at    4.85MiB/s (00:00:00)[download]   15.00KiB at    7.99MiB/s (00:00:00)[download]   31.00KiB at   15.19MiB/s (00:00:00)[download]   63.00KiB at   21.07MiB/s (00:00:00)[download]  127.00KiB at   11.38MiB/s (00:00:00)[download]  255.00KiB at    5.54MiB/s (00:00:00)[download]  511.00KiB at    5.60MiB/s (00:00:00)[download]  672.66KiB at    6.30MiB/s (00:00:00)[download] 100% of  672.66KiB in 00:00:00 at 2.04MiB/s
+[download] Downloading item 11 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1PLziNw51T0
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1PLziNw51T0: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1PLziNw51T0: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1PLziNw51T0: Downloading m3u8 information
+[info] 1PLziNw51T0: Downloading subtitles: es-orig
+[info] 1PLziNw51T0: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260723_1PLziNw51T0.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260723_1PLziNw51T0.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    6.07MiB/s (00:00:00)[download]   15.00KiB at    7.53MiB/s (00:00:00)[download]   31.00KiB at    9.90MiB/s (00:00:00)[download]   63.00KiB at    9.62MiB/s (00:00:00)[download]  127.00KiB at    7.26MiB/s (00:00:00)[download]  203.73KiB at    5.99MiB/s (00:00:00)[download] 100% of  203.73KiB in 00:00:00 at 746.06KiB/s
+[download] Downloading item 12 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JXcntnvpjFM
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JXcntnvpjFM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JXcntnvpjFM: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JXcntnvpjFM: Downloading m3u8 information
+[info] JXcntnvpjFM: Downloading subtitles: es-orig
+[info] JXcntnvpjFM: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260711_JXcntnvpjFM.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260711_JXcntnvpjFM.es-orig.vtt
+[download]    1.00KiB at  956.08KiB/s (00:00:00)[download]    3.00KiB at    2.29MiB/s (00:00:00)[download]    7.00KiB at    4.05MiB/s (00:00:00)[download]   15.00KiB at    7.94MiB/s (00:00:00)[download]   31.00KiB at   15.12MiB/s (00:00:00)[download]   63.00KiB at   15.30MiB/s (00:00:00)[download]  127.00KiB at    4.71MiB/s (00:00:00)[download]  196.22KiB at    5.42MiB/s (00:00:00)[download] 100% of  196.22KiB in 00:00:00 at 752.08KiB/s
+[download] Downloading item 13 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=OeqZ4Hflo9A
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OeqZ4Hflo9A: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OeqZ4Hflo9A: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OeqZ4Hflo9A: Downloading m3u8 information
+[info] OeqZ4Hflo9A: Downloading subtitles: es-orig
+[info] OeqZ4Hflo9A: Downloading 1 format(s): 399+251-2
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260614_OeqZ4Hflo9A.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260614_OeqZ4Hflo9A.es-orig.vtt
+[download]    1.00KiB at  856.68KiB/s (00:00:00)[download]    3.00KiB at    1.86MiB/s (00:00:00)[download]    7.00KiB at    3.60MiB/s (00:00:00)[download]   15.00KiB at    6.77MiB/s (00:00:00)[download]   31.00KiB at   12.88MiB/s (00:00:00)[download]   63.00KiB at   19.50MiB/s (00:00:00)[download]  127.00KiB at    9.05MiB/s (00:00:00)[download]  255.00KiB at    5.06MiB/s (00:00:00)[download]  511.00KiB at    4.29MiB/s (00:00:00)[download]  843.92KiB at    6.21MiB/s (00:00:00)[download] 100% of  843.92KiB in 00:00:00 at 1.99MiB/s
+[download] Downloading item 14 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=OD4M0oCwijY
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OD4M0oCwijY: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OD4M0oCwijY: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OD4M0oCwijY: Downloading m3u8 information
+[info] OD4M0oCwijY: Downloading subtitles: es-orig
+[info] OD4M0oCwijY: Downloading 1 format(s): 399+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260407_OD4M0oCwijY.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260407_OD4M0oCwijY.es-orig.vtt
+[download]    1.00KiB at  993.20KiB/s (00:00:00)[download]    3.00KiB at    1.47MiB/s (00:00:00)[download]    7.00KiB at    3.14MiB/s (00:00:00)[download]   15.00KiB at    6.26MiB/s (00:00:00)[download]   31.00KiB at    9.83MiB/s (00:00:00)[download]   63.00KiB at    9.52MiB/s (00:00:00)[download]  127.00KiB at    4.92MiB/s (00:00:00)[download]  255.00KiB at    4.16MiB/s (00:00:00)[download]  511.00KiB at    4.90MiB/s (00:00:00)[download] 1023.00KiB at    6.07MiB/s (00:00:00)[download]    1.02MiB at    5.96MiB/s (00:00:00)[download] 100% of    1.02MiB in 00:00:00 at 2.21MiB/s
+[download] Downloading item 15 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rYNusaT4cF4
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rYNusaT4cF4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rYNusaT4cF4: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rYNusaT4cF4: Downloading m3u8 information
+[info] rYNusaT4cF4: Downloading subtitles: es-orig
+[info] rYNusaT4cF4: Downloading 1 format(s): 399+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260331_rYNusaT4cF4.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260331_rYNusaT4cF4.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.85MiB/s (00:00:00)[download]    7.00KiB at    5.72MiB/s (00:00:00)[download]   15.00KiB at    8.61MiB/s (00:00:00)[download]   31.00KiB at    7.62MiB/s (00:00:00)[download]   63.00KiB at   11.55MiB/s (00:00:00)[download]  127.00KiB at   11.48MiB/s (00:00:00)[download]  255.00KiB at    5.32MiB/s (00:00:00)[download]  511.00KiB at    5.45MiB/s (00:00:00)[download]  575.85KiB at    5.71MiB/s (00:00:00)[download] 100% of  575.85KiB in 00:00:00 at 1.66MiB/s
+[download] Downloading item 16 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pUoxwrDdGH8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] pUoxwrDdGH8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] pUoxwrDdGH8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] pUoxwrDdGH8: Downloading m3u8 information
+[info] pUoxwrDdGH8: Downloading subtitles: es-orig
+[info] pUoxwrDdGH8: Downloading 1 format(s): 399+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260320_pUoxwrDdGH8.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260320_pUoxwrDdGH8.es-orig.vtt
+[download]    1.00KiB at  986.20KiB/s (00:00:00)[download]    3.00KiB at    2.31MiB/s (00:00:00)[download]    7.00KiB at    4.76MiB/s (00:00:00)[download]   15.00KiB at    7.81MiB/s (00:00:00)[download]   31.00KiB at    7.17MiB/s (00:00:00)[download]   63.00KiB at    9.54MiB/s (00:00:00)[download]  127.00KiB at    6.67MiB/s (00:00:00)[download]  255.00KiB at    4.44MiB/s (00:00:00)[download]  508.50KiB at    5.05MiB/s (00:00:00)[download] 100% of  508.50KiB in 00:00:00 at 1.24MiB/s
+[download] Downloading item 17 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=SKpejiCpDg4
+[youtube] Sleeping 0.5 seconds ...
+[youtube] SKpejiCpDg4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] SKpejiCpDg4: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] SKpejiCpDg4: Downloading m3u8 information
+[info] SKpejiCpDg4: Downloading subtitles: es-orig
+[info] SKpejiCpDg4: Downloading 1 format(s): 399+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260306_SKpejiCpDg4.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260306_SKpejiCpDg4.es-orig.vtt
+[download]    1.00KiB at  888.06KiB/s (00:00:00)[download]    3.00KiB at    2.03MiB/s (00:00:00)[download]    7.00KiB at    4.25MiB/s (00:00:00)[download]   15.00KiB at    8.30MiB/s (00:00:00)[download]   31.00KiB at   10.08MiB/s (00:00:00)[download]   63.00KiB at   11.47MiB/s (00:00:00)[download]  127.00KiB at    7.36MiB/s (00:00:00)[download]  255.00KiB at    4.40MiB/s (00:00:00)[download]  511.00KiB at    4.88MiB/s (00:00:00)[download]  546.06KiB at    5.16MiB/s (00:00:00)[download] 100% of  546.06KiB in 00:00:00 at 1.70MiB/s
+[download] Downloading item 18 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=lAsSu1QXXB0
+[youtube] Sleeping 0.5 seconds ...
+[youtube] lAsSu1QXXB0: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] lAsSu1QXXB0: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] lAsSu1QXXB0: Downloading m3u8 information
+[info] lAsSu1QXXB0: Downloading subtitles: es-orig
+[info] lAsSu1QXXB0: Downloading 1 format(s): 399+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260225_lAsSu1QXXB0.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260225_lAsSu1QXXB0.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at  Unknown B/s (00:00:00)[download]   31.00KiB at   29.70MiB/s (00:00:00)[download]   63.00KiB at   28.77MiB/s (00:00:00)[download]  127.00KiB at    9.98MiB/s (00:00:00)[download]  255.00KiB at    5.06MiB/s (00:00:00)[download]  511.00KiB at    4.96MiB/s (00:00:00)[download]  634.52KiB at    5.81MiB/s (00:00:00)[download] 100% of  634.52KiB in 00:00:00 at 1.77MiB/s
+[download] Downloading item 19 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gpbCXEMuzO8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gpbCXEMuzO8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gpbCXEMuzO8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gpbCXEMuzO8: Downloading m3u8 information
+[info] gpbCXEMuzO8: Downloading subtitles: es-orig
+[info] gpbCXEMuzO8: Downloading 1 format(s): 399+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260214_gpbCXEMuzO8.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260214_gpbCXEMuzO8.es-orig.vtt
+[download]    1.00KiB at  936.23KiB/s (00:00:00)[download]    3.00KiB at    2.14MiB/s (00:00:00)[download]    7.00KiB at    4.40MiB/s (00:00:00)[download]   15.00KiB at    7.73MiB/s (00:00:00)[download]   31.00KiB at   10.15MiB/s (00:00:00)[download]   63.00KiB at   14.75MiB/s (00:00:00)[download]  127.00KiB at   12.79MiB/s (00:00:00)[download]  255.00KiB at    5.45MiB/s (00:00:00)[download]  511.00KiB at    5.19MiB/s (00:00:00)[download]  800.81KiB at    6.67MiB/s (00:00:00)[download] 100% of  800.81KiB in 00:00:00 at 1.80MiB/s
+[download] Downloading item 20 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jiOlfrkkQSQ
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jiOlfrkkQSQ: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jiOlfrkkQSQ: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jiOlfrkkQSQ: Downloading m3u8 information
+[info] jiOlfrkkQSQ: Downloading subtitles: es-orig
+[info] jiOlfrkkQSQ: Downloading 1 format(s): 399+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260205_jiOlfrkkQSQ.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260205_jiOlfrkkQSQ.es-orig.vtt
+[download]    1.00KiB at  738.56KiB/s (00:00:00)[download]    3.00KiB at    1.77MiB/s (00:00:00)[download]    7.00KiB at    3.55MiB/s (00:00:00)[download]   15.00KiB at    6.95MiB/s (00:00:00)[download]   31.00KiB at   13.36MiB/s (00:00:00)[download]   63.00KiB at   14.53MiB/s (00:00:00)[download]  127.00KiB at    3.36MiB/s (00:00:00)[download]  255.00KiB at    4.46MiB/s (00:00:00)[download]  307.03KiB at    4.99MiB/s (00:00:00)[download] 100% of  307.03KiB in 00:00:00 at 831.71KiB/s
+[download] Downloading item 21 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=G4c8YBLnNXU
+[youtube] Sleeping 0.5 seconds ...
+[youtube] G4c8YBLnNXU: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] G4c8YBLnNXU: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] G4c8YBLnNXU: Downloading m3u8 information
+[info] G4c8YBLnNXU: Downloading subtitles: es-orig
+[info] G4c8YBLnNXU: Downloading 1 format(s): 399+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20260112_G4c8YBLnNXU.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20260112_G4c8YBLnNXU.es-orig.vtt
+[download]    1.00KiB at  965.10KiB/s (00:00:00)[download]    3.00KiB at    2.27MiB/s (00:00:00)[download]    7.00KiB at    4.69MiB/s (00:00:00)[download]   15.00KiB at    7.52MiB/s (00:00:00)[download]   31.00KiB at   12.33MiB/s (00:00:00)[download]   63.00KiB at   14.90MiB/s (00:00:00)[download]  127.00KiB at    4.62MiB/s (00:00:00)[download]  255.00KiB at    3.97MiB/s (00:00:00)[download]  511.00KiB at    4.58MiB/s (00:00:00)[download]  701.55KiB at    5.59MiB/s (00:00:00)[download] 100% of  701.55KiB in 00:00:00 at 1.51MiB/s
+[download] Downloading item 22 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=3Sf_5Cd5_XA
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 3Sf_5Cd5_XA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 3Sf_5Cd5_XA: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 3Sf_5Cd5_XA: Downloading m3u8 information
+[info] 3Sf_5Cd5_XA: Downloading subtitles: es-orig
+[info] 3Sf_5Cd5_XA: Downloading 1 format(s): 399+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251230_3Sf_5Cd5_XA.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251230_3Sf_5Cd5_XA.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.36MiB/s (00:00:00)[download]    7.00KiB at    4.85MiB/s (00:00:00)[download]   15.00KiB at    7.70MiB/s (00:00:00)[download]   31.00KiB at   14.08MiB/s (00:00:00)[download]   63.00KiB at   14.59MiB/s (00:00:00)[download]  127.00KiB at    9.55MiB/s (00:00:00)[download]  222.64KiB at   10.48MiB/s (00:00:00)[download] 100% of  222.64KiB in 00:00:00 at 1.12MiB/s
+[download] Downloading item 23 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=o48kJ3RfrQA
+[youtube] Sleeping 0.5 seconds ...
+[youtube] o48kJ3RfrQA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] o48kJ3RfrQA: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] o48kJ3RfrQA: Downloading m3u8 information
+[info] o48kJ3RfrQA: Downloading subtitles: es-orig
+[info] o48kJ3RfrQA: Downloading 1 format(s): 248+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251229_o48kJ3RfrQA.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251229_o48kJ3RfrQA.es-orig.vtt
+[download]    1.00KiB at  905.70KiB/s (00:00:00)[download]    3.00KiB at    2.13MiB/s (00:00:00)[download]    7.00KiB at    4.41MiB/s (00:00:00)[download]   15.00KiB at    8.50MiB/s (00:00:00)[download]   31.00KiB at   15.78MiB/s (00:00:00)[download]   63.00KiB at   14.28MiB/s (00:00:00)[download]  127.00KiB at    7.30MiB/s (00:00:00)[download]  255.00KiB at    4.57MiB/s (00:00:00)[download]  511.00KiB at    5.12MiB/s (00:00:00)[download]  751.92KiB at    6.70MiB/s (00:00:00)[download] 100% of  751.92KiB in 00:00:00 at 1.96MiB/s
+[download] Downloading item 24 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gLUipPOFji8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gLUipPOFji8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gLUipPOFji8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gLUipPOFji8: Downloading m3u8 information
+[info] gLUipPOFji8: Downloading subtitles: es-orig
+[info] gLUipPOFji8: Downloading 1 format(s): 248+251-2
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251219_gLUipPOFji8.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251219_gLUipPOFji8.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.38MiB/s (00:00:00)[download]    7.00KiB at    4.84MiB/s (00:00:00)[download]   15.00KiB at    9.30MiB/s (00:00:00)[download]   31.00KiB at   10.05MiB/s (00:00:00)[download]   63.00KiB at    8.27MiB/s (00:00:00)[download]  127.00KiB at    9.48MiB/s (00:00:00)[download]  255.00KiB at    5.09MiB/s (00:00:00)[download]  511.00KiB at    5.18MiB/s (00:00:00)[download]  840.55KiB at    6.51MiB/s (00:00:00)[download] 100% of  840.55KiB in 00:00:00 at 2.25MiB/s
+[download] Downloading item 25 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=cAhEDuLkdqE
+[youtube] Sleeping 0.5 seconds ...
+[youtube] cAhEDuLkdqE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] cAhEDuLkdqE: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] cAhEDuLkdqE: Downloading m3u8 information
+[info] cAhEDuLkdqE: Downloading subtitles: es-orig
+[info] cAhEDuLkdqE: Downloading 1 format(s): 248+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251216_cAhEDuLkdqE.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251216_cAhEDuLkdqE.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at   13.86MiB/s (00:00:00)[download]   31.00KiB at   10.37MiB/s (00:00:00)[download]   63.00KiB at   11.99MiB/s (00:00:00)[download]  127.00KiB at    4.69MiB/s (00:00:00)[download]  255.00KiB at    4.08MiB/s (00:00:00)[download]  511.00KiB at    4.45MiB/s (00:00:00)[download] 1023.00KiB at    6.58MiB/s (00:00:00)[download]    1.07MiB at    6.85MiB/s (00:00:00)[download] 100% of    1.07MiB in 00:00:00 at 2.05MiB/s
+[download] Downloading item 26 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=b4eZWQ4jW8Y
+[youtube] Sleeping 0.5 seconds ...
+[youtube] b4eZWQ4jW8Y: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] b4eZWQ4jW8Y: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] b4eZWQ4jW8Y: Downloading m3u8 information
+[info] b4eZWQ4jW8Y: Downloading subtitles: es-orig
+[info] b4eZWQ4jW8Y: Downloading 1 format(s): 399+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251209_b4eZWQ4jW8Y.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251209_b4eZWQ4jW8Y.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.55MiB/s (00:00:00)[download]    7.00KiB at    5.14MiB/s (00:00:00)[download]   15.00KiB at    7.96MiB/s (00:00:00)[download]   31.00KiB at   10.61MiB/s (00:00:00)[download]   63.00KiB at   15.12MiB/s (00:00:00)[download]  127.00KiB at    4.94MiB/s (00:00:00)[download]  255.00KiB at    3.89MiB/s (00:00:00)[download]  511.00KiB at    4.57MiB/s (00:00:00)[download]  655.67KiB at    5.32MiB/s (00:00:00)[download] 100% of  655.67KiB in 00:00:00 at 1.74MiB/s
+[download] Downloading item 27 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1Q-CdNvbLl8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1Q-CdNvbLl8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1Q-CdNvbLl8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1Q-CdNvbLl8: Downloading m3u8 information
+[info] 1Q-CdNvbLl8: Downloading subtitles: es-orig
+[info] 1Q-CdNvbLl8: Downloading 1 format(s): 399+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251202_1Q-CdNvbLl8.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251202_1Q-CdNvbLl8.es-orig.vtt
+[download]    1.00KiB at  969.11KiB/s (00:00:00)[download]    3.00KiB at    2.23MiB/s (00:00:00)[download]    7.00KiB at    4.59MiB/s (00:00:00)[download]   15.00KiB at    7.54MiB/s (00:00:00)[download]   31.00KiB at   12.69MiB/s (00:00:00)[download]   63.00KiB at   11.65MiB/s (00:00:00)[download]  127.00KiB at    3.74MiB/s (00:00:00)[download]  255.00KiB at    3.54MiB/s (00:00:00)[download]  451.53KiB at    3.98MiB/s (00:00:00)[download] 100% of  451.53KiB in 00:00:00 at 1.19MiB/s
+[download] Downloading item 28 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4FOHGqkaqEA
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4FOHGqkaqEA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4FOHGqkaqEA: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4FOHGqkaqEA: Downloading m3u8 information
+[info] 4FOHGqkaqEA: Downloading subtitles: es-orig
+[info] 4FOHGqkaqEA: Downloading 1 format(s): 399+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251201_4FOHGqkaqEA.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251201_4FOHGqkaqEA.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.37MiB/s (00:00:00)[download]    7.00KiB at    4.85MiB/s (00:00:00)[download]   15.00KiB at    7.28MiB/s (00:00:00)[download]   31.00KiB at    5.96MiB/s (00:00:00)[download]   63.00KiB at    9.93MiB/s (00:00:00)[download]  127.00KiB at   11.35MiB/s (00:00:00)[download]  255.00KiB at   12.68MiB/s (00:00:00)[download]  256.82KiB at   12.63MiB/s (00:00:00)[download] 100% of  256.82KiB in 00:00:00 at 1.15MiB/s
+[download] Downloading item 29 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=y7iPHfBVYak
+[youtube] Sleeping 0.5 seconds ...
+[youtube] y7iPHfBVYak: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] y7iPHfBVYak: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] y7iPHfBVYak: Downloading m3u8 information
+[info] y7iPHfBVYak: Downloading subtitles: es-orig
+[info] y7iPHfBVYak: Downloading 1 format(s): 248+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251128_y7iPHfBVYak.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251128_y7iPHfBVYak.es-orig.vtt
+[download]    1.00KiB at  978.61KiB/s (00:00:00)[download]    3.00KiB at    2.20MiB/s (00:00:00)[download]    7.00KiB at    4.41MiB/s (00:00:00)[download]   15.00KiB at    7.40MiB/s (00:00:00)[download]   31.00KiB at    7.22MiB/s (00:00:00)[download]   63.00KiB at    7.30MiB/s (00:00:00)[download]  127.00KiB at    6.03MiB/s (00:00:00)[download]  255.00KiB at    4.52MiB/s (00:00:00)[download]  511.00KiB at    5.06MiB/s (00:00:00)[download] 1023.00KiB at    7.45MiB/s (00:00:00)[download]    1.25MiB at    8.44MiB/s (00:00:00)[download] 100% of    1.25MiB in 00:00:00 at 2.86MiB/s
+[download] Downloading item 30 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=mZ1zqn-gWf8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] mZ1zqn-gWf8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] mZ1zqn-gWf8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] mZ1zqn-gWf8: Downloading m3u8 information
+[info] mZ1zqn-gWf8: Downloading subtitles: es-orig
+[info] mZ1zqn-gWf8: Downloading 1 format(s): 248+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251126_mZ1zqn-gWf8.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251126_mZ1zqn-gWf8.es-orig.vtt
+[download]    1.00KiB at  980.66KiB/s (00:00:00)[download]    3.00KiB at    2.27MiB/s (00:00:00)[download]    7.00KiB at    4.62MiB/s (00:00:00)[download]   15.00KiB at    7.49MiB/s (00:00:00)[download]   31.00KiB at   13.06MiB/s (00:00:00)[download]   63.00KiB at   14.21MiB/s (00:00:00)[download]  127.00KiB at   13.43MiB/s (00:00:00)[download]  255.00KiB at    5.66MiB/s (00:00:00)[download]  511.00KiB at    5.77MiB/s (00:00:00)[download]  872.80KiB at    7.70MiB/s (00:00:00)[download] 100% of  872.80KiB in 00:00:00 at 1.16MiB/s
+[download] Downloading item 31 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=zO17iMQi1ro
+[youtube] Sleeping 0.5 seconds ...
+[youtube] zO17iMQi1ro: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] zO17iMQi1ro: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] zO17iMQi1ro: Downloading m3u8 information
+[info] zO17iMQi1ro: Downloading subtitles: es-orig
+[info] zO17iMQi1ro: Downloading 1 format(s): 248+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251121_zO17iMQi1ro.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251121_zO17iMQi1ro.es-orig.vtt
+[download]    1.00KiB at  558.57KiB/s (00:00:00)[download]    3.00KiB at  772.57KiB/s (00:00:00)[download]    7.00KiB at    1.42MiB/s (00:00:00)[download]   15.00KiB at    2.65MiB/s (00:00:00)[download]   31.00KiB at    4.30MiB/s (00:00:00)[download]   63.00KiB at    7.46MiB/s (00:00:00)[download]  127.00KiB at   13.03MiB/s (00:00:00)[download]  255.00KiB at    5.44MiB/s (00:00:00)[download]  511.00KiB at    5.94MiB/s (00:00:00)[download] 1023.00KiB at    7.63MiB/s (00:00:00)[download]    1.20MiB at    8.24MiB/s (00:00:00)[download] 100% of    1.20MiB in 00:00:00 at 2.24MiB/s
+[download] Downloading item 32 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=9v9SIdP7Dew
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 9v9SIdP7Dew: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 9v9SIdP7Dew: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 9v9SIdP7Dew: Downloading m3u8 information
+[info] 9v9SIdP7Dew: Downloading subtitles: es-orig
+[info] 9v9SIdP7Dew: Downloading 1 format(s): 248+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251119_9v9SIdP7Dew.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251119_9v9SIdP7Dew.es-orig.vtt
+[download]    1.00KiB at  486.18KiB/s (00:00:00)[download]    3.00KiB at  581.41KiB/s (00:00:00)[download]    7.00KiB at    1.28MiB/s (00:00:00)[download]   15.00KiB at    2.55MiB/s (00:00:00)[download]   31.00KiB at    4.08MiB/s (00:00:00)[download]   63.00KiB at    5.17MiB/s (00:00:00)[download]  127.00KiB at    7.16MiB/s (00:00:00)[download]  255.00KiB at    6.06MiB/s (00:00:00)[download]  511.00KiB at    6.48MiB/s (00:00:00)[download]  907.37KiB at    8.87MiB/s (00:00:00)[download] 100% of  907.37KiB in 00:00:00 at 1.84MiB/s
+[download] Downloading item 33 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=EOogVkQxOk8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] EOogVkQxOk8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] EOogVkQxOk8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] EOogVkQxOk8: Downloading m3u8 information
+[info] EOogVkQxOk8: Downloading subtitles: es-orig
+[info] EOogVkQxOk8: Downloading 1 format(s): 248+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251118_EOogVkQxOk8.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251118_EOogVkQxOk8.es-orig.vtt
+[download]    1.00KiB at  468.38KiB/s (00:00:00)[download]    3.00KiB at    1.23MiB/s (00:00:00)[download]    7.00KiB at    2.69MiB/s (00:00:00)[download]   15.00KiB at    5.41MiB/s (00:00:00)[download]   31.00KiB at    7.52MiB/s (00:00:00)[download]   63.00KiB at    9.65MiB/s (00:00:00)[download]  127.00KiB at    4.65MiB/s (00:00:00)[download]  255.00KiB at    3.90MiB/s (00:00:00)[download]  511.00KiB at    4.66MiB/s (00:00:00)[download]  926.48KiB at    6.48MiB/s (00:00:00)[download] 100% of  926.48KiB in 00:00:00 at 2.35MiB/s
+[download] Downloading item 34 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5dsCtEyaShI
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 5dsCtEyaShI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 5dsCtEyaShI: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 5dsCtEyaShI: Downloading m3u8 information
+[info] 5dsCtEyaShI: Downloading subtitles: es-orig
+[info] 5dsCtEyaShI: Downloading 1 format(s): 248+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251114_5dsCtEyaShI.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251114_5dsCtEyaShI.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.85MiB/s (00:00:00)[download]    7.00KiB at    3.67MiB/s (00:00:00)[download]   15.00KiB at    7.12MiB/s (00:00:00)[download]   31.00KiB at   10.56MiB/s (00:00:00)[download]   63.00KiB at   13.86MiB/s (00:00:00)[download]  127.00KiB at    4.87MiB/s (00:00:00)[download]  255.00KiB at    3.97MiB/s (00:00:00)[download]  511.00KiB at    4.50MiB/s (00:00:00)[download]  670.41KiB at    5.42MiB/s (00:00:00)[download] 100% of  670.41KiB in 00:00:00 at 1.79MiB/s
+[download] Downloading item 35 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=nd9SbKsbSSk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] nd9SbKsbSSk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] nd9SbKsbSSk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] nd9SbKsbSSk: Downloading m3u8 information
+[info] nd9SbKsbSSk: Downloading subtitles: es-orig
+[info] nd9SbKsbSSk: Downloading 1 format(s): 248+251-2
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251114_nd9SbKsbSSk.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251114_nd9SbKsbSSk.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.20MiB/s (00:00:00)[download]    7.00KiB at    3.74MiB/s (00:00:00)[download]   15.00KiB at    6.96MiB/s (00:00:00)[download]   31.00KiB at   10.93MiB/s (00:00:00)[download]   63.00KiB at   18.73MiB/s (00:00:00)[download]  127.00KiB at    6.80MiB/s (00:00:00)[download]  255.00KiB at    4.31MiB/s (00:00:00)[download]  511.00KiB at    4.97MiB/s (00:00:00)[download]  584.90KiB at    5.50MiB/s (00:00:00)[download] 100% of  584.90KiB in 00:00:00 at 1.48MiB/s
+[download] Downloading item 36 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GLJIwnTeIG0
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GLJIwnTeIG0: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GLJIwnTeIG0: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GLJIwnTeIG0: Downloading m3u8 information
+[info] GLJIwnTeIG0: Downloading subtitles: es-orig
+[info] GLJIwnTeIG0: Downloading 1 format(s): 248+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251105_GLJIwnTeIG0.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251105_GLJIwnTeIG0.es-orig.vtt
+[download]    1.00KiB at  458.14KiB/s (00:00:00)[download]    3.00KiB at    1.18MiB/s (00:00:00)[download]    7.00KiB at    2.59MiB/s (00:00:00)[download]   15.00KiB at    2.14MiB/s (00:00:00)[download]   31.00KiB at    3.79MiB/s (00:00:00)[download]   63.00KiB at    5.43MiB/s (00:00:00)[download]  127.00KiB at    5.21MiB/s (00:00:00)[download]  255.00KiB at    4.38MiB/s (00:00:00)[download]  511.00KiB at    4.90MiB/s (00:00:00)[download] 1023.00KiB at    6.73MiB/s (00:00:00)[download]    1.17MiB at    7.31MiB/s (00:00:00)[download] 100% of    1.17MiB in 00:00:00 at 2.33MiB/s
+[download] Downloading item 37 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jt5XHvfdqQw
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jt5XHvfdqQw: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jt5XHvfdqQw: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jt5XHvfdqQw: Downloading m3u8 information
+[info] jt5XHvfdqQw: Downloading subtitles: es-orig
+[info] jt5XHvfdqQw: Downloading 1 format(s): 616+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251030_jt5XHvfdqQw.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251030_jt5XHvfdqQw.es-orig.vtt
+[download]    1.00KiB at  617.35KiB/s (00:00:00)[download]    3.00KiB at    1.51MiB/s (00:00:00)[download]    7.00KiB at    3.03MiB/s (00:00:00)[download]   15.00KiB at    3.18MiB/s (00:00:00)[download]   31.00KiB at    4.80MiB/s (00:00:00)[download]   63.00KiB at    3.71MiB/s (00:00:00)[download]  127.00KiB at    5.08MiB/s (00:00:00)[download]  255.00KiB at    3.88MiB/s (00:00:00)[download]  511.00KiB at    4.60MiB/s (00:00:00)[download]  776.64KiB at    6.48MiB/s (00:00:00)[download] 100% of  776.64KiB in 00:00:00 at 1.83MiB/s
+[download] Downloading item 38 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=pPNTAGaLmDQ
+[youtube] Sleeping 0.5 seconds ...
+[youtube] pPNTAGaLmDQ: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] pPNTAGaLmDQ: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] pPNTAGaLmDQ: Downloading m3u8 information
+[info] pPNTAGaLmDQ: Downloading subtitles: es-orig
+[info] pPNTAGaLmDQ: Downloading 1 format(s): 248+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251027_pPNTAGaLmDQ.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251027_pPNTAGaLmDQ.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at   14.21MiB/s (00:00:00)[download]   31.00KiB at   24.03MiB/s (00:00:00)[download]   63.00KiB at   25.22MiB/s (00:00:00)[download]  127.00KiB at   17.09MiB/s (00:00:00)[download]  255.00KiB at    5.88MiB/s (00:00:00)[download]  511.00KiB at    5.80MiB/s (00:00:00)[download]  732.21KiB at    6.86MiB/s (00:00:00)[download] 100% of  732.21KiB in 00:00:00 at 1.72MiB/s
+[download] Downloading item 39 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=00U797MtT1U
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 00U797MtT1U: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 00U797MtT1U: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 00U797MtT1U: Downloading m3u8 information
+[info] 00U797MtT1U: Downloading subtitles: es-orig
+[info] 00U797MtT1U: Downloading 1 format(s): 616+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251025_00U797MtT1U.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251025_00U797MtT1U.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    5.83MiB/s (00:00:00)[download]   15.00KiB at    9.27MiB/s (00:00:00)[download]   31.00KiB at    4.46MiB/s (00:00:00)[download]   63.00KiB at    4.16MiB/s (00:00:00)[download]  127.00KiB at    2.54MiB/s (00:00:00)[download]  255.00KiB at    2.89MiB/s (00:00:00)[download]  511.00KiB at    2.68MiB/s (00:00:00)[download] 1023.00KiB at    3.19MiB/s (00:00:00)[download]    1.00MiB at    3.18MiB/s (00:00:00)[download] 100% of    1.00MiB in 00:00:00 at 1.50MiB/s
+[download] Downloading item 40 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=9gYKvKM0wg4
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 9gYKvKM0wg4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 9gYKvKM0wg4: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 9gYKvKM0wg4: Downloading m3u8 information
+[info] 9gYKvKM0wg4: Downloading subtitles: es-orig
+[info] 9gYKvKM0wg4: Downloading 1 format(s): 399+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251020_9gYKvKM0wg4.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251020_9gYKvKM0wg4.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.85MiB/s (00:00:00)[download]    7.00KiB at    4.55MiB/s (00:00:00)[download]   15.00KiB at    6.42MiB/s (00:00:00)[download]   31.00KiB at   10.78MiB/s (00:00:00)[download]   63.00KiB at   16.49MiB/s (00:00:00)[download]  127.00KiB at   15.06MiB/s (00:00:00)[download]  255.00KiB at    5.74MiB/s (00:00:00)[download]  511.00KiB at    5.88MiB/s (00:00:00)[download] 1023.00KiB at    8.14MiB/s (00:00:00)[download]    1.01MiB at    8.07MiB/s (00:00:00)[download] 100% of    1.01MiB in 00:00:00 at 2.66MiB/s
+[download] Downloading item 41 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=qp4WX1cpgAg
+[youtube] Sleeping 0.5 seconds ...
+[youtube] qp4WX1cpgAg: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] qp4WX1cpgAg: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] qp4WX1cpgAg: Downloading m3u8 information
+[info] qp4WX1cpgAg: Downloading subtitles: es-orig
+[info] qp4WX1cpgAg: Downloading 1 format(s): 399+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251018_qp4WX1cpgAg.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251018_qp4WX1cpgAg.es-orig.vtt
+[download]    1.00KiB at  919.00KiB/s (00:00:00)[download]    3.00KiB at    1.44MiB/s (00:00:00)[download]    7.00KiB at    2.44MiB/s (00:00:00)[download]   15.00KiB at    4.13MiB/s (00:00:00)[download]   31.00KiB at    7.49MiB/s (00:00:00)[download]   63.00KiB at    8.60MiB/s (00:00:00)[download]  127.00KiB at    7.60MiB/s (00:00:00)[download]  255.00KiB at    5.23MiB/s (00:00:00)[download]  511.00KiB at    5.28MiB/s (00:00:00)[download]  990.47KiB at    6.73MiB/s (00:00:00)[download] 100% of  990.47KiB in 00:00:00 at 2.28MiB/s
+[download] Downloading item 42 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ZKFr80g7uYw
+[youtube] Sleeping 0.5 seconds ...
+[youtube] ZKFr80g7uYw: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] ZKFr80g7uYw: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] ZKFr80g7uYw: Downloading m3u8 information
+[info] ZKFr80g7uYw: Downloading 1 format(s): 248+251
+[info] There are no subtitles for the requested languages
+[download] Downloading item 43 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=3Q6BuGp0mUw
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 3Q6BuGp0mUw: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 3Q6BuGp0mUw: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 3Q6BuGp0mUw: Downloading m3u8 information
+[info] 3Q6BuGp0mUw: Downloading subtitles: es-orig
+[info] 3Q6BuGp0mUw: Downloading 1 format(s): 399+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251008_3Q6BuGp0mUw.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251008_3Q6BuGp0mUw.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    6.50MiB/s (00:00:00)[download]   15.00KiB at    6.16MiB/s (00:00:00)[download]   31.00KiB at    6.53MiB/s (00:00:00)[download]   63.00KiB at    7.39MiB/s (00:00:00)[download]  127.00KiB at   11.10MiB/s (00:00:00)[download]  255.00KiB at    5.71MiB/s (00:00:00)[download]  511.00KiB at    5.18MiB/s (00:00:00)[download]  747.72KiB at    6.41MiB/s (00:00:00)[download] 100% of  747.72KiB in 00:00:00 at 2.19MiB/s
+[download] Downloading item 44 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Q9hdKWprnvU
+[youtube] Sleeping 0.5 seconds ...
+[youtube] Q9hdKWprnvU: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] Q9hdKWprnvU: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] Q9hdKWprnvU: Downloading m3u8 information
+[info] Q9hdKWprnvU: Downloading subtitles: es-orig
+[info] Q9hdKWprnvU: Downloading 1 format(s): 399+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251007_Q9hdKWprnvU.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251007_Q9hdKWprnvU.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.85MiB/s (00:00:00)[download]    7.00KiB at    5.61MiB/s (00:00:00)[download]   15.00KiB at    9.74MiB/s (00:00:00)[download]   31.00KiB at   17.41MiB/s (00:00:00)[download]   63.00KiB at   16.23MiB/s (00:00:00)[download]  127.00KiB at    3.97MiB/s (00:00:00)[download]  255.00KiB at    3.70MiB/s (00:00:00)[download]  511.00KiB at    4.30MiB/s (00:00:00)[download]  693.42KiB at    5.14MiB/s (00:00:00)[download] 100% of  693.42KiB in 00:00:00 at 1.78MiB/s
+[download] Downloading item 45 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=uWuTIKxyOgI
+[youtube] Sleeping 0.5 seconds ...
+[youtube] uWuTIKxyOgI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] uWuTIKxyOgI: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] uWuTIKxyOgI: Downloading m3u8 information
+[info] uWuTIKxyOgI: Downloading subtitles: es-orig
+[info] uWuTIKxyOgI: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20251003_uWuTIKxyOgI.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20251003_uWuTIKxyOgI.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    5.85MiB/s (00:00:00)[download]   15.00KiB at   11.06MiB/s (00:00:00)[download]   31.00KiB at   20.17MiB/s (00:00:00)[download]   63.00KiB at   16.39MiB/s (00:00:00)[download]  127.00KiB at   15.15MiB/s (00:00:00)[download]  255.00KiB at    5.89MiB/s (00:00:00)[download]  511.00KiB at    5.65MiB/s (00:00:00)[download]  691.24KiB at    6.71MiB/s (00:00:00)[download] 100% of  691.24KiB in 00:00:00 at 2.06MiB/s
+[download] Downloading item 46 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GwfersWAP7Q
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GwfersWAP7Q: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GwfersWAP7Q: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GwfersWAP7Q: Downloading m3u8 information
+[info] GwfersWAP7Q: Downloading subtitles: es-orig
+[info] GwfersWAP7Q: Downloading 1 format(s): 248+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250922_GwfersWAP7Q.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250922_GwfersWAP7Q.es-orig.vtt
+[download]    1.00KiB at  874.91KiB/s (00:00:00)[download]    3.00KiB at  633.96KiB/s (00:00:00)[download]    7.00KiB at  775.88KiB/s (00:00:00)[download]   15.00KiB at    1.16MiB/s (00:00:00)[download]   31.00KiB at    1.84MiB/s (00:00:00)[download]   63.00KiB at    3.58MiB/s (00:00:00)[download]  127.00KiB at    4.70MiB/s (00:00:00)[download]  255.00KiB at    4.13MiB/s (00:00:00)[download]  511.00KiB at    4.82MiB/s (00:00:00)[download]  558.72KiB at    5.16MiB/s (00:00:00)[download] 100% of  558.72KiB in 00:00:00 at 1.78MiB/s
+[download] Downloading item 47 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=wG3zO_hkHQI
+[youtube] Sleeping 0.5 seconds ...
+[youtube] wG3zO_hkHQI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] wG3zO_hkHQI: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] wG3zO_hkHQI: Downloading m3u8 information
+[info] wG3zO_hkHQI: Downloading subtitles: es-orig
+[info] wG3zO_hkHQI: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250909_wG3zO_hkHQI.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250909_wG3zO_hkHQI.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    6.03MiB/s (00:00:00)[download]   15.00KiB at    9.49MiB/s (00:00:00)[download]   31.00KiB at   17.57MiB/s (00:00:00)[download]   63.00KiB at   16.23MiB/s (00:00:00)[download]  127.00KiB at    7.85MiB/s (00:00:00)[download]  255.00KiB at    5.55MiB/s (00:00:00)[download]  511.00KiB at    5.32MiB/s (00:00:00)[download]  895.12KiB at    7.00MiB/s (00:00:00)[download] 100% of  895.12KiB in 00:00:00 at 2.44MiB/s
+[download] Downloading item 48 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=0moxUZEGq54
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 0moxUZEGq54: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 0moxUZEGq54: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 0moxUZEGq54: Downloading m3u8 information
+[info] 0moxUZEGq54: Downloading subtitles: es-orig
+[info] 0moxUZEGq54: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250906_0moxUZEGq54.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250906_0moxUZEGq54.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.20MiB/s (00:00:00)[download]    7.00KiB at    4.44MiB/s (00:00:00)[download]   15.00KiB at    8.66MiB/s (00:00:00)[download]   31.00KiB at   16.09MiB/s (00:00:00)[download]   63.00KiB at   14.58MiB/s (00:00:00)[download]  127.00KiB at    4.58MiB/s (00:00:00)[download]  255.00KiB at    3.83MiB/s (00:00:00)[download]  379.12KiB at    5.01MiB/s (00:00:00)[download] 100% of  379.12KiB in 00:00:00 at 1.32MiB/s
+[download] Downloading item 49 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=BO7DZmwdw7M
+[youtube] Sleeping 0.5 seconds ...
+[youtube] BO7DZmwdw7M: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] BO7DZmwdw7M: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] BO7DZmwdw7M: Downloading m3u8 information
+[info] BO7DZmwdw7M: Downloading subtitles: es-orig
+[info] BO7DZmwdw7M: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250830_BO7DZmwdw7M.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250830_BO7DZmwdw7M.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.71MiB/s (00:00:00)[download]    7.00KiB at    3.27MiB/s (00:00:00)[download]   15.00KiB at    6.36MiB/s (00:00:00)[download]   31.00KiB at   11.51MiB/s (00:00:00)[download]   63.00KiB at   20.16MiB/s (00:00:00)[download]  127.00KiB at    5.35MiB/s (00:00:00)[download]  255.00KiB at    4.12MiB/s (00:00:00)[download]  511.00KiB at    4.64MiB/s (00:00:00)[download]  990.35KiB at    6.22MiB/s (00:00:00)[download] 100% of  990.35KiB in 00:00:00 at 2.06MiB/s
+[download] Downloading item 50 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=U2zecMjk9kY
+[youtube] Sleeping 0.5 seconds ...
+[youtube] U2zecMjk9kY: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] U2zecMjk9kY: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] U2zecMjk9kY: Downloading m3u8 information
+[info] U2zecMjk9kY: Downloading subtitles: es-orig
+[info] U2zecMjk9kY: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250828_U2zecMjk9kY.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250828_U2zecMjk9kY.es-orig.vtt
+[download]    1.00KiB at  419.22KiB/s (00:00:00)[download]    3.00KiB at    1.10MiB/s (00:00:00)[download]    7.00KiB at    2.35MiB/s (00:00:00)[download]   15.00KiB at    4.56MiB/s (00:00:00)[download]   31.00KiB at    5.51MiB/s (00:00:00)[download]   63.00KiB at    7.03MiB/s (00:00:00)[download]  127.00KiB at    4.01MiB/s (00:00:00)[download]  255.00KiB at    5.23MiB/s (00:00:00)[download]  283.64KiB at    5.68MiB/s (00:00:00)[download] 100% of  283.64KiB in 00:00:00 at 1.13MiB/s
+[download] Downloading item 51 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FVVTQ7xgt6c
+[youtube] Sleeping 0.5 seconds ...
+[youtube] FVVTQ7xgt6c: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] FVVTQ7xgt6c: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] FVVTQ7xgt6c: Downloading m3u8 information
+[info] FVVTQ7xgt6c: Downloading subtitles: es-orig
+[info] FVVTQ7xgt6c: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250812_FVVTQ7xgt6c.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250812_FVVTQ7xgt6c.es-orig.vtt
+[download]    1.00KiB at  814.27KiB/s (00:00:00)[download]    3.00KiB at    1.79MiB/s (00:00:00)[download]    7.00KiB at    3.00MiB/s (00:00:00)[download]   15.00KiB at    5.28MiB/s (00:00:00)[download]   31.00KiB at   10.09MiB/s (00:00:00)[download]   63.00KiB at   14.73MiB/s (00:00:00)[download]  127.00KiB at   14.26MiB/s (00:00:00)[download]  255.00KiB at    5.34MiB/s (00:00:00)[download]  511.00KiB at    5.16MiB/s (00:00:00)[download] 1023.00KiB at    6.75MiB/s (00:00:00)[download]    1.29MiB at    7.69MiB/s (00:00:00)[download] 100% of    1.29MiB in 00:00:00 at 2.92MiB/s
+[download] Downloading item 52 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jGyV-p5yA5c
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jGyV-p5yA5c: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jGyV-p5yA5c: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jGyV-p5yA5c: Downloading m3u8 information
+[info] jGyV-p5yA5c: Downloading subtitles: es-orig
+[info] jGyV-p5yA5c: Downloading 1 format(s): 248+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250807_jGyV-p5yA5c.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250807_jGyV-p5yA5c.es-orig.vtt
+[download]    1.00KiB at  855.28KiB/s (00:00:00)[download]    3.00KiB at    1.93MiB/s (00:00:00)[download]    7.00KiB at    3.98MiB/s (00:00:00)[download]   15.00KiB at    7.61MiB/s (00:00:00)[download]   31.00KiB at    8.74MiB/s (00:00:00)[download]   63.00KiB at    8.00MiB/s (00:00:00)[download]  127.00KiB at   10.26MiB/s (00:00:00)[download]  255.00KiB at    5.73MiB/s (00:00:00)[download]  511.00KiB at    5.66MiB/s (00:00:00)[download]  622.35KiB at    6.53MiB/s (00:00:00)[download] 100% of  622.35KiB in 00:00:00 at 1.76MiB/s
+[download] Downloading item 53 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yyJV_OgjQYM
+[youtube] Sleeping 0.5 seconds ...
+[youtube] yyJV_OgjQYM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] yyJV_OgjQYM: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] yyJV_OgjQYM: Downloading m3u8 information
+[info] yyJV_OgjQYM: Downloading subtitles: es-orig
+[info] yyJV_OgjQYM: Downloading 1 format(s): 399+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250803_yyJV_OgjQYM.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250803_yyJV_OgjQYM.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    4.92MiB/s (00:00:00)[download]   15.00KiB at    7.87MiB/s (00:00:00)[download]   31.00KiB at   13.59MiB/s (00:00:00)[download]   63.00KiB at   15.49MiB/s (00:00:00)[download]  127.00KiB at    9.49MiB/s (00:00:00)[download]  255.00KiB at    5.20MiB/s (00:00:00)[download]  511.00KiB at    5.29MiB/s (00:00:00)[download]  626.03KiB at    5.97MiB/s (00:00:00)[download] 100% of  626.03KiB in 00:00:00 at 1.08MiB/s
+[download] Downloading item 54 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=g5yE_B_Z-oM
+[youtube] Sleeping 0.5 seconds ...
+[youtube] g5yE_B_Z-oM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] g5yE_B_Z-oM: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] g5yE_B_Z-oM: Downloading m3u8 information
+[info] g5yE_B_Z-oM: Downloading subtitles: es-orig
+[info] g5yE_B_Z-oM: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250723_g5yE_B_Z-oM.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250723_g5yE_B_Z-oM.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    5.72MiB/s (00:00:00)[download]   15.00KiB at   10.68MiB/s (00:00:00)[download]   31.00KiB at   17.68MiB/s (00:00:00)[download]   63.00KiB at   18.39MiB/s (00:00:00)[download]  127.00KiB at   15.83MiB/s (00:00:00)[download]  255.00KiB at    5.65MiB/s (00:00:00)[download]  511.00KiB at    5.82MiB/s (00:00:00)[download] 1011.88KiB at    7.37MiB/s (00:00:00)[download] 100% of 1011.88KiB in 00:00:00 at 2.16MiB/s
+[download] Downloading item 55 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=clpYARUIXak
+[youtube] Sleeping 0.5 seconds ...
+[youtube] clpYARUIXak: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] clpYARUIXak: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] clpYARUIXak: Downloading m3u8 information
+[info] clpYARUIXak: Downloading subtitles: es-orig
+[info] clpYARUIXak: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250720_clpYARUIXak.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250720_clpYARUIXak.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    6.20MiB/s (00:00:00)[download]   15.00KiB at   10.21MiB/s (00:00:00)[download]   31.00KiB at   18.01MiB/s (00:00:00)[download]   63.00KiB at   30.53MiB/s (00:00:00)[download]  127.00KiB at    4.17MiB/s (00:00:00)[download]  255.00KiB at    2.98MiB/s (00:00:00)[download]  311.53KiB at    2.40MiB/s (00:00:00)[download] 100% of  311.53KiB in 00:00:00 at 669.44KiB/s
+[download] Downloading item 56 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JlgDflZs4HE
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JlgDflZs4HE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JlgDflZs4HE: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JlgDflZs4HE: Downloading m3u8 information
+[info] JlgDflZs4HE: Downloading subtitles: es-orig
+[info] JlgDflZs4HE: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250713_JlgDflZs4HE.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250713_JlgDflZs4HE.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.99MiB/s (00:00:00)[download]    7.00KiB at    4.00MiB/s (00:00:00)[download]   15.00KiB at    7.42MiB/s (00:00:00)[download]   31.00KiB at   11.39MiB/s (00:00:00)[download]   63.00KiB at   11.80MiB/s (00:00:00)[download]  127.00KiB at    5.21MiB/s (00:00:00)[download]  255.00KiB at    4.04MiB/s (00:00:00)[download]  511.00KiB at    4.79MiB/s (00:00:00)[download]  594.55KiB at    5.27MiB/s (00:00:00)[download] 100% of  594.55KiB in 00:00:00 at 1.39MiB/s
+[download] Downloading item 57 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=Q2GJoqTT07w
+[youtube] Sleeping 0.5 seconds ...
+[youtube] Q2GJoqTT07w: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] Q2GJoqTT07w: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] Q2GJoqTT07w: Downloading m3u8 information
+[info] Q2GJoqTT07w: Downloading subtitles: es-orig
+[info] Q2GJoqTT07w: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250624_Q2GJoqTT07w.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250624_Q2GJoqTT07w.es-orig.vtt
+[download]    1.00KiB at  950.66KiB/s (00:00:00)[download]    3.00KiB at    2.07MiB/s (00:00:00)[download]    7.00KiB at    3.73MiB/s (00:00:00)[download]   15.00KiB at    4.61MiB/s (00:00:00)[download]   31.00KiB at    6.97MiB/s (00:00:00)[download]   63.00KiB at    7.11MiB/s (00:00:00)[download]  127.00KiB at    9.39MiB/s (00:00:00)[download]  255.00KiB at    5.31MiB/s (00:00:00)[download]  511.00KiB at    5.34MiB/s (00:00:00)[download]  569.97KiB at    5.76MiB/s (00:00:00)[download] 100% of  569.97KiB in 00:00:00 at 1.46MiB/s
+[download] Downloading item 58 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4Z_SvTgtJes
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4Z_SvTgtJes: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4Z_SvTgtJes: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4Z_SvTgtJes: Downloading m3u8 information
+[info] 4Z_SvTgtJes: Downloading subtitles: es-orig
+[info] 4Z_SvTgtJes: Downloading 1 format(s): 399+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250617_4Z_SvTgtJes.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250617_4Z_SvTgtJes.es-orig.vtt
+[download]    1.00KiB at  883.38KiB/s (00:00:00)[download]    3.00KiB at    2.06MiB/s (00:00:00)[download]    7.00KiB at    4.30MiB/s (00:00:00)[download]   15.00KiB at    4.68MiB/s (00:00:00)[download]   31.00KiB at    9.10MiB/s (00:00:00)[download]   63.00KiB at   14.19MiB/s (00:00:00)[download]  127.00KiB at    7.66MiB/s (00:00:00)[download]  255.00KiB at    4.55MiB/s (00:00:00)[download]  306.88KiB at    4.96MiB/s (00:00:00)[download] 100% of  306.88KiB in 00:00:00 at 1.04MiB/s
+[download] Downloading item 59 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=zBFhx4RR-ts
+[youtube] Sleeping 0.5 seconds ...
+[youtube] zBFhx4RR-ts: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] zBFhx4RR-ts: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] zBFhx4RR-ts: Downloading m3u8 information
+[info] zBFhx4RR-ts: Downloading subtitles: es-orig
+[info] zBFhx4RR-ts: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250614_zBFhx4RR-ts.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250614_zBFhx4RR-ts.es-orig.vtt
+[download]    1.00KiB at  839.70KiB/s (00:00:00)[download]    3.00KiB at    1.70MiB/s (00:00:00)[download]    7.00KiB at    3.56MiB/s (00:00:00)[download]   15.00KiB at    7.03MiB/s (00:00:00)[download]   31.00KiB at   10.81MiB/s (00:00:00)[download]   63.00KiB at    8.42MiB/s (00:00:00)[download]  127.00KiB at   11.62MiB/s (00:00:00)[download]  255.00KiB at    5.68MiB/s (00:00:00)[download]  511.00KiB at    5.64MiB/s (00:00:00)[download]  947.41KiB at    7.23MiB/s (00:00:00)[download] 100% of  947.41KiB in 00:00:00 at 2.42MiB/s
+[download] Downloading item 60 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=V2HYlGyn5PU
+[youtube] Sleeping 0.5 seconds ...
+[youtube] V2HYlGyn5PU: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] V2HYlGyn5PU: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] V2HYlGyn5PU: Downloading m3u8 information
+[info] V2HYlGyn5PU: Downloading subtitles: es-orig
+[info] V2HYlGyn5PU: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250605_V2HYlGyn5PU.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250605_V2HYlGyn5PU.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    5.83MiB/s (00:00:00)[download]   15.00KiB at    8.16MiB/s (00:00:00)[download]   31.00KiB at   12.31MiB/s (00:00:00)[download]   63.00KiB at   13.04MiB/s (00:00:00)[download]  127.00KiB at   13.37MiB/s (00:00:00)[download]  255.00KiB at    6.22MiB/s (00:00:00)[download]  511.00KiB at    5.93MiB/s (00:00:00)[download]  766.26KiB at    7.37MiB/s (00:00:00)[download] 100% of  766.26KiB in 00:00:00 at 1.98MiB/s
+[download] Downloading item 61 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=FhiJFVKVNP4
+[youtube] Sleeping 0.5 seconds ...
+[youtube] FhiJFVKVNP4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] FhiJFVKVNP4: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] FhiJFVKVNP4: Downloading m3u8 information
+[info] FhiJFVKVNP4: Downloading 1 format(s): 137+251
+[info] There are no subtitles for the requested languages
+[download] Downloading item 62 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=sEPJfIIeWYE
+[youtube] Sleeping 0.5 seconds ...
+[youtube] sEPJfIIeWYE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] sEPJfIIeWYE: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] sEPJfIIeWYE: Downloading m3u8 information
+[info] sEPJfIIeWYE: Downloading subtitles: es-orig
+[info] sEPJfIIeWYE: Downloading 1 format(s): 137+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250528_sEPJfIIeWYE.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250528_sEPJfIIeWYE.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  293.37KiB/s (00:00:00)[download]    7.00KiB at  618.33KiB/s (00:00:00)[download]   15.00KiB at    1.25MiB/s (00:00:00)[download]   31.00KiB at    2.29MiB/s (00:00:00)[download]   63.00KiB at    3.60MiB/s (00:00:00)[download]  127.00KiB at    5.73MiB/s (00:00:00)[download]  255.00KiB at    7.28MiB/s (00:00:00)[download]  482.75KiB at    6.04MiB/s (00:00:00)[download] 100% of  482.75KiB in 00:00:00 at 1.50MiB/s
+[download] Downloading item 63 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=JGg7iW4rX3M
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JGg7iW4rX3M: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JGg7iW4rX3M: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] JGg7iW4rX3M: Downloading m3u8 information
+[info] JGg7iW4rX3M: Downloading subtitles: es-orig
+[info] JGg7iW4rX3M: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250527_JGg7iW4rX3M.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250527_JGg7iW4rX3M.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    5.83MiB/s (00:00:00)[download]   15.00KiB at   10.91MiB/s (00:00:00)[download]   31.00KiB at    7.84MiB/s (00:00:00)[download]   63.00KiB at    8.46MiB/s (00:00:00)[download]  127.00KiB at   14.43MiB/s (00:00:00)[download]  255.00KiB at    5.40MiB/s (00:00:00)[download]  441.46KiB at    7.21MiB/s (00:00:00)[download] 100% of  441.46KiB in 00:00:00 at 1.25MiB/s
+[download] Downloading item 64 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=-iZW0oHu95E
+[youtube] Sleeping 0.5 seconds ...
+[youtube] -iZW0oHu95E: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] -iZW0oHu95E: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] -iZW0oHu95E: Downloading m3u8 information
+[info] -iZW0oHu95E: Downloading subtitles: es-orig
+[info] -iZW0oHu95E: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250527_-iZW0oHu95E.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250527_-iZW0oHu95E.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.27MiB/s (00:00:00)[download]    7.00KiB at    4.11MiB/s (00:00:00)[download]   15.00KiB at    7.46MiB/s (00:00:00)[download]   31.00KiB at   11.42MiB/s (00:00:00)[download]   63.00KiB at   15.80MiB/s (00:00:00)[download]  127.00KiB at   12.40MiB/s (00:00:00)[download]  255.00KiB at    5.73MiB/s (00:00:00)[download]  353.37KiB at    6.69MiB/s (00:00:00)[download] 100% of  353.37KiB in 00:00:00 at 1.14MiB/s
+[download] Downloading item 65 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=PHlBrI07W14
+[youtube] Sleeping 0.5 seconds ...
+[youtube] PHlBrI07W14: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] PHlBrI07W14: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] PHlBrI07W14: Downloading m3u8 information
+[info] PHlBrI07W14: Downloading subtitles: es-orig
+[info] PHlBrI07W14: Downloading 1 format(s): 137+251-3
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250527_PHlBrI07W14.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250527_PHlBrI07W14.es-orig.vtt
+[download]    1.00KiB at  792.87KiB/s (00:00:00)[download]    3.00KiB at    1.53MiB/s (00:00:00)[download]    7.00KiB at    2.35MiB/s (00:00:00)[download]   15.00KiB at    3.59MiB/s (00:00:00)[download]   31.00KiB at    6.28MiB/s (00:00:00)[download]   63.00KiB at    9.21MiB/s (00:00:00)[download]  127.00KiB at   14.72MiB/s (00:00:00)[download]  255.00KiB at    6.49MiB/s (00:00:00)[download]  432.16KiB at    8.01MiB/s (00:00:00)[download] 100% of  432.16KiB in 00:00:00 at 1.57MiB/s
+[download] Downloading item 66 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vHT-IRmhknk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vHT-IRmhknk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vHT-IRmhknk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vHT-IRmhknk: Downloading m3u8 information
+[info] vHT-IRmhknk: Downloading subtitles: es-orig
+[info] vHT-IRmhknk: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250523_vHT-IRmhknk.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250523_vHT-IRmhknk.es-orig.vtt
+[download]    1.00KiB at  614.28KiB/s (00:00:00)[download]    3.00KiB at  411.80KiB/s (00:00:00)[download]    7.00KiB at  615.34KiB/s (00:00:00)[download]   15.00KiB at  818.10KiB/s (00:00:00)[download]   31.00KiB at    1.41MiB/s (00:00:00)[download]   63.00KiB at    1.07MiB/s (00:00:00)[download]  127.00KiB at    1.55MiB/s (00:00:00)[download]  255.00KiB at    3.06MiB/s (00:00:00)[download]  341.45KiB at    4.00MiB/s (00:00:00)[download] 100% of  341.45KiB in 00:00:00 at 825.39KiB/s
+[download] Downloading item 67 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=yang3L_8mzs
+[youtube] Sleeping 0.5 seconds ...
+[youtube] yang3L_8mzs: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] yang3L_8mzs: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] yang3L_8mzs: Downloading m3u8 information
+[info] yang3L_8mzs: Downloading subtitles: es-orig
+[info] yang3L_8mzs: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250519_yang3L_8mzs.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250519_yang3L_8mzs.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.77MiB/s (00:00:00)[download]    7.00KiB at    4.74MiB/s (00:00:00)[download]   15.00KiB at    6.44MiB/s (00:00:00)[download]   31.00KiB at    9.49MiB/s (00:00:00)[download]   63.00KiB at   16.22MiB/s (00:00:00)[download]  127.00KiB at   17.93MiB/s (00:00:00)[download]  255.00KiB at    5.96MiB/s (00:00:00)[download]  347.09KiB at    6.67MiB/s (00:00:00)[download] 100% of  347.09KiB in 00:00:00 at 1.11MiB/s
+[download] Downloading item 68 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ds3Ab6ox7wc
+[youtube] Sleeping 0.5 seconds ...
+[youtube] ds3Ab6ox7wc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] ds3Ab6ox7wc: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] ds3Ab6ox7wc: Downloading m3u8 information
+[info] ds3Ab6ox7wc: Downloading subtitles: es-orig
+[info] ds3Ab6ox7wc: Downloading 1 format(s): 299+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250510_ds3Ab6ox7wc.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250510_ds3Ab6ox7wc.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.35MiB/s (00:00:00)[download]    7.00KiB at    4.34MiB/s (00:00:00)[download]   15.00KiB at    5.93MiB/s (00:00:00)[download]   31.00KiB at    3.82MiB/s (00:00:00)[download]   63.00KiB at    4.64MiB/s (00:00:00)[download]  127.00KiB at    6.92MiB/s (00:00:00)[download]  255.00KiB at    5.53MiB/s (00:00:00)[download]  511.00KiB at    6.17MiB/s (00:00:00)[download]  784.07KiB at    7.40MiB/s (00:00:00)[download] 100% of  784.07KiB in 00:00:00 at 2.30MiB/s
+[download] Downloading item 69 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=dPdXLMcO14M
+[youtube] Sleeping 0.5 seconds ...
+[youtube] dPdXLMcO14M: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] dPdXLMcO14M: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] dPdXLMcO14M: Downloading m3u8 information
+[info] dPdXLMcO14M: Downloading subtitles: es-orig
+[info] dPdXLMcO14M: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250506_dPdXLMcO14M.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250506_dPdXLMcO14M.es-orig.vtt
+[download]    1.00KiB at  954.12KiB/s (00:00:00)[download]    3.00KiB at    1.19MiB/s (00:00:00)[download]    7.00KiB at    2.23MiB/s (00:00:00)[download]   15.00KiB at    4.01MiB/s (00:00:00)[download]   31.00KiB at    7.18MiB/s (00:00:00)[download]   63.00KiB at    8.08MiB/s (00:00:00)[download]  127.00KiB at   14.12MiB/s (00:00:00)[download]  255.00KiB at    7.08MiB/s (00:00:00)[download]  446.01KiB at    9.73MiB/s (00:00:00)[download] 100% of  446.01KiB in 00:00:00 at 1.36MiB/s
+[download] Downloading item 70 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=j8WMV4U_uj8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] j8WMV4U_uj8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] j8WMV4U_uj8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] j8WMV4U_uj8: Downloading m3u8 information
+[info] j8WMV4U_uj8: Downloading subtitles: es-orig
+[info] j8WMV4U_uj8: Downloading 1 format(s): 299+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250429_j8WMV4U_uj8.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250429_j8WMV4U_uj8.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.89MiB/s (00:00:00)[download]    7.00KiB at    3.53MiB/s (00:00:00)[download]   15.00KiB at    5.91MiB/s (00:00:00)[download]   31.00KiB at   10.71MiB/s (00:00:00)[download]   63.00KiB at   18.41MiB/s (00:00:00)[download]  127.00KiB at   18.08MiB/s (00:00:00)[download]  255.00KiB at   18.53MiB/s (00:00:00)[download]  261.12KiB at   17.89MiB/s (00:00:00)[download] 100% of  261.12KiB in 00:00:00 at 1.11MiB/s
+[download] Downloading item 71 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=dtR--0l2ZUY
+[youtube] Sleeping 0.5 seconds ...
+[youtube] dtR--0l2ZUY: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] dtR--0l2ZUY: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] dtR--0l2ZUY: Downloading m3u8 information
+[info] dtR--0l2ZUY: Downloading subtitles: es-orig
+[info] dtR--0l2ZUY: Downloading 1 format(s): 299+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250416_dtR--0l2ZUY.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250416_dtR--0l2ZUY.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.94MiB/s (00:00:00)[download]    7.00KiB at    3.26MiB/s (00:00:00)[download]   15.00KiB at    5.82MiB/s (00:00:00)[download]   31.00KiB at   11.08MiB/s (00:00:00)[download]   63.00KiB at   17.94MiB/s (00:00:00)[download]  127.00KiB at   15.15MiB/s (00:00:00)[download]  235.24KiB at   14.13MiB/s (00:00:00)[download] 100% of  235.24KiB in 00:00:00 at 1.05MiB/s
+[download] Downloading item 72 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=OF1EBrO6RiA
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OF1EBrO6RiA: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OF1EBrO6RiA: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] OF1EBrO6RiA: Downloading m3u8 information
+[info] OF1EBrO6RiA: Downloading subtitles: es-orig
+[info] OF1EBrO6RiA: Downloading 1 format(s): 299+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250415_OF1EBrO6RiA.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250415_OF1EBrO6RiA.es-orig.vtt
+[download]    1.00KiB at  868.75KiB/s (00:00:00)[download]    3.00KiB at    1.58MiB/s (00:00:00)[download]    7.00KiB at    2.45MiB/s (00:00:00)[download]   15.00KiB at    4.74MiB/s (00:00:00)[download]   31.00KiB at    8.37MiB/s (00:00:00)[download]   63.00KiB at   14.30MiB/s (00:00:00)[download]  127.00KiB at   14.92MiB/s (00:00:00)[download]  255.00KiB at    7.09MiB/s (00:00:00)[download]  511.00KiB at    6.87MiB/s (00:00:00)[download]  520.03KiB at    6.72MiB/s (00:00:00)[download] 100% of  520.03KiB in 00:00:00 at 1.84MiB/s
+[download] Downloading item 73 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=gKfusAaQUO0
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gKfusAaQUO0: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gKfusAaQUO0: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] gKfusAaQUO0: Downloading m3u8 information
+[info] gKfusAaQUO0: Downloading subtitles: es-orig
+[info] gKfusAaQUO0: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250411_gKfusAaQUO0.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250411_gKfusAaQUO0.es-orig.vtt
+[download]    1.00KiB at  598.76KiB/s (00:00:00)[download]    3.00KiB at    1.02MiB/s (00:00:00)[download]    7.00KiB at    1.98MiB/s (00:00:00)[download]   15.00KiB at    3.63MiB/s (00:00:00)[download]   31.00KiB at    6.73MiB/s (00:00:00)[download]   63.00KiB at   12.27MiB/s (00:00:00)[download]  127.00KiB at   19.90MiB/s (00:00:00)[download]  255.00KiB at    6.91MiB/s (00:00:00)[download]  393.23KiB at    8.45MiB/s (00:00:00)[download] 100% of  393.23KiB in 00:00:00 at 1.54MiB/s
+[download] Downloading item 74 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=4VF2Uzmgeus
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4VF2Uzmgeus: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4VF2Uzmgeus: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 4VF2Uzmgeus: Downloading m3u8 information
+[info] 4VF2Uzmgeus: Downloading subtitles: es-orig
+[info] 4VF2Uzmgeus: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250410_4VF2Uzmgeus.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250410_4VF2Uzmgeus.es-orig.vtt
+[download]    1.00KiB at  605.76KiB/s (00:00:00)[download]    3.00KiB at    1.03MiB/s (00:00:00)[download]    7.00KiB at    1.83MiB/s (00:00:00)[download]   15.00KiB at    3.57MiB/s (00:00:00)[download]   31.00KiB at    6.45MiB/s (00:00:00)[download]   63.00KiB at   11.65MiB/s (00:00:00)[download]  127.00KiB at    3.42MiB/s (00:00:00)[download]  255.00KiB at    3.75MiB/s (00:00:00)[download]  336.61KiB at    4.19MiB/s (00:00:00)[download] 100% of  336.61KiB in 00:00:00 at 971.35KiB/s
+[download] Downloading item 75 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NIagTNWN4z8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] NIagTNWN4z8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] NIagTNWN4z8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] NIagTNWN4z8: Downloading m3u8 information
+[info] NIagTNWN4z8: Downloading subtitles: es-orig
+[info] NIagTNWN4z8: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250402_NIagTNWN4z8.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250402_NIagTNWN4z8.es-orig.vtt
+[download]    1.00KiB at  718.33KiB/s (00:00:00)[download]    3.00KiB at    1.42MiB/s (00:00:00)[download]    7.00KiB at    2.14MiB/s (00:00:00)[download]   15.00KiB at    3.93MiB/s (00:00:00)[download]   31.00KiB at    7.39MiB/s (00:00:00)[download]   63.00KiB at   13.28MiB/s (00:00:00)[download]  127.00KiB at   19.80MiB/s (00:00:00)[download]  255.00KiB at    6.02MiB/s (00:00:00)[download]  348.80KiB at    7.01MiB/s (00:00:00)[download] 100% of  348.80KiB in 00:00:00 at 1.14MiB/s
+[download] Downloading item 76 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=xZSMVJn16Sc
+[youtube] Sleeping 0.5 seconds ...
+[youtube] xZSMVJn16Sc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] xZSMVJn16Sc: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] xZSMVJn16Sc: Downloading m3u8 information
+[info] xZSMVJn16Sc: Downloading subtitles: es-orig
+[info] xZSMVJn16Sc: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250331_xZSMVJn16Sc.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250331_xZSMVJn16Sc.es-orig.vtt
+[download]    1.00KiB at  638.60KiB/s (00:00:00)[download]    3.00KiB at    1.07MiB/s (00:00:00)[download]    7.00KiB at    2.10MiB/s (00:00:00)[download]   15.00KiB at    3.40MiB/s (00:00:00)[download]   31.00KiB at    5.80MiB/s (00:00:00)[download]   63.00KiB at   10.66MiB/s (00:00:00)[download]  127.00KiB at   19.02MiB/s (00:00:00)[download]  255.00KiB at    6.72MiB/s (00:00:00)[download]  310.08KiB at    7.15MiB/s (00:00:00)[download] 100% of  310.08KiB in 00:00:00 at 1.04MiB/s
+[download] Downloading item 77 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=hQMX2v8Q5yI
+[youtube] Sleeping 0.5 seconds ...
+[youtube] hQMX2v8Q5yI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] hQMX2v8Q5yI: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] hQMX2v8Q5yI: Downloading m3u8 information
+[info] hQMX2v8Q5yI: Downloading subtitles: es-orig
+[info] hQMX2v8Q5yI: Downloading 1 format(s): 137+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250224_hQMX2v8Q5yI.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250224_hQMX2v8Q5yI.es-orig.vtt
+[download]    1.00KiB at  684.00KiB/s (00:00:00)[download]    3.00KiB at    1.09MiB/s (00:00:00)[download]    7.00KiB at    1.73MiB/s (00:00:00)[download]   15.00KiB at    3.10MiB/s (00:00:00)[download]   31.00KiB at    5.03MiB/s (00:00:00)[download]   63.00KiB at    8.64MiB/s (00:00:00)[download]  127.00KiB at   10.57MiB/s (00:00:00)[download]  255.00KiB at    5.16MiB/s (00:00:00)[download]  511.00KiB at    5.39MiB/s (00:00:00)[download]  844.01KiB at    5.86MiB/s (00:00:00)[download] 100% of  844.01KiB in 00:00:00 at 1.88MiB/s
+[download] Downloading item 78 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=GGTIP1OlwHc
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GGTIP1OlwHc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GGTIP1OlwHc: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] GGTIP1OlwHc: Downloading m3u8 information
+[info] GGTIP1OlwHc: Downloading subtitles: es-orig
+[info] GGTIP1OlwHc: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250222_GGTIP1OlwHc.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250222_GGTIP1OlwHc.es-orig.vtt
+[download]    1.00KiB at  545.28KiB/s (00:00:00)[download]    3.00KiB at  786.97KiB/s (00:00:00)[download]    7.00KiB at    1.55MiB/s (00:00:00)[download]   15.00KiB at    2.83MiB/s (00:00:00)[download]   31.00KiB at    5.19MiB/s (00:00:00)[download]   63.00KiB at    8.95MiB/s (00:00:00)[download]  127.00KiB at   15.26MiB/s (00:00:00)[download]  255.00KiB at    6.67MiB/s (00:00:00)[download]  511.00KiB at    6.35MiB/s (00:00:00)[download]  590.34KiB at    6.85MiB/s (00:00:00)[download] 100% of  590.34KiB in 00:00:00 at 1.10MiB/s
+[download] Downloading item 79 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=tL9c5ytl8CQ
+[youtube] Sleeping 0.5 seconds ...
+[youtube] tL9c5ytl8CQ: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] tL9c5ytl8CQ: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] tL9c5ytl8CQ: Downloading m3u8 information
+[info] tL9c5ytl8CQ: Downloading subtitles: es-orig
+[info] tL9c5ytl8CQ: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250220_tL9c5ytl8CQ.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250220_tL9c5ytl8CQ.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.11MiB/s (00:00:00)[download]    7.00KiB at    3.66MiB/s (00:00:00)[download]   15.00KiB at    6.79MiB/s (00:00:00)[download]   31.00KiB at   11.49MiB/s (00:00:00)[download]   63.00KiB at   19.49MiB/s (00:00:00)[download]  127.00KiB at   29.89MiB/s (00:00:00)[download]  234.76KiB at   25.77MiB/s (00:00:00)[download] 100% of  234.76KiB in 00:00:00 at 1.06MiB/s
+[download] Downloading item 80 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=P08dl03Wleo
+[youtube] Sleeping 0.5 seconds ...
+[youtube] P08dl03Wleo: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] P08dl03Wleo: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] P08dl03Wleo: Downloading m3u8 information
+[info] P08dl03Wleo: Downloading subtitles: es-orig
+[info] P08dl03Wleo: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250217_P08dl03Wleo.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250217_P08dl03Wleo.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.23MiB/s (00:00:00)[download]    7.00KiB at    2.13MiB/s (00:00:00)[download]   15.00KiB at    3.42MiB/s (00:00:00)[download]   31.00KiB at    5.73MiB/s (00:00:00)[download]   63.00KiB at    9.99MiB/s (00:00:00)[download]  127.00KiB at   18.16MiB/s (00:00:00)[download]  255.00KiB at    6.18MiB/s (00:00:00)[download]  511.00KiB at    6.24MiB/s (00:00:00)[download]  602.77KiB at    6.86MiB/s (00:00:00)[download] 100% of  602.77KiB in 00:00:00 at 1.43MiB/s
+[download] Downloading item 81 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1_6Vtb67eps
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1_6Vtb67eps: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1_6Vtb67eps: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1_6Vtb67eps: Downloading m3u8 information
+[info] 1_6Vtb67eps: Downloading subtitles: es-orig
+[info] 1_6Vtb67eps: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250208_1_6Vtb67eps.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250208_1_6Vtb67eps.es-orig.vtt
+[download]    1.00KiB at  641.43KiB/s (00:00:00)[download]    3.00KiB at  439.64KiB/s (00:00:00)[download]    7.00KiB at  806.91KiB/s (00:00:00)[download]   15.00KiB at    1.43MiB/s (00:00:00)[download]   31.00KiB at    2.22MiB/s (00:00:00)[download]   63.00KiB at    3.98MiB/s (00:00:00)[download]  127.00KiB at    7.36MiB/s (00:00:00)[download]  221.56KiB at   11.74MiB/s (00:00:00)[download] 100% of  221.56KiB in 00:00:00 at 581.24KiB/s
+[download] Downloading item 82 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=jDlF-_s0YhY
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jDlF-_s0YhY: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jDlF-_s0YhY: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] jDlF-_s0YhY: Downloading m3u8 information
+[info] jDlF-_s0YhY: Downloading subtitles: es-orig
+[info] jDlF-_s0YhY: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250207_jDlF-_s0YhY.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250207_jDlF-_s0YhY.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.77MiB/s (00:00:00)[download]    7.00KiB at    3.47MiB/s (00:00:00)[download]   15.00KiB at    5.31MiB/s (00:00:00)[download]   31.00KiB at    5.92MiB/s (00:00:00)[download]   63.00KiB at    3.90MiB/s (00:00:00)[download]  127.00KiB at    6.26MiB/s (00:00:00)[download]  255.00KiB at    1.63MiB/s (00:00:00)[download]  511.00KiB at    3.12MiB/s (00:00:00)[download]  541.00KiB at    3.26MiB/s (00:00:00)[download] 100% of  541.00KiB in 00:00:00 at 1.29MiB/s
+[download] Downloading item 83 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=kJtQMdbbjbQ
+[youtube] Sleeping 0.5 seconds ...
+[youtube] kJtQMdbbjbQ: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] kJtQMdbbjbQ: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] kJtQMdbbjbQ: Downloading m3u8 information
+[info] kJtQMdbbjbQ: Downloading subtitles: es-orig
+[info] kJtQMdbbjbQ: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20250124_kJtQMdbbjbQ.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20250124_kJtQMdbbjbQ.es-orig.vtt
+[download]    1.00KiB at  797.55KiB/s (00:00:00)[download]    3.00KiB at    1.36MiB/s (00:00:00)[download]    7.00KiB at    2.77MiB/s (00:00:00)[download]   15.00KiB at    5.41MiB/s (00:00:00)[download]   31.00KiB at    8.61MiB/s (00:00:00)[download]   63.00KiB at   14.92MiB/s (00:00:00)[download]  127.00KiB at   20.17MiB/s (00:00:00)[download]  231.21KiB at   16.76MiB/s (00:00:00)[download] 100% of  231.21KiB in 00:00:00 at 850.69KiB/s
+[download] Downloading item 84 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=TLYEmvkQbm8
+[youtube] Sleeping 0.5 seconds ...
+[youtube] TLYEmvkQbm8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] TLYEmvkQbm8: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] TLYEmvkQbm8: Downloading m3u8 information
+[info] TLYEmvkQbm8: Downloading subtitles: es-orig
+[info] TLYEmvkQbm8: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20241224_TLYEmvkQbm8.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20241224_TLYEmvkQbm8.es-orig.vtt
+[download]    1.00KiB at  949.80KiB/s (00:00:00)[download]    3.00KiB at    1.50MiB/s (00:00:00)[download]    7.00KiB at    2.64MiB/s (00:00:00)[download]   15.00KiB at    4.59MiB/s (00:00:00)[download]   31.00KiB at    8.44MiB/s (00:00:00)[download]   63.00KiB at   15.85MiB/s (00:00:00)[download]  127.00KiB at    5.37MiB/s (00:00:00)[download]  255.00KiB at    4.15MiB/s (00:00:00)[download]  342.83KiB at    5.10MiB/s (00:00:00)[download] 100% of  342.83KiB in 00:00:00 at 1.28MiB/s
+[download] Downloading item 85 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=RBTzwsMOv6s
+[youtube] Sleeping 0.5 seconds ...
+[youtube] RBTzwsMOv6s: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] RBTzwsMOv6s: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] RBTzwsMOv6s: Downloading m3u8 information
+[info] RBTzwsMOv6s: Downloading subtitles: es-orig
+[info] RBTzwsMOv6s: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20241215_RBTzwsMOv6s.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20241215_RBTzwsMOv6s.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.10MiB/s (00:00:00)[download]    7.00KiB at    1.73MiB/s (00:00:00)[download]   15.00KiB at    2.99MiB/s (00:00:00)[download]   31.00KiB at    5.33MiB/s (00:00:00)[download]   63.00KiB at    9.42MiB/s (00:00:00)[download]  127.00KiB at   14.38MiB/s (00:00:00)[download]  255.00KiB at    5.37MiB/s (00:00:00)[download]  402.88KiB at    6.94MiB/s (00:00:00)[download] 100% of  402.88KiB in 00:00:00 at 1.55MiB/s
+[download] Downloading item 86 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=T5TILrkfk2k
+[youtube] Sleeping 0.5 seconds ...
+[youtube] T5TILrkfk2k: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] T5TILrkfk2k: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] T5TILrkfk2k: Downloading m3u8 information
+[info] T5TILrkfk2k: Downloading subtitles: es-orig
+[info] T5TILrkfk2k: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20241203_T5TILrkfk2k.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20241203_T5TILrkfk2k.es-orig.vtt
+[download]    1.00KiB at  603.84KiB/s (00:00:00)[download]    3.00KiB at    1.05MiB/s (00:00:00)[download]    7.00KiB at    2.14MiB/s (00:00:00)[download]   15.00KiB at    3.99MiB/s (00:00:00)[download]   31.00KiB at    7.31MiB/s (00:00:00)[download]   63.00KiB at   13.47MiB/s (00:00:00)[download]  127.00KiB at   23.12MiB/s (00:00:00)[download]  230.00KiB at   15.62MiB/s (00:00:00)[download] 100% of  230.00KiB in 00:00:00 at 1.03MiB/s
+[download] Downloading item 87 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=HFk21I0wjpo
+[youtube] Sleeping 0.5 seconds ...
+[youtube] HFk21I0wjpo: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] HFk21I0wjpo: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] HFk21I0wjpo: Downloading m3u8 information
+[info] HFk21I0wjpo: Downloading subtitles: es-orig
+[info] HFk21I0wjpo: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20240707_HFk21I0wjpo.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20240707_HFk21I0wjpo.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.80MiB/s (00:00:00)[download]    7.00KiB at    4.36MiB/s (00:00:00)[download]   15.00KiB at    6.59MiB/s (00:00:00)[download]   31.00KiB at   11.87MiB/s (00:00:00)[download]   63.00KiB at   20.12MiB/s (00:00:00)[download]  127.00KiB at    4.16MiB/s (00:00:00)[download]  229.15KiB at    4.71MiB/s (00:00:00)[download] 100% of  229.15KiB in 00:00:00 at 1.02MiB/s
+[download] Downloading item 88 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=A9m_veexyLE
+[youtube] Sleeping 0.5 seconds ...
+[youtube] A9m_veexyLE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] A9m_veexyLE: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] A9m_veexyLE: Downloading m3u8 information
+[info] A9m_veexyLE: Downloading 1 format(s): 137+251
+[info] There are no subtitles for the requested languages
+[download] Downloading item 89 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=0AzY88_TTsM
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 0AzY88_TTsM: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 0AzY88_TTsM: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 0AzY88_TTsM: Downloading m3u8 information
+[info] 0AzY88_TTsM: Downloading subtitles: es-orig
+[info] 0AzY88_TTsM: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20240703_0AzY88_TTsM.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20240703_0AzY88_TTsM.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.80MiB/s (00:00:00)[download]    7.00KiB at    5.51MiB/s (00:00:00)[download]   15.00KiB at   10.46MiB/s (00:00:00)[download]   31.00KiB at   19.24MiB/s (00:00:00)[download]   63.00KiB at   29.94MiB/s (00:00:00)[download]  127.00KiB at   14.58MiB/s (00:00:00)[download]  255.00KiB at    6.63MiB/s (00:00:00)[download]  344.06KiB at    8.44MiB/s (00:00:00)[download] 100% of  344.06KiB in 00:00:00 at 832.67KiB/s
+[download] Downloading item 90 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=U2e1wRBd3ng
+[youtube] Sleeping 0.5 seconds ...
+[youtube] U2e1wRBd3ng: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] U2e1wRBd3ng: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] U2e1wRBd3ng: Downloading m3u8 information
+[info] U2e1wRBd3ng: Downloading subtitles: es-orig
+[info] U2e1wRBd3ng: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20240501_U2e1wRBd3ng.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20240501_U2e1wRBd3ng.es-orig.vtt
+[download]    1.00KiB at  749.79KiB/s (00:00:00)[download]    3.00KiB at    1.45MiB/s (00:00:00)[download]    7.00KiB at    2.79MiB/s (00:00:00)[download]   15.00KiB at    5.06MiB/s (00:00:00)[download]   31.00KiB at    8.77MiB/s (00:00:00)[download]   63.00KiB at   15.42MiB/s (00:00:00)[download]  127.00KiB at   26.87MiB/s (00:00:00)[download]  255.00KiB at    6.76MiB/s (00:00:00)[download]  511.00KiB at    6.39MiB/s (00:00:00)[download]  609.68KiB at    7.08MiB/s (00:00:00)[download] 100% of  609.68KiB in 00:00:00 at 1.55MiB/s
+[download] Downloading item 91 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rgsMpvKyKZk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rgsMpvKyKZk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rgsMpvKyKZk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rgsMpvKyKZk: Downloading m3u8 information
+[info] rgsMpvKyKZk: Downloading subtitles: es-orig
+[info] rgsMpvKyKZk: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20240426_rgsMpvKyKZk.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20240426_rgsMpvKyKZk.es-orig.vtt
+[download]    1.00KiB at  807.06KiB/s (00:00:00)[download]    3.00KiB at    1.14MiB/s (00:00:00)[download]    7.00KiB at    1.89MiB/s (00:00:00)[download]   15.00KiB at    3.51MiB/s (00:00:00)[download]   27.25KiB at    5.24MiB/s (00:00:00)[download] 100% of   27.25KiB in 00:00:00 at 191.00KiB/s
+[download] Downloading item 92 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=vq6-3SiZ_mk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vq6-3SiZ_mk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vq6-3SiZ_mk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] vq6-3SiZ_mk: Downloading m3u8 information
+[info] vq6-3SiZ_mk: Downloading subtitles: es-orig
+[info] vq6-3SiZ_mk: Downloading 1 format(s): 137+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20240316_vq6-3SiZ_mk.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20240316_vq6-3SiZ_mk.es-orig.vtt
+[download]    1.00KiB at  634.44KiB/s (00:00:00)[download]    3.00KiB at    1.34MiB/s (00:00:00)[download]    7.00KiB at    2.47MiB/s (00:00:00)[download]   15.00KiB at    4.70MiB/s (00:00:00)[download]   31.00KiB at    9.04MiB/s (00:00:00)[download]   63.00KiB at   16.67MiB/s (00:00:00)[download]  127.00KiB at   16.25MiB/s (00:00:00)[download]  255.00KiB at   18.54MiB/s (00:00:00)[download]  265.71KiB at   16.69MiB/s (00:00:00)[download] 100% of  265.71KiB in 00:00:00 at 1.16MiB/s
+[download] Downloading item 93 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=SBQrkTQqlZk
+[youtube] Sleeping 0.5 seconds ...
+[youtube] SBQrkTQqlZk: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] SBQrkTQqlZk: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] SBQrkTQqlZk: Downloading m3u8 information
+[info] SBQrkTQqlZk: Downloading subtitles: es-orig
+[info] SBQrkTQqlZk: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20240205_SBQrkTQqlZk.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20240205_SBQrkTQqlZk.es-orig.vtt
+[download]    1.00KiB at   55.32KiB/s (00:00:00)[download]    3.00KiB at  134.12KiB/s (00:00:00)[download]    7.00KiB at  263.31KiB/s (00:00:00)[download]   15.00KiB at  511.93KiB/s (00:00:00)[download]   31.00KiB at  984.59KiB/s (00:00:00)[download]   63.00KiB at    1.55MiB/s (00:00:00)[download]  127.00KiB at    1.43MiB/s (00:00:00)[download]  227.68KiB at    2.23MiB/s (00:00:00)[download] 100% of  227.68KiB in 00:00:00 at 586.27KiB/s
+[download] Downloading item 94 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=M-nD4ipNnAo
+[youtube] Sleeping 0.5 seconds ...
+[youtube] M-nD4ipNnAo: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] M-nD4ipNnAo: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] M-nD4ipNnAo: Downloading m3u8 information
+[info] M-nD4ipNnAo: Downloading subtitles: es-orig
+[info] M-nD4ipNnAo: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20240124_M-nD4ipNnAo.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20240124_M-nD4ipNnAo.es-orig.vtt
+[download]    1.00KiB at  619.54KiB/s (00:00:00)[download]    3.00KiB at  740.21KiB/s (00:00:00)[download]    7.00KiB at    1.30MiB/s (00:00:00)[download]   15.00KiB at    2.41MiB/s (00:00:00)[download]   31.00KiB at    3.66MiB/s (00:00:00)[download]   63.00KiB at    4.28MiB/s (00:00:00)[download]  127.00KiB at    7.15MiB/s (00:00:00)[download]  255.00KiB at   12.83MiB/s (00:00:00)[download]  288.44KiB at   13.03MiB/s (00:00:00)[download] 100% of  288.44KiB in 00:00:00 at 874.26KiB/s
+[download] Downloading item 95 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=eY8733K0nuc
+[youtube] Sleeping 0.5 seconds ...
+[youtube] eY8733K0nuc: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] eY8733K0nuc: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] eY8733K0nuc: Downloading m3u8 information
+[info] eY8733K0nuc: Downloading subtitles: es-orig
+[info] eY8733K0nuc: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20240116_eY8733K0nuc.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20240116_eY8733K0nuc.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.25MiB/s (00:00:00)[download]    7.00KiB at    2.13MiB/s (00:00:00)[download]   15.00KiB at    3.90MiB/s (00:00:00)[download]   31.00KiB at    7.07MiB/s (00:00:00)[download]   63.00KiB at   12.43MiB/s (00:00:00)[download]  127.00KiB at   11.28MiB/s (00:00:00)[download]  255.00KiB at    5.72MiB/s (00:00:00)[download]  299.71KiB at    6.19MiB/s (00:00:00)[download] 100% of  299.71KiB in 00:00:00 at 722.81KiB/s
+[download] Downloading item 96 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=rE8HcJ35My4
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rE8HcJ35My4: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rE8HcJ35My4: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] rE8HcJ35My4: Downloading m3u8 information
+[info] rE8HcJ35My4: Downloading subtitles: es-orig
+[info] rE8HcJ35My4: Downloading 1 format(s): 137+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20240104_rE8HcJ35My4.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20240104_rE8HcJ35My4.es-orig.vtt
+[download]    1.00KiB at  799.98KiB/s (00:00:00)[download]    3.00KiB at    1.30MiB/s (00:00:00)[download]    7.00KiB at    2.09MiB/s (00:00:00)[download]   15.00KiB at    3.61MiB/s (00:00:00)[download]   31.00KiB at    6.16MiB/s (00:00:00)[download]   63.00KiB at    9.27MiB/s (00:00:00)[download]  127.00KiB at    4.80MiB/s (00:00:00)[download]  222.71KiB at    4.94MiB/s (00:00:00)[download] 100% of  222.71KiB in 00:00:00 at 817.18KiB/s
+[download] Downloading item 97 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=1xeoYB2MiDU
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1xeoYB2MiDU: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1xeoYB2MiDU: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] 1xeoYB2MiDU: Downloading m3u8 information
+[info] 1xeoYB2MiDU: Downloading subtitles: es-orig
+[info] 1xeoYB2MiDU: Downloading 1 format(s): 299+251
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20231127_1xeoYB2MiDU.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20231127_1xeoYB2MiDU.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.03MiB/s (00:00:00)[download]    7.00KiB at    1.78MiB/s (00:00:00)[download]   15.00KiB at    3.03MiB/s (00:00:00)[download]   31.00KiB at    5.38MiB/s (00:00:00)[download]   63.00KiB at    9.68MiB/s (00:00:00)[download]  127.00KiB at   17.23MiB/s (00:00:00)[download]  255.00KiB at    7.35MiB/s (00:00:00)[download]  315.14KiB at    8.29MiB/s (00:00:00)[download] 100% of  315.14KiB in 00:00:00 at 1.25MiB/s
+[download] Downloading item 98 of 98
+[youtube] Extracting URL: https://www.youtube.com/watch?v=j2XcJa55VqU
+[youtube] Sleeping 0.5 seconds ...
+[youtube] j2XcJa55VqU: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] Sleeping 0.5 seconds ...
+[youtube] j2XcJa55VqU: Downloading visionos player API JSON
+[youtube] Sleeping 0.5 seconds ...
+[youtube] j2XcJa55VqU: Downloading m3u8 information
+[info] j2XcJa55VqU: Downloading subtitles: es-orig
+[info] j2XcJa55VqU: Downloading 1 format(s): 137+251-1
+[info] Writing video subtitles to: youtube/episodios/transcripciones/20231127_j2XcJa55VqU.es-orig.vtt
+[download] Sleeping 2.00 seconds ...
+WARNING: The extractor specified to use impersonation for this download, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+[download] Destination: youtube/episodios/transcripciones/20231127_j2XcJa55VqU.es-orig.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.70MiB/s (00:00:00)[download]    7.00KiB at    2.11MiB/s (00:00:00)[download]   15.00KiB at    3.85MiB/s (00:00:00)[download]   31.00KiB at    6.83MiB/s (00:00:00)[download]   63.00KiB at   12.49MiB/s (00:00:00)[download]  127.00KiB at   17.52MiB/s (00:00:00)[download]  200.77KiB at   14.58MiB/s (00:00:00)[download] 100% of  200.77KiB in 00:00:00 at 964.80KiB/s
+[download] Finished downloading playlist: Los HDP el podcast - Videos

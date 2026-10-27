@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0e0e0e">
+<link rel="icon" href="../img/marca/logo.jpg">
+<link rel="apple-touch-icon" href="../img/app/apple-touch-icon.png">
+<meta name="robots" content="noindex, nofollow">
+<title>Análisis Los HDP · Softvibes</title>
+<meta name="description" content="Análisis de presencia digital de Los HDP el Podcast — Los Hijos del Pueblo.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,600;0,800;1,800;1,900&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--lima:#c0ff72;--lima-2:#9fe04a;--carbon:#2f2f2f;--noche:#161616;--tinta:#0e0e0e;--hueso:#f4f2ec;--gris:#a7a7a7;--rojo:#ff4d4d;--verde:#5ee08a;--radio:18px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;overflow-x:clip;-webkit-text-size-adjust:100%}
+body{font-family:Inter,system-ui,sans-serif;background:var(--noche);color:var(--hueso);line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:clip;-webkit-tap-highlight-color:transparent}
+img{max-width:100%;display:block}
+a{color:inherit}
+.titular{font-family:"Barlow Condensed",Impact,sans-serif;font-weight:900;font-style:italic;text-transform:uppercase;line-height:.92;letter-spacing:-.01em}
+.envoltura{width:min(1120px,92vw);margin:0 auto}
+section{padding:88px 0}
+.etiqueta{display:inline-block;background:var(--lima);color:var(--tinta);font-weight:700;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;padding:6px 12px;border-radius:999px}
+h2.titular{font-size:clamp(2.2rem,5vw,3.6rem);margin:16px 0 18px}
+.lead{color:#cfcfcf;max-width:720px;font-size:1.08rem}
+.reveal{opacity:0;transform:translateY(24px);transition:opacity .7s,transform .7s}
+.reveal.visible{opacity:1;transform:none}
+
+/* hero */
+.hero{min-height:min(92vh,880px);padding:110px 0 80px;display:grid;place-items:center;text-align:center;position:relative;overflow:hidden;background:radial-gradient(60% 50% at 50% 30%,rgba(192,255,114,.18),transparent 70%),var(--tinta)}
+.hero::after{content:"";position:absolute;inset:0;background:url(../img/marca/hosts.jpg) center 30%/cover;opacity:.12;filter:grayscale(1)}
+.hero>*{position:relative;z-index:1}
+.hero img.logo{width:120px;border-radius:24px;margin:0 auto 26px;box-shadow:0 0 0 2px var(--lima),0 20px 60px rgba(192,255,114,.25)}
+.hero h1{font-size:clamp(2.6rem,7.4vw,5.6rem)}
+.hero h1 em{color:var(--lima);font-style:italic}
+.hero p{max-width:640px;margin:22px auto 0;color:#d8d8d8;font-size:1.12rem}
+.hero .firma{margin-top:30px;font-size:.85rem;color:var(--gris)}
+.contadores{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:46px}
+.contador{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:var(--radio);padding:20px 10px}
+.contador b{display:block;font-family:"Barlow Condensed",sans-serif;font-style:italic;font-weight:900;font-size:clamp(2rem,5vw,3rem);color:var(--lima);line-height:1}
+.contador span{font-size:.82rem;color:var(--gris)}
+
+/* canales */
+.barras{margin-top:36px;display:grid;gap:14px}
+.barra{display:grid;grid-template-columns:130px 1fr 90px;align-items:center;gap:14px}
+.barra .pista{height:18px;background:rgba(255,255,255,.06);border-radius:99px;overflow:hidden}
+.barra .relleno{height:100%;width:0;background:linear-gradient(90deg,var(--lima-2),var(--lima));border-radius:99px;transition:width 1.4s cubic-bezier(.2,.8,.2,1)}
+.barra b{font-variant-numeric:tabular-nums;text-align:right}
+.nota{font-size:.85rem;color:var(--gris);margin-top:18px}
+.polaroids{display:flex;justify-content:center;gap:18px;margin-top:46px;flex-wrap:wrap}
+.polaroid{background:#fff;color:#111;padding:10px 10px 14px;border-radius:6px;width:250px;box-shadow:0 18px 40px rgba(0,0,0,.45);transform:rotate(var(--r));transition:transform .3s}
+.polaroid:hover{transform:rotate(0) scale(1.04)}
+.polaroid img{border-radius:3px;aspect-ratio:16/9;object-fit:cover}
+.polaroid p{font-size:.85rem;margin-top:8px;font-weight:600}
+.polaroid small{color:#666}
+
+/* hallazgos */
+.hallazgos{display:grid;gap:14px;margin-top:36px}
+.hallazgo{border:1px solid rgba(255,255,255,.1);border-radius:var(--radio);overflow:hidden;background:rgba(255,255,255,.03)}
+.hallazgo button{all:unset;cursor:pointer;display:flex;gap:16px;align-items:center;width:100%;padding:20px 22px;box-sizing:border-box}
+.hallazgo .num{font-family:"Barlow Condensed";font-weight:900;font-style:italic;font-size:1.9rem;color:var(--rojo);min-width:42px;transition:color .4s}
+.hallazgo.abierto .num{color:var(--verde)}
+.hallazgo h3{font-size:1.06rem;flex:1}
+.hallazgo .flecha{transition:transform .3s;color:var(--gris)}
+.hallazgo.abierto .flecha{transform:rotate(180deg)}
+.hallazgo .cuerpo{display:grid;grid-template-rows:0fr;transition:grid-template-rows .4s}
+.hallazgo.abierto .cuerpo{grid-template-rows:1fr}
+.hallazgo .cuerpo>div{overflow:hidden}
+.hallazgo .dos{display:grid;grid-template-columns:1fr 1fr;gap:14px;padding:0 22px 22px}
+.caja{border-radius:12px;padding:14px 16px;font-size:.93rem}
+.caja.mal{background:rgba(255,77,77,.09);border:1px solid rgba(255,77,77,.3)}
+.caja.bien{background:rgba(94,224,138,.08);border:1px solid rgba(94,224,138,.3)}
+.caja strong{display:block;font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;margin-bottom:6px}
+.caja.mal strong{color:var(--rojo)}.caja.bien strong{color:var(--verde)}
+
+/* antes / ahora */
+.escenas{display:grid;grid-template-columns:1fr 1.5fr;gap:28px;margin-top:40px;align-items:start}
+.escenas>*,.capturas>*,.tiers>*,.tarjetas>*,.fases>*{min-width:0}
+.escena h3{font-family:"Barlow Condensed";font-style:italic;font-weight:900;text-transform:uppercase;font-size:1.8rem;margin-bottom:14px}
+.escena.antes h3{color:var(--rojo)}.escena.ahora h3{color:var(--lima)}
+.capturas{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.capturas figure{background:#000;border-radius:14px;overflow:hidden;border:1px solid rgba(255,77,77,.35)}
+.capturas figcaption{font-size:.78rem;color:var(--gris);padding:8px 10px}
+.dispositivos{display:flex;gap:8px;margin-bottom:14px}
+.dispositivos button{all:unset;cursor:pointer;padding:8px 14px;border-radius:999px;border:1px solid rgba(255,255,255,.18);font-size:.85rem}
+.dispositivos button.activo{background:var(--lima);color:var(--tinta);border-color:var(--lima);font-weight:700}
+.marco{margin:0 auto;border-radius:22px;border:10px solid #000;box-shadow:0 0 0 2px #333,0 30px 80px rgba(0,0,0,.6);overflow:hidden;transition:width .5s,height .5s;background:#000}
+.marco iframe{width:100%;height:100%;border:0;display:block}
+.tour{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.tour button{all:unset;cursor:pointer;font-size:.82rem;padding:7px 12px;border-radius:10px;background:rgba(255,255,255,.06)}
+.tour button:hover{background:rgba(192,255,114,.2)}
+
+/* entregables */
+.tarjetas{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:36px}
+.tarjeta{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:var(--radio);padding:24px}
+.tarjeta .ico{font-size:1.6rem}
+.tarjeta h3{margin:10px 0 6px;font-size:1.08rem}
+.tarjeta p{color:#c9c9c9;font-size:.93rem}
+
+/* 30-60-90 */
+.fases{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:36px}
+.fase{border-top:4px solid var(--lima);background:rgba(255,255,255,.03);border-radius:0 0 var(--radio) var(--radio);padding:22px}
+.fase b{font-family:"Barlow Condensed";font-style:italic;font-weight:900;font-size:1.6rem;color:var(--lima)}
+.fase ul{margin:10px 0 0 18px;color:#d0d0d0;font-size:.93rem}
+.fase li{margin-bottom:6px}
+
+/* planes */
+.tiers{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:40px;align-items:stretch}
+.tier{background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);border-radius:22px;padding:28px;display:flex;flex-direction:column;position:relative}
+.tier.destacado{background:linear-gradient(180deg,rgba(192,255,114,.14),rgba(255,255,255,.03));border-color:var(--lima);transform:translateY(-10px)}
+.tier-badge{position:absolute;top:-13px;left:50%;transform:translateX(-50%);background:var(--lima);color:var(--tinta);font-weight:700;font-size:.75rem;padding:5px 12px;border-radius:999px;white-space:nowrap}
+.tier-nombre{font-family:"Barlow Condensed";font-style:italic;font-weight:900;font-size:1.7rem;text-transform:uppercase}
+.tier-precio{font-family:"Barlow Condensed";font-weight:800;font-size:2.8rem;color:var(--lima);line-height:1;margin:10px 0 2px}
+.tier-moneda{font-size:.85rem;color:var(--gris)}
+.tier ul{margin:18px 0 22px 18px;font-size:.93rem;color:#d6d6d6;flex:1}
+.tier li{margin-bottom:7px}
+.boton{display:inline-flex;justify-content:center;align-items:center;gap:8px;background:var(--lima);color:var(--tinta);font-weight:700;text-decoration:none;padding:14px 20px;border-radius:999px;transition:transform .2s,box-shadow .2s}
+.boton:hover{transform:translateY(-2px);box-shadow:0 12px 30px rgba(192,255,114,.35)}
+.boton.secundario{background:transparent;color:var(--hueso);border:1px solid rgba(255,255,255,.3)}
+
+/* cierre */
+.cta-final{text-align:center;background:radial-gradient(50% 60% at 50% 50%,rgba(192,255,114,.16),transparent 70%)}
+.cta-final h2{font-size:clamp(2.2rem,5.6vw,4rem)}
+.pulso{animation:pulso 2.2s infinite}
+@keyframes pulso{0%{box-shadow:0 0 0 0 rgba(192,255,114,.55)}70%{box-shadow:0 0 0 18px rgba(192,255,114,0)}100%{box-shadow:0 0 0 0 rgba(192,255,114,0)}}
+.barra-flotante{position:fixed;left:50%;bottom:calc(16px + env(safe-area-inset-bottom,0px));transform:translate(-50%,140%);background:rgba(14,14,14,.92);backdrop-filter:blur(10px);border:1px solid rgba(192,255,114,.4);border-radius:999px;padding:8px 8px 8px 20px;display:flex;gap:14px;align-items:center;z-index:50;transition:transform .4s;width:max-content;max-width:94vw}
+.barra-flotante.visible{transform:translate(-50%,0)}
+.barra-flotante span{font-size:.88rem}
+.barra-flotante .boton{padding:10px 16px;font-size:.88rem}
+footer{padding:40px 0 calc(100px + env(safe-area-inset-bottom,0px));text-align:center;color:var(--gris);font-size:.82rem}
+
+@media (max-width:860px){
+  section{padding:64px 0}
+  .contadores{grid-template-columns:repeat(2,1fr)}
+  .escenas,.tarjetas,.fases,.tiers{grid-template-columns:1fr}
+  .tier.destacado{transform:none}
+  .hallazgo .dos{grid-template-columns:1fr}
+  .barra{grid-template-columns:90px 1fr 70px}
+  .barra-flotante span{display:none}
+}
+@media (max-width:640px){
+  .envoltura{width:calc(100vw - 36px)}
+  .hero{min-height:0;padding:calc(64px + env(safe-area-inset-top,0px)) 0 56px}
+  .hero img.logo{width:92px;border-radius:20px;margin-bottom:20px}
+  .hero h1{font-size:clamp(2.1rem,10.4vw,3rem)}
+  .hero h1 br{display:none}
+  .hero p{font-size:1rem}
+  .contadores{gap:10px;margin-top:32px}
+  .contador{padding:16px 8px}
+  section{padding:56px 0}
+  h2.titular{font-size:clamp(2rem,9.6vw,2.6rem)}
+  .lead{font-size:1rem}
+  .barra{grid-template-columns:78px 1fr 58px;gap:10px;font-size:.88rem}
+  .polaroids{gap:22px}
+  .polaroid{width:min(280px,82vw)}
+  .hallazgo button{padding:16px;gap:12px}
+  .hallazgo .num{font-size:1.6rem;min-width:34px}
+  .hallazgo h3{font-size:.98rem}
+  .hallazgo .dos{padding:0 16px 16px}
+  .capturas{grid-template-columns:1fr 1fr;gap:8px}
+  .capturas figcaption{font-size:.72rem}
+  .dispositivos{display:none}
+  .marco{width:100%!important;height:min(78vh,700px)!important;border-width:6px;border-radius:26px}
+  .tour{flex-wrap:nowrap;overflow-x:auto;margin:14px -18px 0;padding:0 18px 4px;scrollbar-width:none}
+  .tour::-webkit-scrollbar{display:none}
+  .tour button{flex-shrink:0;padding:10px 14px}
+  .tarjeta,.fase,.tier{padding:20px}
+  .tiers{gap:26px}
+  .tier-precio{font-size:2.4rem}
+  .cta-final h2 br{display:none}
+  .barra-flotante{width:calc(100vw - 24px);justify-content:center;padding:8px}
+  .barra-flotante .boton{width:100%;padding:12px 16px;font-size:.95rem}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="envoltura">
+    <img class="logo" src="../img/marca/logo.jpg" alt="Logo de Los HDP el Podcast">
+    <h1 class="titular">Robert y Kuako: <br>ya adoptaron a <em>medio Hidalgo.</em> <br>Falta que Hidalgo los encuentre.</h1>
+    <p>Revisamos con lupa sus cinco redes, sus 98 episodios y sus 329 shorts. Hay un podcast enorme escondido detrás de un link de atom.bio. Esto es lo que encontramos y lo que ya construimos para ustedes.</p>
+    <div class="contadores">
+      <div class="contador"><b data-contar="60687">0</b><span>seguidores sumados</span></div>
+      <div class="contador"><b data-contar="98">0</b><span>episodios largos</span></div>
+      <div class="contador"><b data-contar="68">0</b><span>políticos adoptados</span></div>
+      <div class="contador"><b data-contar="107">0</b><span>horas de plática</span></div>
+    </div>
+    <p class="firma">Análisis preparado por Softvibes Lab · corte al 24 de octubre de 2026 · solo con material público</p>
+  </div>
+</header>
+
+<section id="canales">
+  <div class="envoltura reveal">
+    <span class="etiqueta">Dónde está su gente</span>
+    <h2 class="titular">El 73% de su audiencia vive en Facebook</h2>
+    <p class="lead">Facebook es su plaza pública: 44 mil seguidores y más de 12 mil personas hablando de la página. Allí un episodio completo de <em>El que Respira… Aspira</em> lleva 17,346 reproducciones; en YouTube un episodio largo promedia 700 vistas.</p>
+    <div class="barras">
+      <div class="barra"><span>Facebook</span><div class="pista"><div class="relleno" data-ancho="100"></div></div><b>44,089</b></div>
+      <div class="barra"><span>TikTok</span><div class="pista"><div class="relleno" data-ancho="30.6"></div></div><b>13,500</b></div>
+      <div class="barra"><span>Instagram</span><div class="pista"><div class="relleno" data-ancho="4.9"></div></div><b>2,147</b></div>
+      <div class="barra"><span>YouTube</span><div class="pista"><div class="relleno" data-ancho="2.2"></div></div><b>951</b></div>
+      <div class="barra"><span>Sitio propio</span><div class="pista"><div class="relleno" data-ancho="0"></div></div><b>0</b></div>
+    </div>
+    <p class="nota">Seguidores públicos al 24-oct-2026. Spotify no publica seguidores (5★ con 2 calificaciones). No están en Apple Podcasts.</p>
+    <div class="polaroids">
+      <div class="polaroid" style="--r:-3deg"><img src="../img/ep/00U797MtT1U.jpg" alt="Carolina Viggiano en Los HDP"><p>Carolina Viggiano</p><small>6,152 vistas · su récord de entrevista</small></div>
+      <div class="polaroid" style="--r:2deg"><img src="../img/ep/jt5XHvfdqQw.jpg" alt="José Antonio Rojo en Los HDP"><p>José Antonio Rojo</p><small>4,493 vistas</small></div>
+      <div class="polaroid" style="--r:-1.5deg"><img src="../img/ep/9v9SIdP7Dew.jpg" alt="Jorge Reyes en Los HDP"><p>Jorge Reyes, alcalde de Pachuca</p><small>2,397 vistas</small></div>
+    </div>
+  </div>
+</section>
+
+<section id="hallazgos">
+  <div class="envoltura">
+    <span class="etiqueta">Lo que encontramos</span>
+    <h2 class="titular">7 fugas que se pueden comprobar</h2>
+    <p class="lead">Toquen cada una: en rojo, lo que pasa hoy; en verde, cómo lo resolvimos o cómo proponemos resolverlo.</p>
+    <div class="hallazgos" id="lista-hallazgos"></div>
+  </div>
+</section>
+
+<section id="embudo">
+  <div class="envoltura reveal">
+    <span class="etiqueta">Su embudo, centralizado</span>
+    <h2 class="titular">De un link rentado a una casa propia</h2>
+    <div class="escenas">
+      <div class="escena antes">
+        <h3>Antes</h3>
+        <div class="capturas">
+          <figure><img src="img/antes-atombio.jpg" alt="Captura del atom.bio de Los HDP" loading="lazy"><figcaption>atom.bio gratuito: botones rosa y azul, bio cortada y la promo "Haz una página como esta".</figcaption></figure>
+          <figure><img src="img/antes-shorts.jpg" alt="Captura de los shorts de YouTube titulados con fecha" loading="lazy"><figcaption>Shorts titulados "21 de octubre de 2026": 43 y 18 vistas.</figcaption></figure>
+        </div>
+      </div>
+      <div class="escena ahora">
+        <h3>Ahora</h3>
+        <div class="dispositivos" role="tablist">
+          <button class="activo" data-w="390" data-h="760">iPhone</button>
+          <button data-w="768" data-h="760">Tablet</button>
+          <button data-w="100%" data-h="760">Laptop</button>
+        </div>
+        <div class="marco" id="marco" style="width:390px;height:760px;max-width:100%"><iframe id="demo" src="../" title="Demo del sitio de Los HDP" loading="lazy"></iframe></div>
+        <div class="tour">
+          <button data-ir="#inicio">1 · Último episodio</button>
+          <button data-ir="#envivo">2 · En vivo y alertas</button>
+          <button data-ir="#adoptados">3 · Archivo de adoptados</button>
+          <button data-ir="#segmentos">4 · Segmentos</button>
+          <button data-ir="#adoptame">5 · Pedir entrevista</button>
+          <button data-ir="#patrocinio">6 · Media kit</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="construimos">
+  <div class="envoltura reveal">
+    <span class="etiqueta">Lo que ya construimos</span>
+    <h2 class="titular">Un sitio con su voz y su lima</h2>
+    <div class="tarjetas">
+      <div class="tarjeta"><div class="ico">🗂️</div><h3>Archivo de los 68 adoptados</h3><p>Los 98 episodios, filtrables por segmento, partido y municipio. Cada político encuentra su entrevista y la comparte.</p></div>
+      <div class="tarjeta"><div class="ico">🎙️</div><h3>Último episodio al frente</h3><p>Video incrustado y enlaces a Spotify, YouTube y Facebook en el primer pantallazo.</p></div>
+      <div class="tarjeta"><div class="ico">🙋</div><h3>"¿Quieres ser adoptado?"</h3><p>Ruta clara para que equipos de comunicación pidan entrevista, con WhatsApp precargado.</p></div>
+      <div class="tarjeta"><div class="ico">🤝</div><h3>Media kit público</h3><p>Cifras reales por canal y formatos de patrocinio para marcas hidalguenses.</p></div>
+      <div class="tarjeta"><div class="ico">📲</div><h3>Canal de WhatsApp</h3><p>Audiencia propia: "te avisamos cuando adoptemos a alguien nuevo". Deja de depender del algoritmo.</p></div>
+      <div class="tarjeta"><div class="ico">⬇️</div><h3>App instalable en cualquier dispositivo</h3><p>Botón "Descargar app": en Android y compu se instala en un toque; en iPhone, guía de tres pasos; en Windows y Mac, acceso directo descargable. Sin App Store y sin costo.</p></div>
+      <div class="tarjeta"><div class="ico">🔴</div><h3>En vivo, agenda y alertas</h3><p>Sus transmisiones se ven dentro del sitio. Cada próxima transmisión se agenda en Google o Apple Calendar, y quien activa alertas recibe aviso al empezar.</p></div>
+      <div class="tarjeta"><div class="ico">🔎</div><h3>SEO y datos estructurados</h3><p>Datos estructurados de PodcastSeries con sus cinco redes, para que "Los HDP Hidalgo" deje de perderse entre podcasts homónimos.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="plan">
+  <div class="envoltura reveal">
+    <span class="etiqueta">Plan 30 · 60 · 90</span>
+    <h2 class="titular">Rumbo al 2027, en orden</h2>
+    <div class="fases">
+      <div class="fase"><b>Días 1–30</b><p>Casa propia y orden</p><ul><li>Sitio en dominio propio + /links</li><li>Canal de WhatsApp fijado en todas las redes</li><li>Spotify al día (Ep81–93) + alta en Apple Podcasts</li><li>Descripciones con enlaces en los 10 episodios top</li></ul></div>
+      <div class="fase"><b>Días 31–60</b><p>Sistema de contenido</p><ul><li>Serie "Rumbo al 2027": un aspirante por semana</li><li>1 episodio → 12 piezas, con títulos-gancho</li><li>Tarjetas de frase para que cada invitado comparta</li><li>Regresa la opinión ciudadana a TikTok</li></ul></div>
+      <div class="fase"><b>Días 61–90</b><p>Monetización limpia</p><ul><li>Media kit con métricas de Meta</li><li>3 propuestas a marcas locales no partidistas</li><li>Entrevistas a políticos siempre gratuitas</li><li>Medición y ajuste</li></ul></div>
+    </div>
+  </div>
+</section>
+
+<section id="planes">
+  <div class="envoltura reveal">
+    <span class="etiqueta">Háganlo completamente suyo</span>
+    <h2 class="titular">Tres formas de seguir</h2>
+    <div class="tiers">
+      <div class="tier">
+        <div class="tier-nombre">Casa propia</div>
+        <div class="tier-precio">$1,500</div><div class="tier-moneda">MXN · pago único</div>
+        <ul><li>Este sitio con sus datos reales</li><li>Dominio conectado + /links</li><li>Archivo de episodios actualizable</li><li>Vigencia de la oferta: 3 meses</li></ul>
+        <a class="boton secundario" data-plan="Casa propia ($1,500)" href="#">Lo quiero</a>
+      </div>
+      <div class="tier destacado">
+        <span class="tier-badge">⭐ Recomendado</span>
+        <div class="tier-nombre">Plataforma HDP</div>
+        <div class="tier-precio">$3,500</div><div class="tier-moneda">MXN · pago único</div>
+        <ul><li>Todo lo de Casa propia</li><li>Panel para publicar episodios y adoptados sin código</li><li>Media kit descargable</li><li>Plantillas de descripción y títulos-gancho</li><li>Canal de WhatsApp configurado</li></ul>
+        <a class="boton pulso" data-plan="Plataforma HDP ($3,500)" href="#">Hablemos</a>
+      </div>
+      <div class="tier">
+        <div class="tier-nombre">Temporada 2027</div>
+        <div class="tier-precio">$7,000</div><div class="tier-moneda">MXN</div>
+        <ul><li>Todo lo de Plataforma HDP</li><li>Acompañamiento 90 días (plan 30-60-90)</li><li>Sistema 1 episodio → 12 piezas</li><li>Propuestas de patrocinio a marcas locales</li></ul>
+        <a class="boton secundario" data-plan="Temporada 2027 ($7,000)" href="#">Hablemos</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-final reveal">
+  <div class="envoltura">
+    <h2 class="titular">Su contenido deja de regar macetas ajenas <br>y empieza a construir <span style="color:var(--lima)">patrimonio propio.</span></h2>
+    <p class="lead" style="margin:18px auto 30px">Si algo de esto no les late, lo ajustamos o lo retiramos sin problema. Lo hicimos con material público y con cariño hidalguense.</p>
+    <a class="boton pulso" data-plan="una plática sobre el análisis" href="#">Platiquemos sin sulfurarnos</a>
+  </div>
+</section>
+
+<div class="barra-flotante" id="barra"><span>¿Les late lo que vieron?</span><a class="boton" data-plan="el análisis de Los HDP" href="#">Escríbenos</a></div>
+
+<footer>Softvibes Lab · laboratorio de transformación digital · ser · hacer · tener</footer>
+
+<script>
+const WA_SOFTVIBES = "527295493319";
+const hallazgos = [
+  ["Nadie los encuentra fuera de las redes","No tienen sitio ni aparecen en buscadores; \"HDP\" compite con al menos cuatro podcasts homónimos (uno médico de Mérida, uno cristiano, uno argentino).","Sitio propio con datos estructurados de podcast y el archivo de 98 episodios: \"Los HDP Hidalgo\" lleva directo a ustedes."],
+  ["Su único link es rentado y con anuncios","atom.bio gratuito: un anuncio intersticial antes de pasar, un banner de Amnistía Internacional, botones fuera de su paleta y la bio cortada.","/links con su marca, sin anuncios, con el último episodio y WhatsApp."],
+  ["98 descripciones de YouTube sin un solo enlace","Ni Spotify, ni Facebook, ni WhatsApp, ni contacto. El canal no manda tráfico a ningún lado.","Plantilla de descripción con capítulos, enlaces y contacto comercial (está en la estrategia)."],
+  ["El contacto comercial vive dentro de una imagen","loshdp.elpodcast@gmail.com solo aparece en el banner de YouTube: no se puede copiar ni tocar.","Sección \"Patrocinios\" y \"¿Quieres ser adoptado?\" con WhatsApp precargado y correo clicable."],
+  ["Spotify va tres meses atrás","El último episodio en Spotify es del 16 de julio y numera distinto (Mendoza: Ep59 en Spotify, Ep80 en YouTube). Faltan del Ep81 al Ep93, y no están en Apple Podcasts.","Publicación el mismo día y con el mismo número en todas las plataformas + alta en Apple con el mismo RSS."],
+  ["206 shorts titulados solo con la fecha","El 63% de sus shorts se llama \"21 de octubre de 2026\". Sin gancho ni búsqueda: mediana de 181 vistas.","Fórmula de título: apodo + frase polémica entre comillas. Empezar por los 30 shorts más vistos."],
+  ["Alcance enorme, cero audiencia propia","17 mil personas vieron un episodio en Facebook y no hay a dónde invitarlas: ni lista, ni canal, ni newsletter.","Canal de WhatsApp \"te avisamos cuando adoptemos a alguien\", presente en todo el sitio."]
+];
+const lista = document.getElementById("lista-hallazgos");
+hallazgos.forEach(([t, mal, bien], i) => {
+  const d = document.createElement("div");
+  d.className = "hallazgo reveal";
+  d.innerHTML = `<button aria-expanded="false"><span class="num">${String(i + 1).padStart(2, "0")}</span><h3>${t}</h3><span class="flecha">▾</span></button>
+  <div class="cuerpo"><div><div class="dos"><div class="caja mal"><strong>Hoy</strong>${mal}</div><div class="caja bien"><strong>Solución</strong>${bien}</div></div></div></div>`;
+  d.querySelector("button").addEventListener("click", e => {
+    const abierto = d.classList.toggle("abierto");
+    e.currentTarget.setAttribute("aria-expanded", abierto);
+  });
+  lista.appendChild(d);
+});
+
+// WhatsApp con el plan precargado
+document.querySelectorAll("[data-plan]").forEach(a => {
+  const msg = `Hola Softvibes, vimos el análisis de Los HDP y nos interesa ${a.dataset.plan}.`;
+  a.href = `https://wa.me/${WA_SOFTVIBES}?text=${encodeURIComponent(msg)}`;
+  a.target = "_blank"; a.rel = "noopener";
+});
+
+// apariciones, contadores y barras
+const io = new IntersectionObserver(es => es.forEach(e => {
+  if (!e.isIntersecting) return;
+  e.target.classList.add("visible");
+  e.target.querySelectorAll(".relleno").forEach(r => r.style.width = r.dataset.ancho + "%");
+  io.unobserve(e.target);
+}), { threshold: .15 });
+document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+document.querySelectorAll("[data-contar]").forEach(el => {
+  const fin = +el.dataset.contar, t0 = performance.now(), dur = 1600;
+  const paso = t => {
+    const p = Math.min(1, (t - t0) / dur), v = Math.round(fin * (1 - Math.pow(1 - p, 3)));
+    el.textContent = v.toLocaleString("es-MX");
+    if (p < 1) requestAnimationFrame(paso);
+  };
+  requestAnimationFrame(paso);
+});
+
+// selector de dispositivo y tour
+const marco = document.getElementById("marco"), demo = document.getElementById("demo");
+document.querySelectorAll(".dispositivos button").forEach(b => b.addEventListener("click", () => {
+  document.querySelectorAll(".dispositivos button").forEach(x => x.classList.remove("activo"));
+  b.classList.add("activo");
+  marco.style.width = b.dataset.w.includes("%") ? b.dataset.w : b.dataset.w + "px";
+  marco.style.height = b.dataset.h + "px";
+}));
+document.querySelectorAll(".tour button").forEach(b => b.addEventListener("click", () => {
+  demo.src = "../" + b.dataset.ir;
+  marco.scrollIntoView({ behavior: "smooth", block: "center" });
+}));
+
+// barra flotante después del hero
+const barra = document.getElementById("barra");
+addEventListener("scroll", () => barra.classList.toggle("visible", scrollY > innerHeight * .8), { passive: true });
+</script>
+</body>
+</html>

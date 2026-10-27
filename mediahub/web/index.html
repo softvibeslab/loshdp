@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Mediahub · Los HDP</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,800;1,900&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--lima:#c0ff72;--tinta:#0d0d0d;--noche:#151515;--hueso:#f4f2ec;--gris:#9d9d9d;--linea:rgba(255,255,255,.09)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Inter,system-ui,sans-serif;background:var(--noche);color:var(--hueso);line-height:1.5}
+.envoltura{width:min(1280px,94vw);margin:0 auto}
+header{padding:30px 0 10px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+header img{width:52px;border-radius:12px}
+h1{font-family:"Barlow Condensed";font-style:italic;font-weight:900;text-transform:uppercase;font-size:2.4rem;line-height:1}
+header p{color:var(--gris);font-size:.9rem}
+.kpis{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:22px 0}
+.kpi{background:rgba(255,255,255,.04);border:1px solid var(--linea);border-radius:14px;padding:14px}
+.kpi b{display:block;font-family:"Barlow Condensed";font-style:italic;font-weight:900;font-size:2rem;color:var(--lima);line-height:1}
+.kpi span{font-size:.78rem;color:var(--gris)}
+.barras{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-bottom:24px}
+.panel{background:rgba(255,255,255,.03);border:1px solid var(--linea);border-radius:16px;padding:16px}
+.panel h2{font-size:.8rem;letter-spacing:.08em;text-transform:uppercase;color:var(--gris);margin-bottom:10px}
+.fila{display:grid;grid-template-columns:150px 1fr 70px;gap:10px;align-items:center;font-size:.85rem;margin:5px 0;cursor:pointer}
+.fila:hover span:first-child{color:var(--lima)}
+.pista{height:10px;background:rgba(255,255,255,.06);border-radius:9px;overflow:hidden}
+.pista i{display:block;height:100%;background:var(--lima);border-radius:9px}
+.fila b{text-align:right;font-variant-numeric:tabular-nums;font-weight:500}
+.filtros{display:grid;grid-template-columns:2fr repeat(4,1fr);gap:10px;position:sticky;top:0;background:var(--noche);padding:12px 0;z-index:5}
+input,select{width:100%;background:rgba(255,255,255,.05);border:1px solid var(--linea);color:var(--hueso);border-radius:10px;padding:11px 12px;font:inherit}
+select option{background:var(--noche)}
+.conteo{color:var(--gris);font-size:.85rem;margin:6px 0 12px}
+table{width:100%;border-collapse:collapse;font-size:.86rem}
+th{text-align:left;color:var(--gris);font-weight:500;font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;padding:8px;border-bottom:1px solid var(--linea);cursor:pointer;white-space:nowrap}
+th:hover{color:var(--lima)}
+td{padding:10px 8px;border-bottom:1px solid var(--linea);vertical-align:top}
+tr:hover td{background:rgba(255,255,255,.025)}
+.pl{font-size:.7rem;font-weight:700;padding:2px 8px;border-radius:99px;white-space:nowrap}
+.pl.YouTube{background:#ff4d4d22;color:#ff7b7b}.pl.TikTok{background:#5ee0ff22;color:#7fe8ff}.pl.Facebook{background:#4d7cff22;color:#8aa8ff}
+.titulo{max-width:520px}
+.titulo small{display:block;color:var(--gris);margin-top:2px}
+.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.acciones{display:flex;gap:6px;flex-wrap:wrap}
+.acciones a,.acciones button{font:inherit;font-size:.75rem;border:1px solid var(--linea);background:none;color:var(--hueso);padding:4px 9px;border-radius:8px;cursor:pointer;text-decoration:none;white-space:nowrap}
+.acciones button{background:var(--lima);color:var(--tinta);border-color:var(--lima);font-weight:700}
+.acciones a:hover{border-color:var(--lima)}
+.tag{display:inline-block;font-size:.7rem;color:var(--gris);margin-right:6px}
+.reproductor{position:fixed;left:50%;bottom:16px;transform:translateX(-50%);width:min(720px,94vw);background:#0b0b0b;border:1px solid var(--lima);border-radius:18px;padding:12px;display:none;z-index:20;box-shadow:0 20px 60px rgba(0,0,0,.6)}
+.reproductor.activo{display:block}
+.reproductor video{width:100%;max-height:60vh;border-radius:10px;background:#000}
+.reproductor audio{width:100%}
+.reproductor .cab{display:flex;justify-content:space-between;gap:10px;margin-bottom:8px;font-size:.85rem}
+.reproductor .cab button{background:none;border:0;color:var(--lima);font-size:1.2rem;cursor:pointer}
+.mas{display:flex;justify-content:center;margin:20px 0 120px}
+.mas button{background:var(--lima);color:var(--tinta);border:0;font-weight:700;padding:12px 20px;border-radius:99px;cursor:pointer}
+@media(max-width:900px){.kpis{grid-template-columns:repeat(2,1fr)}.barras,.filtros{grid-template-columns:1fr}.ocultar-movil{display:none}}
+</style>
+</head>
+<body>
+<div class="envoltura">
+  <header>
+    <img src="miniaturas/logo.jpg" alt="">
+    <div><h1>Mediahub · Los HDP</h1><p id="corte">Inventario de todo su contenido · uso interno</p></div>
+  </header>
+  <section class="kpis" id="kpis"></section>
+  <section class="barras">
+    <div class="panel"><h2>Temas (clic para filtrar)</h2><div id="g-temas"></div></div>
+    <div class="panel"><h2>Invitados con más piezas (clic para filtrar)</h2><div id="g-invitados"></div></div>
+  </section>
+  <section class="filtros">
+    <input id="q" type="search" placeholder="Busca en títulos y textos…">
+    <select id="f-plat"><option value="">Plataforma y tipo</option></select>
+    <select id="f-inv"><option value="">Invitado</option></select>
+    <select id="f-tema"><option value="">Tema</option></select>
+    <select id="f-arch"><option value="">Con y sin archivo</option><option value="si">Con archivo descargado</option><option value="tr">Con transcripción</option></select>
+  </section>
+  <p class="conteo" id="conteo"></p>
+  <table>
+    <thead><tr>
+      <th data-orden="plataforma">Plataforma</th><th data-orden="fecha">Fecha ↓</th><th>Pieza</th>
+      <th class="ocultar-movil" data-orden="invitado">Invitado</th>
+      <th class="num" data-orden="vistas">Vistas</th><th class="num ocultar-movil" data-orden="likes">Likes</th>
+      <th class="num ocultar-movil" data-orden="duracion_seg">Duración</th><th>Acciones</th>
+    </tr></thead>
+    <tbody id="filas"></tbody>
+  </table>
+  <div class="mas"><button id="mas">Ver 100 más</button></div>
+</div>
+<div class="reproductor" id="rep"><div class="cab"><span id="rep-t"></span><button id="rep-x" aria-label="Cerrar">✕</button></div><div id="rep-m"></div></div>
+
+<script src="data.js"></script>
+<script>
+const { items, resumen } = window.MEDIAHUB;
+const $ = s => document.querySelector(s);
+const fmt = n => n == null ? "—" : Number(n).toLocaleString("es-MX");
+const dur = s => !s ? "—" : s >= 3600 ? `${Math.floor(s / 3600)} h ${Math.round(s % 3600 / 60)} min` : `${Math.floor(s / 60)}:${String(Math.round(s % 60)).padStart(2, "0")}`;
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const clave = i => `${i.plataforma} · ${i.tipo}`;
+
+// KPIs
+const vistas = resumen.vistas_por_plataforma;
+const kpis = [
+  [fmt(items.length), "piezas inventariadas"],
+  [fmt(vistas.TikTok), "vistas en TikTok"],
+  [fmt(vistas.YouTube), "vistas en YouTube"],
+  [Math.round(Object.values(resumen.horas).reduce((a, b) => a + b, 0)) + " h", "de contenido"],
+  [fmt(resumen.con_archivo), "archivos en el hub"],
+  [fmt(resumen.con_transcripcion), "con transcripción"],
+];
+$("#kpis").innerHTML = kpis.map(([b, s]) => `<div class="kpi"><b>${b}</b><span>${s}</span></div>`).join("");
+
+// filtros
+const estado = { q: "", plat: "", inv: "", tema: "", arch: "", orden: "fecha", desc: true, ver: 100 };
+const llenar = (sel, pares) => pares.forEach(([v, n]) => sel.insertAdjacentHTML("beforeend", `<option value="${esc(v)}">${esc(v)} (${n})</option>`));
+const cuenta = f => Object.entries(items.reduce((m, i) => { [].concat(f(i) || []).forEach(k => m[k] = (m[k] || 0) + 1); return m; }, {})).sort((a, b) => b[1] - a[1]);
+llenar($("#f-plat"), cuenta(clave));
+const invs = cuenta(i => i.invitado), temas = cuenta(i => i.temas);
+llenar($("#f-inv"), invs);
+llenar($("#f-tema"), temas);
+const barras = (cont, datos, campo) => {
+  const max = datos[0]?.[1] || 1;
+  $(cont).innerHTML = datos.slice(0, 10).map(([k, n]) => `<div class="fila" data-k="${esc(k)}"><span>${esc(k)}</span><div class="pista"><i style="width:${n / max * 100}%"></i></div><b>${n}</b></div>`).join("");
+  $(cont).querySelectorAll(".fila").forEach(f => f.onclick = () => { estado[campo] = f.dataset.k; $(campo === "tema" ? "#f-tema" : "#f-inv").value = f.dataset.k; estado.ver = 100; pintar(); });
+};
+barras("#g-temas", temas, "tema");
+barras("#g-invitados", invs, "inv");
+[["#q", "q", "input"], ["#f-plat", "plat", "change"], ["#f-inv", "inv", "change"], ["#f-tema", "tema", "change"], ["#f-arch", "arch", "change"]]
+  .forEach(([s, k, ev]) => $(s).addEventListener(ev, e => { estado[k] = e.target.value.toLowerCase ? e.target.value : e.target.value; estado.ver = 100; pintar(); }));
+document.querySelectorAll("th[data-orden]").forEach(th => th.onclick = () => {
+  const o = th.dataset.orden;
+  estado.desc = estado.orden === o ? !estado.desc : true;
+  estado.orden = o;
+  pintar();
+});
+$("#mas").onclick = () => { estado.ver += 100; pintar(); };
+
+const normal = s => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+function lista() {
+  const q = normal(estado.q);
+  return items.filter(i =>
+    (!estado.plat || clave(i) === estado.plat) &&
+    (!estado.inv || i.invitado === estado.inv) &&
+    (!estado.tema || i.temas.includes(estado.tema)) &&
+    (!estado.arch || (estado.arch === "si" ? i.archivo : i.transcripcion)) &&
+    (!q || normal(`${i.titulo} ${i.texto} ${i.invitado || ""} ${i.hashtags.join(" ")}`).includes(q))
+  ).sort((a, b) => {
+    const x = a[estado.orden] ?? "", y = b[estado.orden] ?? "";
+    return (x > y ? 1 : x < y ? -1 : 0) * (estado.desc ? -1 : 1);
+  });
+}
+
+function pintar() {
+  const l = lista();
+  $("#conteo").textContent = `${fmt(l.length)} piezas · ${fmt(l.reduce((a, i) => a + (i.vistas || 0), 0))} vistas`;
+  $("#filas").innerHTML = l.slice(0, estado.ver).map((i, n) => `<tr>
+    <td><span class="pl ${i.plataforma}">${i.plataforma}</span><br><small class="tag">${i.tipo}</small></td>
+    <td style="white-space:nowrap">${i.fecha || "—"}</td>
+    <td class="titulo">${esc(i.titulo)}<small>${i.temas.map(t => `<span class="tag">#${esc(t)}</span>`).join("")}</small></td>
+    <td class="ocultar-movil">${esc(i.invitado || "—")}</td>
+    <td class="num">${fmt(i.vistas)}</td><td class="num ocultar-movil">${fmt(i.likes)}</td>
+    <td class="num ocultar-movil">${dur(i.duracion_seg)}</td>
+    <td><div class="acciones">
+      ${i.archivo ? `<button data-n="${n}">▶ Reproducir</button><a href="media/${i.archivo}" download>Descargar</a>` : ""}
+      ${i.kb ? `<a href="${i.kb}" target="_blank">Transcripción</a>` : ""}
+      <a href="${i.url}" target="_blank" rel="noopener">Original ↗</a>
+    </div></td></tr>`).join("");
+  $("#mas").hidden = estado.ver >= l.length;
+  $("#filas").querySelectorAll("button[data-n]").forEach(b => b.onclick = () => reproducir(l[+b.dataset.n]));
+}
+
+function reproducir(i) {
+  const src = `media/${i.archivo}`;
+  $("#rep-t").textContent = i.titulo.slice(0, 90);
+  $("#rep-m").innerHTML = /\.(opus|m4a|mp3|webm)$/.test(i.archivo) && i.tipo === "Episodio"
+    ? `<audio controls autoplay src="${src}"></audio>` : `<video controls autoplay playsinline src="${src}"></video>`;
+  $("#rep").classList.add("activo");
+}
+$("#rep-x").onclick = () => { $("#rep").classList.remove("activo"); $("#rep-m").innerHTML = ""; };
+pintar();
+</script>
+</body>
+</html>

@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!-- Demo: quitar noindex cuando el cliente apruebe y se conecte su dominio -->
+<meta name="robots" content="noindex, nofollow">
+<title>Los HDP el Podcast · Los Hijos del Pueblo · Podcast político de Hidalgo</title>
+<meta name="description" content="El podcast político + chingón de Hidalgo. Entrevistas sin filtro a la clase política hidalguense: El Adoptado, Mesa HDP, ¿A poco sí? y más. Lo que no se puede decir y como nadie lo puede decir.">
+<meta property="og:title" content="Los HDP el Podcast — Los Hijos del Pueblo">
+<meta property="og:description" content="Lo que no se puede decir y como nadie lo puede decir. 98 episodios, 68 adoptados, todos los partidos.">
+<meta property="og:image" content="img/marca/banner.jpg">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#0d0d0d">
+<link rel="icon" href="img/marca/logo.jpg">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="img/app/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Los HDP">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,700;1,800;1,900&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/estilos.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastSeries",
+  "name": "Los HDP el Podcast (Los Hijos del Pueblo)",
+  "description": "Podcast y plataforma digital de análisis político de Hidalgo. Lo que no se puede decir y como nadie lo puede decir.",
+  "inLanguage": "es-MX",
+  "image": "img/marca/logo.jpg",
+  "author": [{"@type": "Person", "name": "Robert Leaños"}, {"@type": "Person", "name": "Kuako Islas"}],
+  "genre": "Noticias y política",
+  "locationCreated": {"@type": "Place", "name": "Pachuca, Hidalgo, México"},
+  "email": "loshdp.elpodcast@gmail.com",
+  "sameAs": [
+    "https://www.facebook.com/profile.php?id=61552864772878",
+    "https://www.tiktok.com/@los_hijos_delpueblo",
+    "https://www.instagram.com/los.hdp.el.podcast/",
+    "https://www.youtube.com/@loshijos_delpueblopodcast",
+    "https://open.spotify.com/show/3rwx7hZbCvJzYxBICuRcuf"
+  ]
+}
+</script>
+</head>
+<body>
+
+<nav class="nav" id="nav" aria-label="Principal">
+  <div class="envoltura">
+    <a href="#inicio" class="marca"><img src="img/marca/logo.jpg" alt=""><span>Los HDP</span></a>
+    <ul id="menu">
+      <li><a href="#envivo" class="enlace-vivo">En vivo</a></li>
+      <li><a href="#adoptados">Episodios</a></li>
+      <li><a href="#segmentos">Segmentos</a></li>
+      <li><a href="#hosts">Quiénes somos</a></li>
+      <li><a href="#patrocinio">Patrocinios</a></li>
+    </ul>
+    <div class="nav-acciones">
+      <button class="boton fantasma boton-app" type="button" data-instalar><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m-5-5 5 5 5-5M5 21h14"/></svg><span data-texto>Descargar app</span></button>
+      <a href="#adoptame" class="boton">¿Quieres ser adoptado?</a>
+    </div>
+    <button class="menu-movil" id="btn-menu" aria-label="Abrir menú" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+
+<a class="aviso-vivo" id="aviso-vivo" href="#envivo" hidden>
+  <span class="insignia-vivo">En vivo</span><span id="aviso-vivo-titulo">Los HDP en vivo</span><b>Ver ahora →</b>
+</a>
+
+<main>
+<header class="hero" id="inicio">
+  <div class="envoltura">
+    <div>
+      <span class="etiqueta">🎙️ Podcast político · Hidalgo</span>
+      <h1 class="titular">Lo que no se puede decir <em>y como nadie lo puede decir.</em></h1>
+      <p class="bajada">Somos <b>Los Hijos del Pueblo</b>. Sentamos a la clase política hidalguense —de todos los partidos y de todos los municipios— a platicar sin filtro, sin acordeón y sin sulfurarse.</p>
+      <div class="acciones">
+        <a href="#adoptados" class="boton">Ver los 98 episodios</a>
+        <a href="#adoptame" class="boton fantasma">Pide tu entrevista</a>
+      </div>
+      <div class="plataformas" id="plataformas">
+        <small>Escúchanos en</small>
+      </div>
+      <button class="tarjeta-app" type="button" data-instalar>
+        <img src="img/app/icono-192.png" alt="" width="48" height="48">
+        <span><b data-texto>Descarga la app de Los HDP</b><small>Acceso directo en tu celular, tablet o compu · gratis</small></span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m-5-5 5 5 5-5M5 21h14"/></svg>
+      </button>
+    </div>
+    <article class="destacado" aria-labelledby="ultimo-titulo">
+      <div id="ultimo-video"></div>
+      <div class="pie">
+        <div>
+          <span class="en-vivo">Último episodio</span>
+          <b id="ultimo-titulo">—</b>
+          <small id="ultimo-meta"></small>
+        </div>
+        <a class="boton fantasma" id="ultimo-yt" target="_blank" rel="noopener" style="padding:10px 14px;font-size:.85rem">YouTube ↗</a>
+      </div>
+    </article>
+  </div>
+</header>
+
+<div class="cinta-marco" aria-hidden="true"><div class="cinta"><div class="pista" id="cinta"></div></div></div>
+
+<section class="envivo" id="envivo">
+  <div class="envoltura">
+    <div class="cabeza-seccion reveal">
+      <div>
+        <span class="etiqueta oscura"><span class="punto-vivo"></span>Transmisiones</span>
+        <h2 class="titular">Míralo en vivo</h2>
+      </div>
+      <p>Cuando prendemos el micrófono en vivo lo ves aquí, sin salir del sitio. Agenda la próxima o activa las alertas para que no se te pase.</p>
+    </div>
+    <div class="vivo-rejilla">
+      <div class="vivo-pantalla" id="vivo-pantalla" aria-live="polite"></div>
+      <aside class="vivo-alertas">
+        <span class="campana" aria-hidden="true">🔔</span>
+        <h3>Que no se te pase</h3>
+        <p>Te avisamos cuando estemos en vivo y 15 minutos antes de cada transmisión.</p>
+        <button class="boton" type="button" data-alertas aria-pressed="false"><span data-texto>Activar alertas</span></button>
+        <a class="boton fantasma" id="vivo-calendario" href="data/envivo.ics">Suscribirme al calendario</a>
+        <button class="boton fantasma" type="button" data-instalar><span data-texto>Descargar app</span></button>
+        <p class="letra-chica">El calendario se actualiza solo: cada transmisión nueva aparece en tu agenda con recordatorio.</p>
+      </aside>
+    </div>
+    <div id="vivo-proximas"></div>
+  </div>
+</section>
+
+<section id="adoptados">
+  <div class="envoltura">
+    <div class="cabeza-seccion reveal">
+      <div>
+        <span class="etiqueta oscura">El archivo</span>
+        <h2 class="titular">Todos los adoptados</h2>
+      </div>
+      <p>Cada invitado se vuelve "hijo del pueblo". Busca a tu alcalde, a tu diputada o a tu partido y dale play.</p>
+    </div>
+    <div class="filtros">
+      <div class="campo"><label class="oculto-visual" for="buscar">Buscar</label><input id="buscar" type="search" placeholder="Busca un nombre, cargo o tema…" autocomplete="off"></div>
+      <div class="campo"><label class="oculto-visual" for="f-partido">Partido</label><select id="f-partido"><option value="">Todos los partidos</option></select></div>
+      <div class="campo"><label class="oculto-visual" for="f-municipio">Municipio</label><select id="f-municipio"><option value="">Todos los municipios</option></select></div>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Segmento"></div>
+    <p class="conteo" id="conteo" aria-live="polite"></p>
+    <div class="rejilla" id="rejilla"></div>
+    <div class="mas"><button class="boton fantasma" id="ver-mas">Ver más episodios</button></div>
+  </div>
+</section>
+
+<section class="segmentos" id="segmentos">
+  <div class="envoltura">
+    <div class="cabeza-seccion reveal">
+      <div>
+        <span class="etiqueta oscura">La programación</span>
+        <h2 class="titular">Nuestros segmentos</h2>
+      </div>
+      <p>Del formato largo de entrevista a la mesa de coyuntura. Todos con la misma regla: aquí se dice lo que en otros lados se calla.</p>
+    </div>
+    <div class="lista-seg">
+      <article class="seg-tarjeta estrella reveal" data-num="56">
+        <div><h3>El Adoptado</h3><p>Nuestra entrevista insignia. De una a dos horas y media con alcaldes, diputados, senadores, dirigentes y personajes de Hidalgo. Al final, cada quien sale adoptado (y con apodo).</p></div>
+        <span class="dato">56 episodios · Carolina Viggiano, Jorge Reyes, Cuauhtémoc Ochoa…</span>
+      </article>
+      <article class="seg-tarjeta reveal" data-num="27">
+        <div><h3>Mesa HDP</h3><p>Robert y Kuako desmenuzan la semana política hidalguense: lo que pasó, lo que se dijo y lo que nadie se atrevió a decir.</p></div>
+        <span class="dato">27 episodios</span>
+      </article>
+      <article class="seg-tarjeta reveal" data-num="12">
+        <div><h3>El Adoptado Judicial</h3><p>Conocimos a las y los candidatos a jueces y magistrados de Hidalgo antes de la elección judicial.</p></div>
+        <span class="dato">12 episodios · 2025</span>
+      </article>
+      <article class="seg-tarjeta reveal" data-num="?">
+        <div><h3>¿A poco sí?</h3><p>Ponemos las promesas y declaraciones en la mesa… y preguntamos: ¿a poco sí?</p></div>
+        <span class="dato">Nuevo · 2026</span>
+      </article>
+      <article class="seg-tarjeta reveal" data-num="→">
+        <div><h3>El que Respira… Aspira</h3><p>Los aspirantes rumbo al 2027 nos cuentan sus ganas. Exquisitamente monumental.</p></div>
+        <span class="dato">Nuevo · en Facebook</span>
+      </article>
+      <article class="seg-tarjeta reveal" data-num="%">
+        <div><h3>ANAL-isis político</h3><p>Con Paco "El Acertijo" Cárdenas: mediciones, números y lo que realmente se mueve en Hidalgo. #SinSulfurarse</p></div>
+        <span class="dato">Nuevo · en Facebook</span>
+      </article>
+      <article class="seg-tarjeta reveal" data-num="+60">
+        <div><h3>Los Jubilados del Pueblo</h3><p>La experiencia también opina. Los que ya la vivieron nos dicen qué piensan de México e Hidalgo.</p></div>
+        <span class="dato">Nuevo · 2026</span>
+      </article>
+      <article class="seg-tarjeta reveal" data-num="¿?">
+        <div><h3>¿Y tú a quién adoptarías?</h3><p>Propón a la próxima persona que debería sentarse en la cabina de Los HDP.</p></div>
+        <a href="#adoptame" class="dato">Proponer un adoptado →</a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section id="lo-mas-visto">
+  <div class="envoltura">
+    <div class="cabeza-seccion reveal">
+      <div>
+        <span class="etiqueta oscura">Top 5</span>
+        <h2 class="titular">Lo más visto</h2>
+      </div>
+    </div>
+    <div class="top reveal" id="top"></div>
+  </div>
+</section>
+
+<section class="hosts" id="hosts">
+  <div class="envoltura">
+    <figure class="foto-hosts reveal">
+      <img src="img/marca/hosts.jpg" alt="Robert Leaños y Kuako Islas en la cabina de Los HDP" loading="lazy">
+      <figcaption><span>Robert Leaños</span><span>Kuako Islas</span></figcaption>
+    </figure>
+    <div class="reveal">
+      <span class="etiqueta oscura">Quiénes somos</span>
+      <h2 class="titular">Hijos del purísimo pueblo hidalguense</h2>
+      <p>Desde noviembre de 2023 abrimos el micrófono a quienes deciden lo que pasa en Hidalgo. Sin línea, sin guion pactado y con todo el humor que la política se merece.</p>
+      <blockquote>"Hablamos sobre política y de todo un poco. Decimos lo que no se puede decir y como nadie lo puede decir."</blockquote>
+      <div class="cifras">
+        <div><b>107 h</b><span>de plática grabada</span></div>
+        <div><b>6</b><span>partidos en la cabina</span></div>
+        <div><b>18</b><span>municipios adoptados</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="conversion" id="adoptame">
+  <div class="envoltura dos-col">
+    <div class="panel lima reveal">
+      <span class="etiqueta">Para políticos y equipos de comunicación</span>
+      <h2 class="titular">¿Quieres ser adoptado?</h2>
+      <p>Si tienes algo que decirle a Hidalgo, la cabina está abierta. Déjanos tus datos y te contactamos para agendar.</p>
+      <form class="formulario" id="form-adopta">
+        <label>Nombre<input name="nombre" required autocomplete="name" placeholder="¿Cómo te llamas?"></label>
+        <label>Cargo y municipio<input name="cargo" required placeholder="Ej. Regidora de Tulancingo"></label>
+        <label>WhatsApp<input name="tel" type="tel" required autocomplete="tel" inputmode="tel" placeholder="10 dígitos"></label>
+        <button class="boton" type="submit">Quiero sentarme en la cabina</button>
+        <p class="letra-chica">Usamos tus datos solo para contactarte sobre la entrevista.</p>
+      </form>
+    </div>
+    <div class="panel reveal" id="patrocinio">
+      <span class="etiqueta oscura">Media kit</span>
+      <h2 class="titular">Anuncia tu marca con Los HDP</h2>
+      <p>Llegamos a la conversación política de Hidalgo donde de verdad sucede.</p>
+      <div class="kit">
+        <div><b>44K</b><span>seguidores en Facebook</span></div>
+        <div><b>13.5K</b><span>seguidores en TikTok</span></div>
+        <div><b>340K</b><span>reproducciones de nuestro video récord</span></div>
+        <div><b>60K+</b><span>seguidores sumados</span></div>
+      </div>
+      <ul class="formatos">
+        <li>Patrocinio de temporada: tu marca en la cabina, en el sitio y en cada episodio.</li>
+        <li>Presenta un segmento: "¿A poco sí? presentado por…"</li>
+        <li>Mención en clips y transmisiones.</li>
+        <li>Producción en nuestro set para tu contenido.</li>
+      </ul>
+      <a class="boton" id="btn-kit" href="#">Quiero el media kit</a>
+    </div>
+  </div>
+</section>
+
+<section class="canal" id="canal">
+  <div class="envoltura reveal">
+    <span class="etiqueta">Sin algoritmo de por medio</span>
+    <h2 class="titular">Entérate antes que nadie de a quién adoptamos</h2>
+    <p>Síguenos donde más te guste. Te avisamos de cada estreno, cada clip y cada sulfurada.</p>
+    <div class="acciones" style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap">
+      <a class="boton" id="btn-canal" href="#" target="_blank" rel="noopener">Únete al canal de WhatsApp</a>
+      <a class="boton fantasma" href="https://www.facebook.com/profile.php?id=61552864772878" target="_blank" rel="noopener">Síguenos en Facebook</a>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="envoltura">
+    <div>
+      <a href="#inicio" class="marca"><img src="img/marca/logo.jpg" alt=""><span>Los HDP</span></a>
+      <p style="margin-top:12px;max-width:340px">Podcast y plataforma digital de análisis político. Pachuca, Hidalgo.</p>
+    </div>
+    <div>
+      <h4>Escúchanos</h4>
+      <ul id="pie-redes"></ul>
+    </div>
+    <div>
+      <h4>Contacto</h4>
+      <ul>
+        <li><a href="mailto:loshdp.elpodcast@gmail.com">loshdp.elpodcast@gmail.com</a></li>
+        <li><a href="#adoptame">Pedir entrevista</a></li>
+        <li><a href="#patrocinio">Patrocinios</a></li>
+        <li><a href="links/">Todos nuestros links</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="envoltura creditos">
+    <span>© <span id="anio"></span> Los HDP el Podcast · Los Hijos del Pueblo</span>
+    <span><button class="enlace-app" type="button" data-instalar><span data-texto>Descargar la app</span></button> · Sitio por <a href="https://softvibes.art" target="_blank" rel="noopener">Softvibes Lab</a></span>
+  </div>
+</footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-titulo">
+  <div class="caja">
+    <button class="cerrar" id="modal-cerrar" aria-label="Cerrar">×</button>
+    <div id="modal-video"></div>
+    <div class="info">
+      <div><h3 id="modal-titulo"></h3><p id="modal-meta"></p></div>
+      <div class="compartir">
+        <a class="boton fantasma" id="modal-yt" target="_blank" rel="noopener">Ver en YouTube</a>
+        <a class="boton fantasma" id="modal-sp" href="https://open.spotify.com/show/3rwx7hZbCvJzYxBICuRcuf" target="_blank" rel="noopener">Escuchar en Spotify</a>
+        <a class="boton" id="modal-wa" target="_blank" rel="noopener">Compartir</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<a class="wa-flotante" id="wa-flotante" href="#adoptame" aria-label="Contactar a Los HDP">
+  <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .2-3.4-.7-2.9-1.1-4.7-4-4.9-4.2-.1-.2-1.2-1.6-1.2-3s.8-2.2 1-2.5c.3-.3.6-.4.8-.4h.6c.2 0 .4 0 .6.5l.9 2.1c.1.2.1.4 0 .5l-.3.5-.4.5c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.4 2.4 1.5.3.1.5.1.6-.1l.9-1c.2-.3.4-.2.6-.1l2 .9c.3.2.5.2.5.4.1.1.1.7-.1 1.2Z"/></svg>
+</a>
+
+<nav class="barra-app" aria-label="Accesos rápidos">
+  <a href="#adoptados"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="m10 9 5 3-5 3z" fill="currentColor"/></svg><span>Episodios</span></a>
+  <a href="#envivo" class="tab-vivo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="3" fill="currentColor"/><path d="M7.8 7.8a6 6 0 0 0 0 8.4m8.4 0a6 6 0 0 0 0-8.4M4.9 4.9a10 10 0 0 0 0 14.2m14.2 0a10 10 0 0 0 0-14.2"/></svg><span>En vivo</span></a>
+  <button type="button" data-alertas data-corto="1" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 8a6 6 0 1 1 12 0c0 7 3 9 3 9H3s3-2 3-9M10.3 21a1.9 1.9 0 0 0 3.4 0"/></svg><span data-texto>Alertas</span></button>
+  <button type="button" data-instalar><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m-5-5 5 5 5-5M5 21h14"/></svg><span data-texto>App</span></button>
+</nav>
+
+<div class="hoja" id="hoja" role="dialog" aria-modal="true" aria-label="Instrucciones" hidden>
+  <div class="hoja-caja">
+    <button class="hoja-cerrar" id="hoja-cerrar" type="button" aria-label="Cerrar">×</button>
+    <div id="hoja-cuerpo"></div>
+  </div>
+</div>
+
+<script src="data/episodios.js"></script>
+<script src="assets/js/origen.js"></script>
+<script src="assets/js/app.js"></script>
+<script src="assets/js/instalar.js"></script>
+<script src="assets/js/envivo.js"></script>
+</body>
+</html>

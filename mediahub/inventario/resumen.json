@@ -1,0 +1,160 @@
+{
+ "piezas": 1215,
+ "por_plataforma_tipo": {
+  "YouTube · Episodio": 98,
+  "YouTube · Short": 329,
+  "TikTok · Video": 779,
+  "Facebook · Video": 9
+ },
+ "vistas_por_plataforma": {
+  "YouTube": 196333,
+  "TikTok": 3317004,
+  "Facebook": 34096
+ },
+ "horas": {
+  "YouTube · Episodio": 107.4,
+  "YouTube · Short": 0.0,
+  "TikTok · Video": 22.6,
+  "Facebook · Video": 0.6
+ },
+ "con_archivo": 878,
+ "con_transcripcion": 423,
+ "con_invitado_vinculado": 393,
+ "temas": {
+  "Elecciones 2027": 29,
+  "MC": 19,
+  "Federal": 75,
+  "MORENA": 345,
+  "PRI": 106,
+  "Gobierno de Hidalgo": 54,
+  "PAN": 19,
+  "Pachuca": 153,
+  "Movilidad y obras": 30,
+  "Presupuesto y dinero público": 12,
+  "Poder Judicial": 49,
+  "PT": 27,
+  "Seguridad": 10
+ },
+ "hashtags_top": [
+  [
+   "hidalgo",
+   634
+  ],
+  [
+   "morena",
+   306
+  ],
+  [
+   "mexico",
+   213
+  ],
+  [
+   "politica",
+   174
+  ],
+  [
+   "fyp",
+   171
+  ],
+  [
+   "loshdp",
+   167
+  ],
+  [
+   "podcast",
+   163
+  ],
+  [
+   "pachuca",
+   145
+  ],
+  [
+   "eladoptado",
+   135
+  ],
+  [
+   "tiktoknews",
+   107
+  ],
+  [
+   "podcastmexico",
+   95
+  ],
+  [
+   "pri",
+   69
+  ],
+  [
+   "huejutla",
+   58
+  ],
+  [
+   "presidentemunicipal",
+   58
+  ],
+  [
+   "movimientociudadano",
+   54
+  ],
+  [
+   "podcaster",
+   52
+  ],
+  [
+   "fypシ",
+   50
+  ],
+  [
+   "adoptada",
+   45
+  ],
+  [
+   "respiraaspira",
+   44
+  ],
+  [
+   "capcut_edit",
+   43
+  ],
+  [
+   "diputadofederal",
+   38
+  ],
+  [
+   "presidentamunicipal",
+   36
+  ],
+  [
+   "diputadolocal",
+   34
+  ],
+  [
+   "viralvideos",
+   33
+  ],
+  [
+   "loshijosdelacalle",
+   33
+  ],
+  [
+   "tiktokviral",
+   33
+  ],
+  [
+   "4t",
+   32
+  ],
+  [
+   "viralditiktok",
+   30
+  ],
+  [
+   "elanal",
+   29
+  ],
+  [
+   "lareyna",
+   29
+  ]
+ ]
+}

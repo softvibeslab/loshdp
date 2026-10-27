@@ -1,0 +1,377 @@
+{
+ "fecha_corte": "2026-10-24",
+ "canales": {
+  "facebook": {
+   "seguidores": 44089,
+   "hablando_de_esto": 12390
+  },
+  "tiktok": {
+   "seguidores": 13500,
+   "likes": 94200,
+   "videos": 780
+  },
+  "instagram": {
+   "seguidores": 2147,
+   "posts": 1089,
+   "siguiendo": 1169
+  },
+  "youtube": {
+   "suscriptores": 951,
+   "episodios": 98,
+   "shorts": 329,
+   "vistas_episodios": 72282,
+   "vistas_shorts": 124051
+  },
+  "spotify": {
+   "rating": 5,
+   "num_ratings": 2,
+   "ultimo_ep": {
+    "titulo": "Marco Antonio Mendoza Presidente del CDE del PRI en Hidalgo - El Adoptado Ep59- Los HDP",
+    "fecha": "2026-07-16",
+    "duracion_min": 109,
+    "has_video": false
+   }
+  }
+ },
+ "audiencia_total_seguidores": 60687,
+ "episodios_por_segmento": {
+  "Mesa HDP": 27,
+  "El Adoptado": 56,
+  "Teaser": 1,
+  "El Adoptado Judicial": 12,
+  "Los Jubilados del Pueblo": 1,
+  "¿A poco sí?": 1
+ },
+ "mediana_vistas_por_segmento": {
+  "Mesa HDP": 247,
+  "El Adoptado": 569.0,
+  "Teaser": 287,
+  "El Adoptado Judicial": 307.0,
+  "Los Jubilados del Pueblo": 350,
+  "¿A poco sí?": 362
+ },
+ "invitados_unicos": 68,
+ "partidos": {
+  "null": 27,
+  "PAN": 3,
+  "MORENA": 25,
+  "PRI": 4,
+  "MC": 6,
+  "PT": 3,
+  "SOMOS": 1
+ },
+ "cargos": {
+  "Presidencia municipal": 14,
+  "null": 8,
+  "Gabinete estatal/federal": 6,
+  "Poder Judicial (candidatura)": 12,
+  "Dirigencia partidista": 5,
+  "Senado": 3,
+  "Regiduría": 3,
+  "Periodismo / sociedad civil": 4,
+  "Diputación federal": 5,
+  "Diputación local": 9
+ },
+ "municipios": {
+  "Ixmiquilpan": 3,
+  "Huejutla": 5,
+  "Pachuca": 21,
+  "Villa de Tezontepec": 1,
+  "Tulancingo": 3,
+  "Actopan": 2,
+  "Mineral de la Reforma": 1,
+  "Zimapán": 1,
+  "Cardonal": 1,
+  "Huichapan": 1,
+  "Mineral del Monte": 1,
+  "Tepeji del Río": 1,
+  "Singuilucan": 1,
+  "Zacualtipán": 1,
+  "Molango": 1,
+  "Acaxochitlán": 1,
+  "Epazoyucan": 1,
+  "Tlanchinol": 1
+ },
+ "horas_grabadas": 107.5,
+ "numeracion": {
+  "repetidos": [],
+  "faltantes": [
+   89
+  ]
+ },
+ "shorts_titulo_solo_fecha": 206,
+ "shorts_mediana_vistas": 181,
+ "top_episodios": [
+  {
+   "fecha": "2024-07-07",
+   "youtube_id": "HFk21I0wjpo",
+   "url": "https://www.youtube.com/watch?v=HFk21I0wjpo",
+   "ep_titulo": null,
+   "segmento": "Mesa HDP",
+   "invitado": null,
+   "rol": null,
+   "cargo": null,
+   "partido": null,
+   "municipio": null,
+   "dur_min": 29,
+   "vistas": 7638,
+   "likes": 112,
+   "comentarios": 5,
+   "engagement_pct": 1.53,
+   "titulo": "LOS HDP-NOMAMS CON ALITO MORENO Y SU ACAPARE AL PRI"
+  },
+  {
+   "fecha": "2025-10-25",
+   "youtube_id": "00U797MtT1U",
+   "url": "https://www.youtube.com/watch?v=00U797MtT1U",
+   "ep_titulo": 55,
+   "segmento": "El Adoptado",
+   "invitado": "Carolina Viggiano",
+   "rol": "Senadora por Hidalgo y Secretaria Nacional del PRI",
+   "cargo": "Senado",
+   "partido": "PRI",
+   "municipio": null,
+   "dur_min": 111,
+   "vistas": 6152,
+   "likes": 74,
+   "comentarios": 14,
+   "engagement_pct": 1.43,
+   "titulo": "Carolina Viggiano, Senadora por Hidalgo y Secretaria Nacional del PRI - La Adoptada Ep55 - Los HDP"
+  },
+  {
+   "fecha": "2025-10-30",
+   "youtube_id": "jt5XHvfdqQw",
+   "url": "https://www.youtube.com/watch?v=jt5XHvfdqQw",
+   "ep_titulo": 57,
+   "segmento": "El Adoptado",
+   "invitado": "José Antonio Rojo",
+   "rol": "grupo Huichapan",
+   "cargo": "Periodismo / sociedad civil",
+   "partido": "PRI",
+   "municipio": "Huichapan",
+   "dur_min": 99,
+   "vistas": 4493,
+   "likes": 81,
+   "comentarios": 9,
+   "engagement_pct": 2.0,
+   "titulo": "José Antonio Rojo, grupo Huichapan  - El Adoptado Ep57 - Los HDP"
+  },
+  {
+   "fecha": "2025-02-24",
+   "youtube_id": "hQMX2v8Q5yI",
+   "url": "https://www.youtube.com/watch?v=hQMX2v8Q5yI",
+   "ep_titulo": 17,
+   "segmento": "El Adoptado",
+   "invitado": "Miguel Tello",
+   "rol": "Secretario de Planeación de Gobierno de Hidalgo",
+   "cargo": "Gabinete estatal/federal",
+   "partido": "MORENA",
+   "municipio": null,
+   "dur_min": 100,
+   "vistas": 2630,
+   "likes": 38,
+   "comentarios": 14,
+   "engagement_pct": 1.98,
+   "titulo": "Miguel Tello, Secretario de Planeación de Gobierno de Hidalgo - El Adoptado Ep.17 - Los HDP"
+  },
+  {
+   "fecha": "2025-10-27",
+   "youtube_id": "pPNTAGaLmDQ",
+   "url": "https://www.youtube.com/watch?v=pPNTAGaLmDQ",
+   "ep_titulo": 56,
+   "segmento": "El Adoptado",
+   "invitado": "Karla Hernández Cerroblanco",
+   "rol": "Presidenta Municipal de Cardonal, Hidalgo",
+   "cargo": "Presidencia municipal",
+   "partido": null,
+   "municipio": "Cardonal",
+   "dur_min": 82,
+   "vistas": 2403,
+   "likes": 45,
+   "comentarios": 5,
+   "engagement_pct": 2.08,
+   "titulo": "Karla Hernández Cerroblanco, Presidenta Municipal de Cardonal, Hidalgo - La Adoptada Ep56 - Los HDP"
+  },
+  {
+   "fecha": "2025-11-19",
+   "youtube_id": "9v9SIdP7Dew",
+   "url": "https://www.youtube.com/watch?v=9v9SIdP7Dew",
+   "ep_titulo": 62,
+   "segmento": "El Adoptado",
+   "invitado": "Jorge Reyes",
+   "rol": "Alcalde de Pachuca, Hgo. La capital de la transformació",
+   "cargo": "Presidencia municipal",
+   "partido": "MORENA",
+   "municipio": "Pachuca",
+   "dur_min": 90,
+   "vistas": 2397,
+   "likes": 55,
+   "comentarios": 19,
+   "engagement_pct": 3.09,
+   "titulo": "Jorge Reyes, Alcalde de Pachuca, Hgo. La capital de la transformació - El Adoptado Ep62 - Los HDP"
+  },
+  {
+   "fecha": "2025-11-18",
+   "youtube_id": "EOogVkQxOk8",
+   "url": "https://www.youtube.com/watch?v=EOogVkQxOk8",
+   "ep_titulo": 61,
+   "segmento": "El Adoptado",
+   "invitado": "José Alfredo San Roman \"El Carretas\"",
+   "rol": null,
+   "cargo": "Presidencia municipal",
+   "partido": null,
+   "municipio": "Huejutla",
+   "dur_min": 119,
+   "vistas": 2125,
+   "likes": 35,
+   "comentarios": 2,
+   "engagement_pct": 1.74,
+   "titulo": "José Alfredo San Roman \"El Carretas\" - El Adoptado Ep61 - Los HDP"
+  },
+  {
+   "fecha": "2025-10-09",
+   "youtube_id": "ZKFr80g7uYw",
+   "url": "https://www.youtube.com/watch?v=ZKFr80g7uYw",
+   "ep_titulo": 52,
+   "segmento": "El Adoptado",
+   "invitado": "Emmanuel Hdz \"El Chino\"",
+   "rol": "Presidente Municipal de Ixmiquilpan, Hgo.",
+   "cargo": "Presidencia municipal",
+   "partido": null,
+   "municipio": "Ixmiquilpan",
+   "dur_min": 93,
+   "vistas": 1885,
+   "likes": 55,
+   "comentarios": 6,
+   "engagement_pct": 3.24,
+   "titulo": "Emmanuel Hdz \"El Chino\" , Presidente Municipal de Ixmiquilpan, Hgo. - El Adoptado Ep52 - Los HDP"
+  },
+  {
+   "fecha": "2025-02-22",
+   "youtube_id": "GGTIP1OlwHc",
+   "url": "https://www.youtube.com/watch?v=GGTIP1OlwHc",
+   "ep_titulo": 16,
+   "segmento": "El Adoptado",
+   "invitado": "Miguel González",
+   "rol": "el presidente que demandó a sus regidores",
+   "cargo": "Presidencia municipal",
+   "partido": null,
+   "municipio": "Villa de Tezontepec",
+   "dur_min": 65,
+   "vistas": 1843,
+   "likes": 18,
+   "comentarios": 6,
+   "engagement_pct": 1.3,
+   "titulo": "Miguel González, el presidente que demandó a sus regidores - El Adoptado Ep.16 - Los HDP"
+  },
+  {
+   "fecha": "2025-06-05",
+   "youtube_id": "V2HYlGyn5PU",
+   "url": "https://www.youtube.com/watch?v=V2HYlGyn5PU",
+   "ep_titulo": 34,
+   "segmento": "El Adoptado",
+   "invitado": "Cuauhtémoc Ochoa",
+   "rol": "Senador de MORENA por Hidalgo",
+   "cargo": "Senado",
+   "partido": "MORENA",
+   "municipio": null,
+   "dur_min": 94,
+   "vistas": 1679,
+   "likes": 24,
+   "comentarios": 3,
+   "engagement_pct": 1.61,
+   "titulo": "Cuauhtémoc Ochoa, Senador de MORENA por Hidalgo - El Adoptado Ep.34 - Los HDP"
+  }
+ ],
+ "top_tiktok": [
+  {
+   "post_id": "7489328260699016503",
+   "fecha": "2025-04-04",
+   "playcount": 340900,
+   "likes": 17100,
+   "comments": 848,
+   "shares": 2530,
+   "saves": 1340,
+   "pinned": true,
+   "desc": "El tráfico en Pachuca al sur de la ciudad está de locos y el gobierno en lugar de proponer una solución viable… solamente colocó patrullas"
+  },
+  {
+   "post_id": "7547838269657042194",
+   "fecha": "2025-09-08",
+   "playcount": 255600,
+   "likes": 7554,
+   "comments": 102,
+   "shares": 383,
+   "saves": 584,
+   "pinned": true,
+   "desc": "¿Es Claudia? o ¡Es Claudia, una pequeña refrescada de memoria, de quien manda en México"
+  },
+  {
+   "post_id": "7545589435904052498",
+   "fecha": "2025-09-02",
+   "playcount": 142700,
+   "likes": 3326,
+   "comments": 58,
+   "shares": 421,
+   "saves": 376,
+   "pinned": true,
+   "desc": "El bastón que le obsequiamos al Presidente de la República, fue histórico y llegó a ser trascendental"
+  }
+ ],
+ "facebook_videos_recientes": [
+  {
+   "reproducciones": 3750,
+   "texto": "Semáforo Inteligente 🧐 \n\n#JorgeReyes #PresidenteMunicipal #Pachuca #Morena #Hidalgo",
+   "dur_seg": 138,
+   "fecha": "2026-10-24"
+  },
+  {
+   "reproducciones": 2099,
+   "texto": "No se sulfuren y mejor excítense muy pronto con este nuevo episodio del que  RESPIRA ASPIRA",
+   "dur_seg": 26,
+   "fecha": "2026-10-24"
+  },
+  {
+   "reproducciones": 807,
+   "texto": "Espero que se de esa coalición \n\n#MiguelM #DiputadoLocal #Actopan #Morena #Hidalgo",
+   "dur_seg": 60,
+   "fecha": "2026-10-23"
+  },
+  {
+   "reproducciones": 4835,
+   "texto": "El bacheo en Pachuca \n\n#JorgeReyes #PresidenteMunicipal #Pachuca #Morena #Hidalgo",
+   "dur_seg": 68,
+   "fecha": "2026-10-23"
+  },
+  {
+   "reproducciones": 863,
+   "texto": "Mediciones lógicas 🫶🏻 \n\n#AcertijoCardenas #Hidalgo #ANAL-isis #LosHDP #SinSulfurarse",
+   "dur_seg": 45,
+   "fecha": "2026-10-23"
+  },
+  {
+   "reproducciones": 17346,
+   "texto": "Hijos del purísimo pueblo hidalguense, esto es algo letal y mortal.\n\n\"El que Respira... Aspira\"\n\nToño “El Águila Real” Mandujano nos dijo que busca ser Presidente Municipal de #Huejutla.\n\n¡Azúcar!",
+   "dur_seg": 1777,
+   "fecha": "2026-10-23"
+  },
+  {
+   "reproducciones": 941,
+   "texto": "¿Quién eres? \n\n#AcertijoCardenas #Hidalgo #ANAL-isis #LosHDP #SinSulfurarse",
+   "dur_seg": 75,
+   "fecha": "2026-10-23"
+  },
+  {
+   "reproducciones": 1849,
+   "texto": "Camiones de la basura con GPS en Pachuca 👀 \n\n#JorgeReyes #PresidenteMunicipal #Pachuca #Morena #Hidalgo",
+   "dur_seg": 46,
+   "fecha": "2026-10-23"
+  },
+  {
+   "reproducciones": 1606,
+   "texto": "Un ANAL-isis político con Paco “El Acertijo” Cárdenas \n\n#AcertijoCardenas #Hidalgo #ANAL-isis #LosHDP #SinSulfurarse",
+   "dur_seg": 38,
+   "fecha": "2026-10-23"
+  }
+ ]
+}

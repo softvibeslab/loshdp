@@ -1,0 +1,69 @@
+---
+title: "Formato · El Adoptado"
+type: "formato"
+description: "56 episodios · mediana de 569 vistas en YouTube"
+---
+# Formato · El Adoptado
+
+La entrevista insignia: de una a dos horas y media con alcaldes, diputados, senadores, dirigentes y personajes de Hidalgo. Al final, el invitado queda «adoptado» y con apodo.
+
+- **Episodios:** 56 · **Mediana de vistas en YouTube:** 569
+
+## Episodios
+
+- [[2024-02-05_daniel-andrade]] · 2024-02-05
+- [[2024-03-16_roberto-alameda]] · 2024-03-16
+- [[2024-05-01_jose-francisco-olvera-ruiz]] · 2024-05-01
+- [[2025-02-07_pepe-sandoval-acento]] · 2025-02-07
+- [[2025-02-17_memo-peredo]] · 2025-02-17
+- [[2025-02-22_miguel-gonzalez]] · 2025-02-22
+- [[2025-02-24_miguel-tello]] · 2025-02-24
+- [[2025-05-10_marco-rico]] · 2025-05-10
+- [[2025-06-05_cuauhtemoc-ochoa]] · 2025-06-05
+- [[2025-06-14_jorge-lara]] · 2025-06-14
+- [[2025-06-24_omar-angeles]] · 2025-06-24
+- [[2025-07-13_pablo-gomez]] · 2025-07-13
+- [[2025-07-23_abraham-mendoza-zenteno]] · 2025-07-23
+- [[2025-08-03_compa-nato]] · 2025-08-03
+- [[2025-08-07_agustin-torres-delgado]] · 2025-08-07
+- [[2025-08-12_daniel-andrade-zurutuza]] · 2025-08-12
+- [[2025-08-30_karla-mota-y-erika-tello-mujeres-de-lucha-naranjas-mc]] · 2025-08-30
+- [[2025-09-09_cynthia-delgado]] · 2025-09-09
+- [[2025-10-03_tono-salim]] · 2025-10-03
+- [[2025-10-07_kitty-larragoiti]] · 2025-10-07
+- [[2025-10-08_onesimo-serrano]] · 2025-10-08
+- [[2025-10-09_emmanuel-hdz-el-chino]] · 2025-10-09
+- [[2025-10-18_rosario-guerrero-chayo]] · 2025-10-18
+- [[2025-10-20_adriana-flores]] · 2025-10-20
+- [[2025-10-25_carolina-viggiano]] · 2025-10-25
+- [[2025-10-27_karla-hernandez-cerroblanco]] · 2025-10-27
+- [[2025-10-30_jose-antonio-rojo]] · 2025-10-30
+- [[2025-11-05_andres-torres]] · 2025-11-05
+- [[2025-11-14_lisset-marcelino-tovar]] · 2025-11-14
+- [[2025-11-14_edmundo-mendez-tejeda]] · 2025-11-14
+- [[2025-11-18_jose-alfredo-san-roman-el-carretas]] · 2025-11-18
+- [[2025-11-19_jorge-reyes]] · 2025-11-19
+- [[2025-11-21_susana-angeles]] · 2025-11-21
+- [[2025-11-26_tania-valdez-cuellar]] · 2025-11-26
+- [[2025-11-28_natividad-castrejon]] · 2025-11-28
+- [[2025-12-02_karla-perales]] · 2025-12-02
+- [[2025-12-09_jose-luis-zuniga]] · 2025-12-09
+- [[2025-12-16_asael-hernandez]] · 2025-12-16
+- [[2025-12-19_ricardo-crespo]] · 2025-12-19
+- [[2025-12-29_yazmin-davila]] · 2025-12-29
+- [[2026-01-12_alma-lidia-de-la-vega]] · 2026-01-12
+- [[2026-02-14_amado-perez-el-tigre]] · 2026-02-14
+- [[2026-02-25_isabel-ramirez-mercado]] · 2026-02-25
+- [[2026-03-06_alejandro-alcantara]] · 2026-03-06
+- [[2026-03-20_erik-carbajal]] · 2026-03-20
+- [[2026-03-31_luis-osorio-chong]] · 2026-03-31
+- [[2026-04-07_marco-antonio-mendoza]] · 2026-04-07
+- [[2026-06-14_damian-sosa-castelan]] · 2026-06-14
+- [[2026-07-30_miguel-angel-tello]] · 2026-07-30
+- [[2026-07-30_omar-zeron]] · 2026-07-30
+- [[2026-08-15_tania-meza]] · 2026-08-15
+- [[2026-09-23_carlos-montano]] · 2026-09-23
+- [[2026-10-08_celestino-abrego]] · 2026-10-08
+- [[2026-10-10_andres-velazquez]] · 2026-10-10
+- [[2026-10-13_miguel-moreno]] · 2026-10-13
+- [[2026-10-14_navor-rojas]] · 2026-10-14

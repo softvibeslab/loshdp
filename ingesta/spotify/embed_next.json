@@ -1,0 +1,164 @@
+{
+ "props": {
+  "pageProps": {
+   "state": {
+    "data": {
+     "entity": {
+      "type": "episode",
+      "name": "Marco Antonio Mendoza Presidente del CDE del PRI en Hidalgo - El Adoptado Ep59- Los HDP",
+      "uri": "spotify:episode:1tYw0Et0gNdWSX1KAEZzeR",
+      "id": "1tYw0Et0gNdWSX1KAEZzeR",
+      "title": "Marco Antonio Mendoza Presidente del CDE del PRI en Hidalgo - El Adoptado Ep59- Los HDP",
+      "subtitle": "LOS HDP el podcast (los hijos del pueblo)",
+      "releaseDate": {
+       "isoString": "2026-07-16T05:36:00Z"
+      },
+      "duration": 6537587,
+      "isPlayable": true,
+      "playabilityReason": "PLAYABLE",
+      "isExplicit": false,
+      "isNineteenPlus": false,
+      "contentRatings": {
+       "labels": []
+      },
+      "isTrailer": false,
+      "isAudiobook": false,
+      "audioPreview": {
+       "url": "https://p.scdn.co/mp3-preview/18774e887a82ad087852328ed435cae121ab26a1.mp3"
+      },
+      "videoPreview": {
+       "url": ""
+      },
+      "hasVideo": false,
+      "relatedEntityUri": "spotify:show:3rwx7hZbCvJzYxBICuRcuf",
+      "relatedEntityCoverArt": [
+       {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fb3aa3a12733a4ee19da35f3c",
+        "maxHeight": 300,
+        "maxWidth": 300
+       },
+       {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8ab3aa3a12733a4ee19da35f3c",
+        "maxHeight": 640,
+        "maxWidth": 640
+       },
+       {
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000f68db3aa3a12733a4ee19da35f3c",
+        "maxHeight": 64,
+        "maxWidth": 64
+       }
+      ],
+      "visualIdentity": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 32,
+        "green": 16,
+        "red": 144
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 3,
+        "green": 0,
+        "red": 77
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 185,
+        "green": 189,
+        "red": 255
+       },
+       "image": [
+        {
+         "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1ffebec610f34dbf0b4ea4d64d",
+         "maxHeight": 300,
+         "maxWidth": 300
+        },
+        {
+         "url": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000ba8afebec610f34dbf0b4ea4d64d",
+         "maxHeight": 640,
+         "maxWidth": 640
+        },
+        {
+         "url": "https://image-cdn-ak.spotifycdn.com/image/ab6765630000f68dfebec610f34dbf0b4ea4d64d",
+         "maxHeight": 64,
+         "maxWidth": 64
+        }
+       ]
+      },
+      "videoThumbnailImage": null
+     },
+     "embeded_entity_uri": "spotify:show:3rwx7hZbCvJzYxBICuRcuf",
+     "defaultAudioFileObject": {
+      "url": [
+       "https://audio4-fa.scdn.co/audio/c5c319353d17f7fdbd172909b1f1a77141cf9350?1792906585__B7Z1JE7EcisbKOHUAMye7sWMNJeuKvIoebNHojBlnY=",
+       "https://audio4-ak.spotifycdn.com/audio/c5c319353d17f7fdbd172909b1f1a77141cf9350?__token__=exp=1792906585~hmac=170c7215055aaa2d90c43ca53578bd1236076532c49cfb81193612762bf00ee8"
+      ],
+      "format": "MP4_128_CBCS",
+      "passthrough": "NONE",
+      "passthroughUrl": "",
+      "fileId": "c5c319353d17f7fdbd172909b1f1a77141cf9350",
+      "video": []
+     }
+    },
+    "settings": {
+     "rtl": false,
+     "session": {
+      "accessToken": "BQA70ihhzbb3YrukzOJcAriLDN96rqNK7JkdNBWo5qUzo5TeH0xhQ6sQrQPyEEKJWHjhpujPfWP8l45YBaym_1qbXcFVdXs9fYMCsWdtax8VoTUWpJj2qXTYXw2F-GzJ2B0aYIg8VXce",
+      "accessTokenExpirationTimestampMs": 1792822364850,
+      "isAnonymous": true
+     },
+     "entityContext": "show",
+     "clientId": "ab9ad0d96a624805a7d51e8868df1f97",
+     "isMobile": false,
+     "isSafari": false,
+     "isIOS": false,
+     "isTablet": false,
+     "isDarkMode": false
+    },
+    "machineState": {
+     "initialized": false,
+     "showOverflowMenu": false,
+     "playbackMode": "unknown",
+     "currentPreviewTrackIndex": 0,
+     "platformSupportsEncryptedContent": false
+    }
+   },
+   "config": {
+    "correlationId": "d4d37663a344ed6e6aa4543da4380d82",
+    "clientId": "ab9ad0d96a624805a7d51e8868df1f97",
+    "restrictionId": "",
+    "strings": {
+     "en": {
+      "translation": {}
+     }
+    },
+    "locale": "en"
+   },
+   "_sentryTraceData": "51595544294d659f7a9cce0587e7dda8-027fff9d0da6a6a1-0",
+   "_sentryBaggage": "sentry-environment=production,sentry-release=2e5d6b8efa7ec5faac04718ed5a838e3cd8e1041,sentry-public_key=4cc707ab12ea4779b417479c0550a5cb,sentry-trace_id=51595544294d659f7a9cce0587e7dda8,sentry-org_id=22381,sentry-sampled=false,sentry-sample_rand=0.07918213738260871,sentry-sample_rate=0"
+  },
+  "__N_SSP": true
+ },
+ "page": "/show/[id]",
+ "query": {
+  "id": "3rwx7hZbCvJzYxBICuRcuf"
+ },
+ "buildId": "64121cea-3eba-4a6b-9f85-bf9312f037f6",
+ "assetPrefix": "https://embed-cdn.spotifycdn.com",
+ "isFallback": false,
+ "isExperimentalCompile": false,
+ "gssp": true,
+ "scriptLoader": []
+}

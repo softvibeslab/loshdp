@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Los HDP · Links</title>
+<meta name="theme-color" content="#0d0d0d">
+<link rel="icon" href="../img/marca/logo.jpg">
+<link rel="manifest" href="../manifest.json">
+<link rel="apple-touch-icon" href="../img/app/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Los HDP">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,900&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--lima:#c0ff72;--tinta:#0d0d0d;--hueso:#f4f2ec}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Inter,system-ui,sans-serif;background:radial-gradient(70% 40% at 50% 0%,rgba(192,255,114,.18),transparent 70%),var(--tinta);color:var(--hueso);min-height:100vh;display:flex;justify-content:center;padding:44px 18px}
+main{width:min(460px,100%);text-align:center}
+img.logo{width:112px;height:112px;border-radius:26px;margin:0 auto 18px;box-shadow:0 0 0 2px var(--lima),0 18px 50px rgba(192,255,114,.25)}
+h1{font-family:"Barlow Condensed",Impact,sans-serif;font-style:italic;font-weight:900;text-transform:uppercase;font-size:2.4rem;line-height:.95}
+p.bio{color:#cfcfcf;margin:10px 0 26px;font-size:.95rem}
+.ultimo{display:block;background:#222;border:1px solid rgba(192,255,114,.4);border-radius:18px;overflow:hidden;margin-bottom:16px;text-decoration:none;color:inherit;text-align:left}
+.ultimo img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block}
+.ultimo div{padding:12px 14px}
+.ultimo small{color:var(--lima);font-weight:700;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase}
+.ultimo b{display:block;font-family:"Barlow Condensed";font-style:italic;font-weight:900;text-transform:uppercase;font-size:1.4rem;line-height:1}
+a.enlace{display:flex;align-items:center;justify-content:center;gap:10px;padding:16px;border-radius:16px;margin-bottom:12px;font-weight:700;text-decoration:none;color:var(--hueso);background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);transition:transform .2s,background .2s}
+a.enlace:hover{transform:translateY(-2px);background:rgba(192,255,114,.14)}
+a.enlace.principal{background:var(--lima);color:var(--tinta);border-color:var(--lima)}
+footer{margin-top:26px;font-size:.78rem;color:#8a8a8a}
+footer a{color:inherit}
+</style>
+</head>
+<body>
+<main>
+  <img class="logo" src="../img/marca/logo.jpg" alt="Logo de Los HDP el Podcast">
+  <h1>Los HDP el Podcast</h1>
+  <p class="bio">Los Hijos del Pueblo · lo que no se puede decir y como nadie lo puede decir.</p>
+  <a class="ultimo" id="ultimo" href="../#inicio"><img id="ultimo-img" alt=""><div><small>Último episodio</small><b id="ultimo-nombre">—</b></div></a>
+  <a class="enlace principal" href="../#adoptados">🎙️ Todos los episodios</a>
+  <a class="enlace principal" href="../#envivo">🔴 En vivo · agenda y alertas</a>
+  <a class="enlace" href="../#app" id="enlace-app">⬇️ Descarga la app de Los HDP</a>
+  <a class="enlace" href="https://www.facebook.com/profile.php?id=61552864772878" target="_blank" rel="noopener">Facebook</a>
+  <a class="enlace" href="https://www.youtube.com/@loshijos_delpueblopodcast" target="_blank" rel="noopener">YouTube</a>
+  <a class="enlace" href="https://open.spotify.com/show/3rwx7hZbCvJzYxBICuRcuf" target="_blank" rel="noopener">Spotify</a>
+  <a class="enlace" href="https://www.tiktok.com/@los_hijos_delpueblo" target="_blank" rel="noopener">TikTok</a>
+  <a class="enlace" href="https://www.instagram.com/los.hdp.el.podcast/" target="_blank" rel="noopener">Instagram</a>
+  <a class="enlace" href="https://wa.me/527712668105?text=Hola%20Los%20HDP%20%F0%9F%91%8B%20Los%20encontr%C3%A9%20en%20su%20p%C3%A1gina%20de%20links." target="_blank" rel="noopener">💬 WhatsApp</a>
+  <a class="enlace" href="../#adoptame">🙋 ¿Quieres ser adoptado?</a>
+  <a class="enlace" href="../#patrocinio">🤝 Patrocinios</a>
+  <footer>© Los HDP · <a href="../">loshdp</a></footer>
+</main>
+<script src="../data/episodios.js"></script>
+<script>
+  // Viaje del visitante: la red de origen (?o=ig, ?o=tt, ?o=fb…) viaja con cada enlace interno,
+  // y el último episodio se abre en el sitio (no en YouTube) para que la visita se quede en casa.
+  const params = new URLSearchParams(location.search);
+  const o = params.get("o") || (/Instagram/i.test(navigator.userAgent) ? "ig" : /FBAN|FBAV|FB_IAB/i.test(navigator.userAgent) ? "fb" : /musical_ly|TikTok|BytedanceWebview/i.test(navigator.userAgent) ? "tt" : "");
+  const conOrigen = (href, extra = "") => {
+    const [ruta, ancla = ""] = href.split("#");
+    const q = [o && `o=${o}`, extra].filter(Boolean).join("&");
+    return ruta + (q ? "?" + q : "") + (ancla ? "#" + ancla : "");
+  };
+  document.querySelectorAll('a[href^="../"]').forEach(a => { a.href = conOrigen(a.getAttribute("href")); });
+  const e = (window.EPISODIOS || []).find(x => x.segmento !== "Teaser");
+  if (e) {
+    document.getElementById("ultimo-img").src = `../img/ep/${e.youtube_id}.jpg`;
+    document.getElementById("ultimo-nombre").textContent = e.invitado || e.titulo;
+    document.getElementById("ultimo").href = conOrigen("../", `ep=${e.youtube_id}`);
+  }
+  const red = { ig: "Instagram", tt: "TikTok", fb: "Facebook", yt: "YouTube", sp: "Spotify" }[o];
+  const wa = document.querySelector('a[href^="https://wa.me/"]');
+  if (wa && red) wa.href = `https://wa.me/527712668105?text=${encodeURIComponent(`Hola Los HDP 👋 Los encontré en su página de links.\n\n(Llegué desde ${red})`)}`;
+</script>
+</body>
+</html>
